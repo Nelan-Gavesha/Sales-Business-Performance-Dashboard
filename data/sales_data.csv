@@ -1,0 +1,1201 @@
+OrderID,OrderDate,Region,District,City,CustomerSegment,Category,SubCategory,ProductName,Quantity,UnitPrice,Discount,Sales,Profit
+ORD-01150,2024-01-01,Central,Nuwara Eliya,Matale,Consumer,Office Supplies,Writing,Ballpoint Pens,4,465.64,0.0,1862.56,232.9
+ORD-00364,2024-01-01,Northern,Kilinochchi,Jaffna,Consumer,Furniture,Storage,Filing Cabinet,10,33445.29,0.15,284285.0,68372.45
+ORD-00815,2024-01-01,Western,Colombo,Panadura,Consumer,Technology,Computers,Wireless Mouse,2,4505.54,0.0,9011.07,1843.42
+ORD-00288,2024-01-02,Western,Kalutara,Colombo,Consumer,Office Supplies,Writing,Highlighter Set,3,924.78,0.0,2774.35,447.25
+ORD-01129,2024-01-03,Central,Matale,Nuwara Eliya,Consumer,Technology,Computers,Office Laptop,1,184687.24,0.2,147749.79,32604.69
+ORD-00818,2024-01-03,Western,Colombo,Panadura,Corporate,Furniture,Chairs,Ergonomic Chair,2,45210.47,0.1,81378.84,4841.01
+ORD-01034,2024-01-04,Eastern,Ampara,Ampara,Consumer,Technology,Phones,Wireless Earbuds,6,13139.52,0.15,67011.57,8338.39
+ORD-01048,2024-01-04,Western,Colombo,Colombo,Small Business,Furniture,Desks,Compact Desk,5,23948.05,0.1,107766.22,16472.15
+ORD-00438,2024-01-05,Central,Kandy,Matale,Small Business,Furniture,Desks,Standing Desk,1,77387.54,0.0,77387.54,13560.78
+ORD-00045,2024-01-05,Western,Colombo,Panadura,Consumer,Furniture,Storage,Bookshelf,3,29874.76,0.0,89624.27,22125.54
+ORD-00025,2024-01-05,Southern,Hambantota,Galle,Corporate,Technology,Accessories,Keyboard,6,6816.54,0.0,40899.21,8083.65
+ORD-00421,2024-01-06,Eastern,Ampara,Ampara,Consumer,Technology,Accessories,USB-C Hub,1,8436.34,0.0,8436.34,545.64
+ORD-00888,2024-01-06,Western,Kalutara,Negombo,Consumer,Furniture,Storage,Bookshelf,6,29162.48,0.1,157477.41,34721.17
+ORD-01068,2024-01-06,Southern,Galle,Tangalle,Corporate,Technology,Computers,Wireless Mouse,2,4239.19,0.05,8054.47,1784.74
+ORD-00006,2024-01-06,Southern,Hambantota,Matara,Corporate,Technology,Phones,Wireless Earbuds,4,12910.33,0.1,46477.19,5296.61
+ORD-01176,2024-01-07,Eastern,Trincomalee,Ampara,Small Business,Furniture,Storage,Storage Box,4,4393.47,0.0,17573.9,3793.91
+ORD-00965,2024-01-07,Western,Colombo,Negombo,Corporate,Technology,Accessories,Laptop Stand,3,7081.66,0.05,20182.72,936.75
+ORD-00356,2024-01-08,Western,Gampaha,Negombo,Small Business,Furniture,Desks,Writing Desk,3,38616.59,0.0,115849.76,29029.71
+ORD-00310,2024-01-09,Western,Gampaha,Panadura,Small Business,Technology,Phones,Budget Smartphone,2,68274.71,0.0,136549.42,11933.36
+ORD-00206,2024-01-09,Western,Gampaha,Colombo,Corporate,Office Supplies,Organizers,Document Folder,8,585.72,0.2,3748.6,588.8
+ORD-00980,2024-01-10,Central,Matale,Kandy,Consumer,Furniture,Chairs,Office Chair,5,28314.96,0.0,141574.82,28504.11
+ORD-00911,2024-01-10,Central,Matale,Nuwara Eliya,Consumer,Technology,Computers,Office Laptop,8,209965.79,0.0,1679726.29,169048.28
+ORD-00910,2024-01-11,Western,Gampaha,Panadura,Consumer,Furniture,Desks,Standing Desk,10,72476.34,0.0,724763.41,94735.8
+ORD-00537,2024-01-11,Western,Gampaha,Negombo,Corporate,Office Supplies,Paper,Notebook Set,5,1586.84,0.05,7537.48,895.47
+ORD-00628,2024-01-11,Western,Gampaha,Negombo,Consumer,Technology,Accessories,Laptop Stand,3,6981.58,0.1,18850.27,1243.06
+ORD-00887,2024-01-12,Northern,Jaffna,Kilinochchi,Corporate,Technology,Phones,Smartphone X,8,141350.2,0.05,1074261.52,207126.65
+ORD-01069,2024-01-12,Western,Colombo,Colombo,Small Business,Technology,Accessories,Laptop Stand,1,7015.84,0.0,7015.84,700.38
+ORD-00086,2024-01-13,Central,Nuwara Eliya,Kandy,Small Business,Technology,Accessories,Laptop Stand,3,6770.2,0.15,17264.01,3464.6
+ORD-00185,2024-01-13,Central,Kandy,Matale,Corporate,Furniture,Chairs,Ergonomic Chair,2,42528.25,0.0,85056.51,23298.35
+ORD-00503,2024-01-13,Southern,Galle,Matara,Consumer,Technology,Computers,Laptop Pro,1,281835.81,0.0,281835.81,24138.22
+ORD-00575,2024-01-14,Western,Kalutara,Panadura,Consumer,Furniture,Chairs,Ergonomic Chair,1,43245.32,0.0,43245.32,3605.27
+ORD-00679,2024-01-14,Eastern,Ampara,Trincomalee,Corporate,Office Supplies,Organizers,Desk Organizer,3,2264.67,0.1,6114.6,690.76
+ORD-00833,2024-01-14,Eastern,Ampara,Batticaloa,Consumer,Furniture,Storage,Storage Box,10,3958.74,0.0,39587.43,9981.66
+ORD-00464,2024-01-15,Northern,Kilinochchi,Mannar,Consumer,Office Supplies,Organizers,Document Folder,3,558.41,0.15,1423.94,177.47
+ORD-00081,2024-01-16,Southern,Galle,Galle,Consumer,Technology,Phones,Smartphone X,1,134125.78,0.0,134125.78,21652.31
+ORD-01147,2024-01-17,Northern,Jaffna,Kilinochchi,Small Business,Technology,Accessories,USB-C Hub,3,8749.62,0.2,20999.09,1403.19
+ORD-00847,2024-01-18,Central,Nuwara Eliya,Kandy,Small Business,Office Supplies,Writing,Ballpoint Pens,3,481.04,0.0,1443.13,313.67
+ORD-00790,2024-01-18,Western,Kalutara,Panadura,Consumer,Furniture,Desks,Writing Desk,4,34204.18,0.0,136816.71,24237.99
+ORD-00983,2024-01-18,Southern,Galle,Matara,Corporate,Technology,Accessories,Keyboard,5,6417.56,0.05,30483.42,4459.21
+ORD-00512,2024-01-18,Eastern,Trincomalee,Ampara,Consumer,Furniture,Desks,Writing Desk,3,38224.62,0.0,114673.85,26437.15
+ORD-00530,2024-01-19,Central,Nuwara Eliya,Matale,Consumer,Furniture,Chairs,Office Chair,5,24576.84,0.05,116739.98,22098.56
+ORD-00285,2024-01-19,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Furniture,Storage,Filing Cabinet,4,31838.24,0.15,108250.0,10022.71
+ORD-00539,2024-01-19,Southern,Hambantota,Tangalle,Corporate,Office Supplies,Paper,A4 Paper Pack,4,1671.49,0.05,6351.65,1213.03
+ORD-00184,2024-01-20,Northern,Jaffna,Mannar,Small Business,Technology,Phones,Budget Smartphone,4,66409.83,0.1,239075.38,31069.0
+ORD-00245,2024-01-20,Central,Matale,Nuwara Eliya,Consumer,Technology,Accessories,USB-C Hub,2,9161.0,0.0,18322.0,1256.63
+ORD-00918,2024-01-20,Northern,Jaffna,Jaffna,Consumer,Technology,Accessories,Laptop Stand,1,7236.11,0.0,7236.11,1458.67
+ORD-00773,2024-01-23,Central,Nuwara Eliya,Nuwara Eliya,Small Business,Furniture,Storage,Filing Cabinet,3,30899.47,0.15,78793.65,4253.04
+ORD-00791,2024-01-23,Northern,Kilinochchi,Mannar,Corporate,Office Supplies,Organizers,Document Folder,3,511.22,0.1,1380.3,283.78
+ORD-00239,2024-01-23,Eastern,Trincomalee,Ampara,Corporate,Technology,Computers,Office Laptop,3,201971.06,0.15,515026.2,74868.62
+ORD-00270,2024-01-23,Western,Gampaha,Colombo,Corporate,Furniture,Chairs,Visitor Chair,4,15072.42,0.05,57275.19,10702.89
+ORD-00446,2024-01-24,Southern,Matara,Matara,Corporate,Office Supplies,Paper,Sticky Notes,4,604.98,0.0,2419.94,349.8
+ORD-00439,2024-01-24,Western,Gampaha,Panadura,Consumer,Technology,Phones,Budget Smartphone,2,65379.46,0.0,130758.92,30943.2
+ORD-00862,2024-01-25,Western,Colombo,Panadura,Consumer,Furniture,Storage,Bookshelf,6,27924.96,0.0,167549.76,33052.78
+ORD-00290,2024-01-25,Western,Colombo,Panadura,Consumer,Furniture,Chairs,Visitor Chair,4,15282.73,0.0,61130.92,15530.74
+ORD-00346,2024-01-25,Western,Gampaha,Panadura,Consumer,Furniture,Chairs,Office Chair,1,25188.68,0.05,23929.25,4600.75
+ORD-00101,2024-01-27,Central,Nuwara Eliya,Kandy,Small Business,Technology,Phones,Smartphone X,4,145409.75,0.05,552557.04,74895.82
+ORD-00146,2024-01-27,Southern,Matara,Matara,Consumer,Furniture,Desks,Writing Desk,10,38642.16,0.0,386421.55,83187.03
+ORD-00638,2024-01-28,Northern,Kilinochchi,Mannar,Consumer,Technology,Phones,Budget Smartphone,3,68205.12,0.15,173923.06,25518.84
+ORD-01033,2024-01-28,Western,Colombo,Panadura,Corporate,Furniture,Chairs,Ergonomic Chair,2,41204.07,0.05,78287.74,5183.1
+ORD-00331,2024-01-29,Northern,Kilinochchi,Mannar,Consumer,Technology,Phones,Wireless Earbuds,1,13492.03,0.0,13492.03,2792.06
+ORD-00468,2024-01-30,Western,Kalutara,Colombo,Consumer,Technology,Phones,Budget Smartphone,5,69284.67,0.0,346423.36,43570.66
+ORD-00048,2024-01-31,Southern,Galle,Matara,Small Business,Furniture,Chairs,Ergonomic Chair,4,39803.42,0.0,159213.68,15981.44
+ORD-00221,2024-01-31,Central,Kandy,Nuwara Eliya,Consumer,Furniture,Chairs,Ergonomic Chair,1,41963.71,0.0,41963.71,4719.35
+ORD-00665,2024-01-31,Western,Colombo,Panadura,Consumer,Technology,Phones,Wireless Earbuds,4,12511.66,0.05,47544.32,8293.05
+ORD-00681,2024-01-31,Western,Colombo,Panadura,Small Business,Furniture,Storage,Bookshelf,2,29576.07,0.2,47321.71,10721.83
+ORD-00099,2024-02-01,Central,Nuwara Eliya,Matale,Small Business,Office Supplies,Paper,Sticky Notes,1,691.2,0.0,691.2,81.7
+ORD-00571,2024-02-02,Central,Matale,Kandy,Consumer,Office Supplies,Writing,Ballpoint Pens,3,470.55,0.0,1411.66,374.29
+ORD-00573,2024-02-03,Northern,Jaffna,Jaffna,Consumer,Office Supplies,Writing,Ballpoint Pens,1,472.46,0.1,425.21,89.52
+ORD-00936,2024-02-04,Western,Kalutara,Colombo,Corporate,Technology,Computers,Wireless Mouse,4,4165.96,0.1,14997.47,2525.65
+ORD-00477,2024-02-04,Northern,Mannar,Mannar,Corporate,Office Supplies,Paper,Notebook Set,2,1512.18,0.1,2721.93,320.55
+ORD-01174,2024-02-05,Western,Gampaha,Negombo,Consumer,Technology,Accessories,Laptop Stand,4,6784.5,0.0,27138.01,2053.43
+ORD-00935,2024-02-05,Northern,Kilinochchi,Jaffna,Consumer,Technology,Accessories,Laptop Stand,3,7455.63,0.15,19011.87,2786.2
+ORD-00767,2024-02-06,Southern,Matara,Matara,Consumer,Office Supplies,Paper,Sticky Notes,1,694.98,0.15,590.73,128.44
+ORD-00906,2024-02-06,Central,Nuwara Eliya,Kandy,Consumer,Furniture,Desks,Compact Desk,10,24622.82,0.0,246228.19,26819.15
+ORD-00229,2024-02-07,Eastern,Trincomalee,Ampara,Consumer,Technology,Accessories,Keyboard,3,6137.87,0.0,18413.62,2752.35
+ORD-00077,2024-02-07,Western,Kalutara,Panadura,Consumer,Technology,Phones,Smartphone X,3,145373.24,0.0,436119.71,15792.46
+ORD-00834,2024-02-07,Eastern,Ampara,Trincomalee,Small Business,Office Supplies,Organizers,Document Folder,2,563.34,0.0,1126.68,269.28
+ORD-00963,2024-02-08,Western,Gampaha,Negombo,Consumer,Office Supplies,Organizers,Desk Organizer,4,2107.93,0.0,8431.72,1188.08
+ORD-01106,2024-02-08,Southern,Hambantota,Matara,Consumer,Technology,Accessories,Laptop Stand,3,7516.92,0.1,20295.67,2870.01
+ORD-00805,2024-02-09,Southern,Matara,Matara,Corporate,Technology,Accessories,Laptop Stand,4,6916.47,0.0,27665.89,3034.95
+ORD-00248,2024-02-11,Northern,Jaffna,Jaffna,Small Business,Technology,Phones,Wireless Earbuds,2,12596.55,0.0,25193.09,5039.01
+ORD-00456,2024-02-12,Western,Kalutara,Panadura,Corporate,Furniture,Chairs,Ergonomic Chair,5,44824.84,0.0,224124.18,59782.54
+ORD-00929,2024-02-12,Eastern,Ampara,Trincomalee,Consumer,Office Supplies,Organizers,File Binder,3,882.34,0.15,2249.97,528.04
+ORD-01032,2024-02-12,Southern,Hambantota,Tangalle,Consumer,Technology,Phones,Wireless Earbuds,1,12715.08,0.1,11443.58,1989.97
+ORD-00868,2024-02-13,Central,Kandy,Matale,Small Business,Technology,Accessories,Laptop Stand,10,7043.96,0.15,59873.64,2628.44
+ORD-00893,2024-02-13,Western,Gampaha,Colombo,Corporate,Office Supplies,Writing,Marker Set,1,1137.46,0.1,1023.71,173.15
+ORD-00257,2024-02-13,Southern,Matara,Galle,Corporate,Furniture,Chairs,Visitor Chair,2,15094.2,0.2,24150.72,1721.6
+ORD-00437,2024-02-13,Western,Colombo,Negombo,Corporate,Furniture,Desks,Standing Desk,2,76947.66,0.0,153895.33,27443.03
+ORD-00130,2024-02-13,Central,Kandy,Nuwara Eliya,Consumer,Office Supplies,Writing,Marker Set,3,1141.53,0.1,3082.14,293.11
+ORD-00777,2024-02-15,Central,Kandy,Nuwara Eliya,Small Business,Furniture,Desks,Standing Desk,2,76134.5,0.0,152269.0,21830.13
+ORD-00402,2024-02-15,Southern,Galle,Tangalle,Consumer,Furniture,Chairs,Ergonomic Chair,2,41514.91,0.0,83029.82,17509.55
+ORD-00612,2024-02-15,Northern,Kilinochchi,Mannar,Corporate,Office Supplies,Organizers,Document Folder,3,512.57,0.1,1383.95,284.59
+ORD-00894,2024-02-16,Northern,Jaffna,Mannar,Corporate,Office Supplies,Organizers,File Binder,4,810.16,0.15,2754.53,360.64
+ORD-01198,2024-02-17,Western,Colombo,Colombo,Small Business,Technology,Accessories,Laptop Stand,2,7311.77,0.0,14623.53,2452.76
+ORD-00055,2024-02-18,Western,Gampaha,Negombo,Consumer,Technology,Accessories,USB-C Hub,5,8984.91,0.0,44924.53,2641.33
+ORD-00873,2024-02-19,Western,Gampaha,Colombo,Consumer,Technology,Computers,Wireless Mouse,4,4823.37,0.0,19293.49,518.86
+ORD-00256,2024-02-20,Western,Gampaha,Colombo,Corporate,Office Supplies,Organizers,Desk Organizer,3,2290.59,0.1,6184.58,1274.25
+ORD-00118,2024-02-20,Southern,Galle,Tangalle,Consumer,Office Supplies,Organizers,Document Folder,5,529.82,0.15,2251.72,423.23
+ORD-00661,2024-02-20,Central,Kandy,Kandy,Corporate,Furniture,Storage,Bookshelf,2,29213.26,0.1,52583.87,3210.4
+ORD-00173,2024-02-22,Eastern,Batticaloa,Ampara,Corporate,Technology,Phones,Wireless Earbuds,4,11695.58,0.0,46782.3,3233.77
+ORD-00344,2024-02-22,Western,Gampaha,Colombo,Consumer,Furniture,Chairs,Ergonomic Chair,2,40172.69,0.0,80345.39,18314.77
+ORD-00500,2024-02-22,Western,Kalutara,Negombo,Consumer,Technology,Accessories,Keyboard,2,6621.81,0.15,11257.08,353.21
+ORD-01163,2024-02-23,Northern,Kilinochchi,Mannar,Corporate,Technology,Phones,Wireless Earbuds,5,13272.97,0.0,66364.86,7057.65
+ORD-00131,2024-02-26,Western,Gampaha,Colombo,Small Business,Furniture,Desks,Standing Desk,2,76262.27,0.0,152524.54,21143.15
+ORD-00141,2024-02-26,Northern,Jaffna,Kilinochchi,Small Business,Furniture,Chairs,Visitor Chair,1,14718.71,0.15,12510.91,1556.13
+ORD-01017,2024-02-26,Western,Gampaha,Panadura,Consumer,Office Supplies,Writing,Highlighter Set,6,934.17,0.0,5605.05,1272.87
+ORD-00271,2024-02-28,Central,Matale,Kandy,Consumer,Technology,Computers,Office Laptop,3,202831.47,0.1,547644.98,72806.7
+ORD-00667,2024-02-28,Southern,Galle,Matara,Consumer,Technology,Computers,Office Laptop,3,202683.74,0.0,608051.23,72378.33
+ORD-00593,2024-02-29,Western,Kalutara,Negombo,Consumer,Office Supplies,Writing,Highlighter Set,2,901.33,0.0,1802.65,136.37
+ORD-01000,2024-03-01,Eastern,Batticaloa,Batticaloa,Consumer,Furniture,Storage,Storage Box,1,3936.57,0.2,3149.26,260.37
+ORD-01172,2024-03-02,Western,Kalutara,Colombo,Corporate,Technology,Computers,Laptop Pro,2,275090.56,0.0,550181.12,131754.49
+ORD-00187,2024-03-03,Western,Colombo,Colombo,Corporate,Office Supplies,Organizers,Document Folder,6,562.19,0.05,3204.46,675.52
+ORD-00283,2024-03-04,Western,Gampaha,Panadura,Consumer,Office Supplies,Paper,A4 Paper Pack,4,1724.77,0.1,6209.17,646.54
+ORD-00662,2024-03-04,Northern,Jaffna,Mannar,Small Business,Technology,Phones,Budget Smartphone,3,65048.52,0.2,156116.45,11644.92
+ORD-00496,2024-03-04,Central,Matale,Kandy,Consumer,Technology,Phones,Wireless Earbuds,1,12192.81,0.1,10973.53,736.37
+ORD-00723,2024-03-04,Western,Colombo,Colombo,Consumer,Office Supplies,Writing,Ballpoint Pens,2,451.27,0.0,902.54,182.93
+ORD-00478,2024-03-06,Southern,Hambantota,Tangalle,Corporate,Furniture,Desks,Standing Desk,5,73525.06,0.0,367625.31,25993.62
+ORD-00044,2024-03-07,Eastern,Batticaloa,Batticaloa,Small Business,Furniture,Desks,Writing Desk,1,34507.17,0.0,34507.17,7967.32
+ORD-00418,2024-03-07,Southern,Hambantota,Tangalle,Consumer,Technology,Phones,Budget Smartphone,1,64293.74,0.0,64293.74,15099.19
+ORD-00551,2024-03-07,Central,Nuwara Eliya,Kandy,Corporate,Technology,Computers,Laptop Pro,6,280711.06,0.0,1684266.39,306108.48
+ORD-00658,2024-03-07,Western,Gampaha,Colombo,Small Business,Technology,Accessories,Keyboard,8,6620.91,0.0,52967.26,11033.75
+ORD-01188,2024-03-08,Western,Colombo,Colombo,Corporate,Technology,Computers,Wireless Mouse,3,4195.51,0.15,10698.55,745.01
+ORD-00443,2024-03-09,Western,Kalutara,Colombo,Corporate,Office Supplies,Organizers,Desk Organizer,4,2090.9,0.0,8363.61,1327.62
+ORD-00036,2024-03-10,Eastern,Ampara,Trincomalee,Corporate,Furniture,Chairs,Office Chair,1,28348.38,0.0,28348.38,7681.1
+ORD-01038,2024-03-10,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Technology,Phones,Budget Smartphone,3,65192.62,0.05,185798.96,9789.77
+ORD-00012,2024-03-11,Southern,Hambantota,Tangalle,Small Business,Technology,Computers,Laptop Pro,3,271427.77,0.0,814283.31,124119.82
+ORD-00849,2024-03-12,Southern,Matara,Galle,Consumer,Furniture,Desks,Compact Desk,3,24982.8,0.15,63706.14,4870.41
+ORD-00092,2024-03-13,Eastern,Ampara,Trincomalee,Consumer,Office Supplies,Organizers,Document Folder,4,508.04,0.2,1625.72,193.41
+ORD-00481,2024-03-13,Eastern,Trincomalee,Batticaloa,Corporate,Technology,Accessories,Laptop Stand,4,6666.81,0.05,25333.87,3690.97
+ORD-00740,2024-03-14,Eastern,Trincomalee,Trincomalee,Consumer,Furniture,Desks,Writing Desk,3,34566.12,0.05,98513.43,24818.73
+ORD-00978,2024-03-15,Central,Nuwara Eliya,Kandy,Small Business,Furniture,Chairs,Ergonomic Chair,3,41358.28,0.0,124074.84,18506.13
+ORD-00293,2024-03-15,Northern,Kilinochchi,Kilinochchi,Consumer,Furniture,Desks,Writing Desk,1,33715.14,0.05,32029.38,4205.79
+ORD-01135,2024-03-15,Southern,Hambantota,Galle,Corporate,Technology,Accessories,Laptop Stand,3,7159.66,0.05,20405.03,1552.01
+ORD-00302,2024-03-17,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Technology,Computers,Office Laptop,1,192205.77,0.05,182595.49,40856.92
+ORD-00177,2024-03-18,Northern,Kilinochchi,Jaffna,Consumer,Office Supplies,Paper,Sticky Notes,5,652.86,0.1,2937.85,671.33
+ORD-01101,2024-03-18,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Office Supplies,Paper,A4 Paper Pack,3,1706.25,0.0,5118.76,1012.01
+ORD-00515,2024-03-20,Western,Kalutara,Panadura,Consumer,Office Supplies,Organizers,Desk Organizer,10,2103.21,0.0,21032.08,3307.58
+ORD-00973,2024-03-21,Western,Colombo,Colombo,Small Business,Technology,Phones,Wireless Earbuds,2,12487.27,0.0,24974.55,2014.38
+ORD-00619,2024-03-22,Western,Gampaha,Colombo,Corporate,Technology,Phones,Smartphone X,1,149929.92,0.0,149929.92,14024.86
+ORD-00675,2024-03-22,Central,Kandy,Kandy,Corporate,Office Supplies,Writing,Highlighter Set,2,876.74,0.1,1578.13,226.43
+ORD-00711,2024-03-23,Western,Gampaha,Negombo,Consumer,Furniture,Storage,Filing Cabinet,2,33420.25,0.15,56814.43,7865.05
+ORD-00756,2024-03-25,Southern,Galle,Tangalle,Small Business,Technology,Computers,Office Laptop,6,189542.91,0.0,1137257.44,137621.32
+ORD-01006,2024-03-25,Central,Matale,Matale,Corporate,Office Supplies,Paper,A4 Paper Pack,1,1698.08,0.0,1698.08,237.63
+ORD-00349,2024-03-25,Western,Colombo,Colombo,Small Business,Furniture,Chairs,Ergonomic Chair,3,42783.81,0.0,128351.44,9507.5
+ORD-01166,2024-03-26,Central,Kandy,Matale,Small Business,Office Supplies,Writing,Marker Set,2,1287.65,0.0,2575.3,201.47
+ORD-00017,2024-03-27,Western,Colombo,Negombo,Corporate,Technology,Computers,Wireless Mouse,4,4693.43,0.0,18773.7,4252.67
+ORD-01180,2024-03-27,Western,Gampaha,Panadura,Consumer,Technology,Accessories,Keyboard,3,6651.3,0.1,17958.51,741.39
+ORD-01165,2024-03-27,Eastern,Ampara,Batticaloa,Consumer,Technology,Phones,Budget Smartphone,2,63389.93,0.15,107762.88,10986.34
+ORD-01008,2024-03-29,Northern,Jaffna,Jaffna,Corporate,Furniture,Chairs,Office Chair,2,27424.76,0.0,54849.51,9989.1
+ORD-00272,2024-03-30,Southern,Hambantota,Galle,Small Business,Office Supplies,Organizers,File Binder,1,895.72,0.0,895.72,92.1
+ORD-00671,2024-03-30,Central,Matale,Matale,Small Business,Technology,Computers,Office Laptop,1,209767.96,0.1,188791.16,14262.36
+ORD-00550,2024-03-30,Central,Matale,Matale,Consumer,Technology,Phones,Smartphone X,3,135691.34,0.0,407074.03,53209.87
+ORD-00085,2024-03-31,Northern,Mannar,Mannar,Corporate,Office Supplies,Organizers,Desk Organizer,1,2074.59,0.1,1867.13,160.66
+ORD-00110,2024-04-01,Western,Gampaha,Panadura,Consumer,Furniture,Desks,Standing Desk,4,79940.86,0.1,287787.1,15065.26
+ORD-00102,2024-04-01,Central,Nuwara Eliya,Nuwara Eliya,Small Business,Technology,Computers,Office Laptop,3,209140.01,0.0,627420.04,92212.95
+ORD-00544,2024-04-01,Western,Colombo,Panadura,Consumer,Office Supplies,Organizers,Document Folder,3,570.55,0.0,1711.64,383.72
+ORD-01115,2024-04-04,Central,Kandy,Matale,Consumer,Furniture,Chairs,Office Chair,3,24648.14,0.1,66549.97,12217.81
+ORD-00094,2024-04-05,Western,Gampaha,Negombo,Consumer,Technology,Computers,Wireless Mouse,4,4384.42,0.2,14030.16,765.92
+ORD-00469,2024-04-05,Central,Matale,Matale,Small Business,Furniture,Storage,Bookshelf,4,29231.66,0.05,111080.32,14167.2
+ORD-00645,2024-04-06,Eastern,Ampara,Batticaloa,Consumer,Technology,Computers,Office Laptop,1,189316.61,0.0,189316.61,4958.65
+ORD-00227,2024-04-07,Eastern,Ampara,Trincomalee,Corporate,Technology,Phones,Budget Smartphone,5,66065.07,0.15,280776.53,8011.77
+ORD-01109,2024-04-07,Eastern,Trincomalee,Ampara,Consumer,Technology,Accessories,Keyboard,2,6725.76,0.0,13451.53,1367.14
+ORD-00072,2024-04-08,Central,Matale,Matale,Consumer,Furniture,Storage,Filing Cabinet,1,30474.13,0.0,30474.13,4867.38
+ORD-00236,2024-04-09,Eastern,Batticaloa,Trincomalee,Consumer,Office Supplies,Organizers,Document Folder,2,553.27,0.0,1106.54,81.15
+ORD-01010,2024-04-10,Western,Kalutara,Colombo,Corporate,Office Supplies,Writing,Highlighter Set,1,1012.81,0.05,962.17,156.38
+ORD-00340,2024-04-11,Northern,Mannar,Jaffna,Corporate,Furniture,Storage,Bookshelf,4,27108.46,0.05,103012.15,16520.32
+ORD-01020,2024-04-12,Western,Colombo,Panadura,Consumer,Technology,Accessories,Keyboard,5,6877.74,0.0,34388.68,2011.5
+ORD-00041,2024-04-12,Southern,Hambantota,Tangalle,Small Business,Office Supplies,Writing,Marker Set,4,1286.63,0.0,5146.52,1271.79
+ORD-00733,2024-04-12,Southern,Galle,Matara,Small Business,Technology,Accessories,Keyboard,2,6162.74,0.05,11709.2,1242.56
+ORD-00377,2024-04-12,Western,Kalutara,Negombo,Consumer,Technology,Computers,Office Laptop,4,181699.82,0.1,654119.34,122480.65
+ORD-01013,2024-04-13,Western,Colombo,Negombo,Corporate,Technology,Accessories,USB-C Hub,1,8816.2,0.15,7493.77,1277.68
+ORD-00839,2024-04-14,Western,Colombo,Panadura,Consumer,Furniture,Desks,Standing Desk,5,72849.32,0.0,364246.61,72899.55
+ORD-00895,2024-04-14,Eastern,Trincomalee,Ampara,Consumer,Furniture,Chairs,Ergonomic Chair,1,38762.87,0.1,34886.58,2917.43
+ORD-00063,2024-04-14,Western,Gampaha,Panadura,Consumer,Furniture,Desks,Standing Desk,2,80533.86,0.05,153014.33,41313.46
+ORD-00961,2024-04-15,Southern,Galle,Tangalle,Small Business,Office Supplies,Organizers,Document Folder,2,559.7,0.0,1119.4,227.13
+ORD-00014,2024-04-15,Western,Gampaha,Colombo,Consumer,Technology,Computers,Office Laptop,3,184722.5,0.15,471042.38,63512.27
+ORD-01122,2024-04-15,Northern,Kilinochchi,Jaffna,Consumer,Office Supplies,Writing,Marker Set,2,1237.99,0.1,2228.38,330.51
+ORD-00022,2024-04-15,Northern,Jaffna,Jaffna,Consumer,Furniture,Storage,Filing Cabinet,2,30114.93,0.1,54206.87,4054.84
+ORD-00028,2024-04-16,Western,Kalutara,Panadura,Corporate,Furniture,Chairs,Office Chair,2,24990.02,0.15,42483.03,3331.39
+ORD-00686,2024-04-18,Southern,Matara,Tangalle,Consumer,Office Supplies,Writing,Ballpoint Pens,4,424.76,0.0,1699.06,375.43
+ORD-01071,2024-04-19,Eastern,Trincomalee,Trincomalee,Consumer,Office Supplies,Organizers,File Binder,2,902.68,0.0,1805.37,195.68
+ORD-00916,2024-04-19,Western,Colombo,Colombo,Consumer,Furniture,Storage,Bookshelf,1,26734.74,0.0,26734.74,4836.1
+ORD-00210,2024-04-20,Western,Kalutara,Colombo,Consumer,Office Supplies,Organizers,Document Folder,4,535.9,0.0,2143.59,352.76
+ORD-00217,2024-04-20,Central,Kandy,Nuwara Eliya,Consumer,Technology,Phones,Budget Smartphone,1,60337.9,0.15,51287.22,3358.19
+ORD-00212,2024-04-21,Eastern,Ampara,Trincomalee,Corporate,Technology,Computers,Laptop Pro,1,275268.68,0.0,275268.68,33592.97
+ORD-01195,2024-04-21,Western,Colombo,Panadura,Consumer,Furniture,Chairs,Visitor Chair,8,13464.4,0.0,107715.18,7420.24
+ORD-00923,2024-04-21,Western,Kalutara,Negombo,Consumer,Technology,Accessories,USB-C Hub,2,8905.18,0.2,14248.29,1785.52
+ORD-00649,2024-04-21,Central,Matale,Kandy,Corporate,Technology,Phones,Wireless Earbuds,2,12641.08,0.15,21489.83,3234.73
+ORD-00122,2024-04-22,Western,Gampaha,Negombo,Consumer,Technology,Accessories,USB-C Hub,1,7891.82,0.0,7891.82,954.83
+ORD-01179,2024-04-22,Western,Kalutara,Negombo,Consumer,Furniture,Chairs,Office Chair,1,25082.03,0.0,25082.03,5563.31
+ORD-00674,2024-04-23,Southern,Hambantota,Galle,Consumer,Office Supplies,Organizers,Document Folder,5,520.18,0.0,2600.88,157.43
+ORD-00510,2024-04-24,Western,Gampaha,Negombo,Small Business,Technology,Phones,Wireless Earbuds,2,12049.86,0.0,24099.73,2695.92
+ORD-00103,2024-04-24,Western,Colombo,Colombo,Consumer,Technology,Computers,Laptop Pro,3,283404.64,0.0,850213.93,120743.08
+ORD-00040,2024-04-25,Western,Gampaha,Panadura,Consumer,Technology,Computers,Laptop Pro,6,282168.42,0.0,1693010.54,314105.69
+ORD-00532,2024-04-26,Eastern,Trincomalee,Ampara,Small Business,Office Supplies,Paper,Sticky Notes,2,641.86,0.05,1219.53,98.13
+ORD-00313,2024-04-26,Western,Kalutara,Negombo,Consumer,Technology,Accessories,USB-C Hub,3,8705.1,0.0,26115.31,5999.49
+ORD-00562,2024-04-27,Northern,Jaffna,Jaffna,Consumer,Technology,Accessories,Keyboard,4,6702.87,0.1,24130.32,4716.86
+ORD-00167,2024-04-27,Northern,Mannar,Mannar,Consumer,Office Supplies,Paper,Sticky Notes,2,661.06,0.15,1123.79,132.41
+ORD-00205,2024-04-28,Western,Colombo,Colombo,Consumer,Technology,Computers,Office Laptop,5,208281.42,0.0,1041407.12,239009.23
+ORD-01148,2024-04-28,Northern,Jaffna,Kilinochchi,Consumer,Technology,Phones,Wireless Earbuds,2,12454.03,0.0,24908.06,985.55
+ORD-01053,2024-04-29,Central,Nuwara Eliya,Matale,Consumer,Technology,Accessories,USB-C Hub,4,8787.28,0.0,35149.13,1162.18
+ORD-00323,2024-04-30,Western,Colombo,Negombo,Consumer,Furniture,Chairs,Ergonomic Chair,2,41393.19,0.0,82786.38,18292.31
+ORD-00231,2024-05-01,Western,Colombo,Panadura,Consumer,Furniture,Chairs,Ergonomic Chair,3,43485.39,0.0,130456.18,24986.05
+ORD-00807,2024-05-02,Northern,Jaffna,Jaffna,Corporate,Furniture,Storage,Filing Cabinet,6,30184.19,0.0,181105.16,41609.58
+ORD-00776,2024-05-03,Northern,Jaffna,Kilinochchi,Corporate,Technology,Phones,Wireless Earbuds,6,13350.9,0.0,80105.39,16812.13
+ORD-00161,2024-05-03,Western,Colombo,Negombo,Consumer,Office Supplies,Organizers,File Binder,2,847.06,0.0,1694.13,203.56
+ORD-00495,2024-05-03,Northern,Kilinochchi,Kilinochchi,Consumer,Furniture,Desks,Writing Desk,4,38750.43,0.0,155001.74,20973.18
+ORD-00186,2024-05-03,Eastern,Trincomalee,Trincomalee,Consumer,Technology,Accessories,Laptop Stand,1,6762.37,0.0,6762.37,1641.64
+ORD-00188,2024-05-04,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Furniture,Desks,Standing Desk,2,73676.07,0.0,147352.15,36138.92
+ORD-01036,2024-05-04,Southern,Matara,Galle,Consumer,Technology,Accessories,Keyboard,5,6983.72,0.05,33172.68,2178.43
+ORD-00734,2024-05-06,Western,Gampaha,Panadura,Corporate,Furniture,Desks,Compact Desk,3,25050.67,0.0,75152.02,8621.97
+ORD-00345,2024-05-06,Eastern,Batticaloa,Batticaloa,Corporate,Office Supplies,Paper,Notebook Set,4,1576.75,0.05,5991.67,1026.61
+ORD-01119,2024-05-06,Central,Matale,Nuwara Eliya,Consumer,Furniture,Storage,Filing Cabinet,1,33818.17,0.05,32127.26,2900.22
+ORD-00943,2024-05-08,Western,Colombo,Colombo,Consumer,Furniture,Desks,Standing Desk,2,80161.1,0.05,152306.1,8306.26
+ORD-00557,2024-05-10,Eastern,Batticaloa,Ampara,Consumer,Technology,Accessories,USB-C Hub,2,8647.49,0.0,17294.99,2138.33
+ORD-00466,2024-05-11,Western,Kalutara,Panadura,Corporate,Technology,Computers,Office Laptop,2,197876.86,0.0,395753.73,26153.06
+ORD-00163,2024-05-12,Central,Matale,Nuwara Eliya,Consumer,Technology,Computers,Office Laptop,2,186916.93,0.1,336450.47,27604.51
+ORD-00427,2024-05-12,Western,Gampaha,Negombo,Consumer,Furniture,Desks,Compact Desk,2,25260.27,0.15,42942.45,4572.01
+ORD-01191,2024-05-13,Southern,Matara,Galle,Consumer,Office Supplies,Writing,Ballpoint Pens,3,454.38,0.0,1363.15,113.22
+ORD-00281,2024-05-13,Northern,Mannar,Kilinochchi,Corporate,Technology,Computers,Laptop Pro,6,265397.22,0.05,1512764.14,184254.89
+ORD-00509,2024-05-15,Western,Kalutara,Negombo,Consumer,Office Supplies,Organizers,File Binder,4,882.66,0.0,3530.64,853.85
+ORD-00907,2024-05-16,Northern,Kilinochchi,Jaffna,Corporate,Technology,Phones,Smartphone X,1,136068.99,0.05,129265.54,18697.68
+ORD-00789,2024-05-16,Western,Kalutara,Colombo,Small Business,Technology,Phones,Smartphone X,4,135908.57,0.15,462089.15,78846.62
+ORD-00334,2024-05-17,Southern,Hambantota,Galle,Consumer,Technology,Accessories,USB-C Hub,3,9161.76,0.1,24736.76,4189.6
+ORD-00519,2024-05-18,Western,Kalutara,Colombo,Consumer,Office Supplies,Writing,Marker Set,3,1241.6,0.0,3724.8,844.4
+ORD-00705,2024-05-20,Southern,Matara,Matara,Corporate,Furniture,Storage,Bookshelf,3,27494.25,0.0,82482.74,7183.86
+ORD-00718,2024-05-20,Western,Gampaha,Colombo,Corporate,Furniture,Chairs,Office Chair,1,24903.67,0.2,19922.93,3602.32
+ORD-00861,2024-05-21,Eastern,Trincomalee,Trincomalee,Small Business,Furniture,Chairs,Office Chair,3,26803.87,0.05,76391.03,10711.64
+ORD-00172,2024-05-22,Northern,Jaffna,Jaffna,Consumer,Technology,Computers,Laptop Pro,3,301498.74,0.05,859271.4,146839.54
+ORD-00168,2024-05-22,Southern,Galle,Matara,Consumer,Technology,Phones,Smartphone X,8,142746.81,0.1,1027777.01,167417.15
+ORD-00276,2024-05-24,Northern,Jaffna,Jaffna,Small Business,Furniture,Chairs,Ergonomic Chair,5,44702.45,0.15,189985.39,48087.43
+ORD-00145,2024-05-25,Western,Gampaha,Negombo,Corporate,Technology,Computers,Wireless Mouse,8,4198.13,0.05,31905.78,6722.87
+ORD-00273,2024-05-26,Western,Gampaha,Negombo,Consumer,Technology,Phones,Smartphone X,4,154120.62,0.05,585658.37,27157.15
+ORD-00417,2024-05-27,Eastern,Trincomalee,Trincomalee,Small Business,Technology,Phones,Budget Smartphone,1,63918.06,0.0,63918.06,3422.18
+ORD-01040,2024-05-27,Northern,Kilinochchi,Kilinochchi,Consumer,Technology,Computers,Wireless Mouse,5,4760.61,0.0,23803.04,2445.97
+ORD-00001,2024-05-27,Northern,Kilinochchi,Kilinochchi,Small Business,Office Supplies,Paper,Sticky Notes,4,679.75,0.0,2719.0,432.55
+ORD-00975,2024-05-28,Northern,Jaffna,Mannar,Consumer,Technology,Computers,Office Laptop,2,210126.48,0.0,420252.95,75743.21
+ORD-00513,2024-05-29,Southern,Hambantota,Galle,Corporate,Technology,Computers,Laptop Pro,2,273350.87,0.1,492031.56,69663.62
+ORD-00996,2024-05-29,Southern,Matara,Galle,Consumer,Technology,Computers,Office Laptop,3,209769.56,0.15,534912.37,6716.05
+ORD-00507,2024-05-30,Southern,Matara,Matara,Consumer,Furniture,Chairs,Office Chair,8,26194.84,0.0,209558.72,23471.03
+ORD-00506,2024-06-01,Northern,Jaffna,Kilinochchi,Consumer,Furniture,Storage,Bookshelf,3,29935.38,0.1,80825.51,11145.2
+ORD-00547,2024-06-01,Central,Matale,Nuwara Eliya,Consumer,Furniture,Storage,Filing Cabinet,4,33947.42,0.2,108631.73,14499.23
+ORD-00416,2024-06-02,Southern,Matara,Tangalle,Consumer,Office Supplies,Paper,A4 Paper Pack,5,1741.05,0.0,8705.27,2359.0
+ORD-00769,2024-06-02,Southern,Galle,Galle,Corporate,Office Supplies,Writing,Marker Set,5,1195.61,0.05,5679.14,871.97
+ORD-00879,2024-06-02,Southern,Matara,Tangalle,Corporate,Technology,Computers,Wireless Mouse,1,4156.68,0.0,4156.68,930.52
+ORD-00300,2024-06-02,Central,Matale,Matale,Corporate,Technology,Computers,Wireless Mouse,2,4186.23,0.1,7535.21,722.05
+ORD-01175,2024-06-03,Northern,Mannar,Jaffna,Consumer,Technology,Accessories,Laptop Stand,2,6841.22,0.1,12314.19,837.39
+ORD-01007,2024-06-04,Southern,Galle,Matara,Consumer,Furniture,Desks,Compact Desk,3,24588.38,0.05,70076.89,7573.05
+ORD-00008,2024-06-05,Western,Gampaha,Negombo,Consumer,Furniture,Chairs,Visitor Chair,5,13882.74,0.0,69413.7,8461.84
+ORD-00836,2024-06-05,Western,Gampaha,Colombo,Consumer,Technology,Computers,Laptop Pro,2,290602.0,0.0,581204.01,60907.51
+ORD-01123,2024-06-07,Central,Matale,Kandy,Consumer,Furniture,Desks,Compact Desk,3,23212.63,0.0,69637.9,6933.22
+ORD-00116,2024-06-08,Western,Kalutara,Negombo,Corporate,Technology,Computers,Laptop Pro,5,269847.1,0.0,1349235.49,133504.95
+ORD-00327,2024-06-10,Central,Matale,Kandy,Small Business,Technology,Accessories,Laptop Stand,4,7362.37,0.1,26504.53,2277.38
+ORD-00516,2024-06-10,Western,Kalutara,Panadura,Consumer,Furniture,Storage,Bookshelf,6,29833.32,0.05,170049.95,19975.49
+ORD-00806,2024-06-11,Western,Colombo,Panadura,Consumer,Office Supplies,Organizers,File Binder,1,811.14,0.1,730.02,162.46
+ORD-00901,2024-06-11,Southern,Matara,Matara,Consumer,Office Supplies,Writing,Highlighter Set,4,986.03,0.0,3944.11,995.52
+ORD-00260,2024-06-11,Southern,Matara,Galle,Corporate,Furniture,Chairs,Ergonomic Chair,5,42628.03,0.05,202483.12,26017.08
+ORD-00196,2024-06-12,Northern,Kilinochchi,Kilinochchi,Consumer,Office Supplies,Organizers,File Binder,2,817.75,0.05,1553.73,423.51
+ORD-01066,2024-06-13,Central,Kandy,Matale,Consumer,Technology,Phones,Budget Smartphone,1,61500.57,0.0,61500.57,1686.57
+ORD-01116,2024-06-15,Central,Nuwara Eliya,Matale,Consumer,Furniture,Storage,Storage Box,1,4467.36,0.1,4020.63,865.52
+ORD-01009,2024-06-17,Western,Colombo,Panadura,Consumer,Technology,Computers,Laptop Pro,2,299807.92,0.1,539654.26,108420.68
+ORD-00742,2024-06-18,Southern,Galle,Galle,Small Business,Technology,Phones,Budget Smartphone,8,63771.96,0.0,510175.65,69997.29
+ORD-00115,2024-06-19,Northern,Mannar,Mannar,Consumer,Office Supplies,Organizers,File Binder,3,814.67,0.05,2321.81,273.16
+ORD-00528,2024-06-20,Southern,Matara,Tangalle,Consumer,Technology,Accessories,USB-C Hub,2,8807.67,0.0,17615.34,1569.14
+ORD-00909,2024-06-20,Western,Gampaha,Panadura,Consumer,Technology,Accessories,Laptop Stand,1,7357.94,0.0,7357.94,958.92
+ORD-00938,2024-06-23,Northern,Jaffna,Mannar,Consumer,Office Supplies,Writing,Highlighter Set,5,941.32,0.0,4706.59,664.0
+ORD-00178,2024-06-23,Northern,Mannar,Kilinochchi,Consumer,Technology,Phones,Wireless Earbuds,3,12665.29,0.0,37995.87,7527.59
+ORD-00627,2024-06-23,Southern,Matara,Matara,Consumer,Furniture,Storage,Filing Cabinet,1,31642.76,0.05,30060.62,5234.5
+ORD-00811,2024-06-24,Southern,Galle,Galle,Consumer,Office Supplies,Paper,A4 Paper Pack,3,1815.13,0.05,5173.13,765.8
+ORD-00243,2024-06-24,Northern,Mannar,Mannar,Consumer,Office Supplies,Paper,Notebook Set,2,1505.21,0.0,3010.42,576.79
+ORD-00459,2024-06-24,Western,Kalutara,Negombo,Small Business,Technology,Computers,Wireless Mouse,2,4490.03,0.1,8082.06,536.74
+ORD-00687,2024-06-25,Southern,Hambantota,Galle,Consumer,Technology,Phones,Wireless Earbuds,2,12184.87,0.2,19495.79,1317.76
+ORD-00422,2024-06-25,Southern,Galle,Galle,Consumer,Office Supplies,Writing,Marker Set,1,1199.1,0.0,1199.1,114.57
+ORD-01049,2024-06-25,Northern,Jaffna,Jaffna,Consumer,Furniture,Chairs,Office Chair,1,28520.31,0.0,28520.31,1774.42
+ORD-00607,2024-06-29,Central,Matale,Kandy,Corporate,Technology,Accessories,USB-C Hub,6,8459.19,0.0,50755.12,5270.9
+ORD-01143,2024-06-29,Central,Kandy,Matale,Small Business,Furniture,Chairs,Office Chair,2,27054.49,0.1,48698.08,9567.0
+ORD-00993,2024-06-29,Southern,Hambantota,Tangalle,Small Business,Technology,Phones,Budget Smartphone,3,61944.0,0.05,176540.39,21007.2
+ORD-00286,2024-06-29,Western,Gampaha,Negombo,Consumer,Office Supplies,Writing,Ballpoint Pens,1,475.96,0.0,475.96,81.25
+ORD-00902,2024-06-29,Western,Kalutara,Negombo,Consumer,Office Supplies,Paper,A4 Paper Pack,2,1914.64,0.0,3829.28,814.67
+ORD-00362,2024-06-30,Southern,Galle,Galle,Consumer,Office Supplies,Writing,Marker Set,3,1167.13,0.0,3501.38,215.54
+ORD-00463,2024-06-30,Southern,Matara,Galle,Consumer,Office Supplies,Paper,Notebook Set,2,1423.28,0.1,2561.91,211.47
+ORD-00312,2024-06-30,Western,Kalutara,Panadura,Small Business,Technology,Phones,Smartphone X,5,155899.21,0.0,779496.07,121039.62
+ORD-00614,2024-06-30,Central,Matale,Matale,Consumer,Furniture,Chairs,Visitor Chair,5,14896.58,0.0,74482.9,9923.41
+ORD-01078,2024-07-01,Western,Kalutara,Panadura,Corporate,Office Supplies,Paper,Sticky Notes,1,635.39,0.0,635.39,79.99
+ORD-00033,2024-07-01,Northern,Mannar,Kilinochchi,Consumer,Technology,Accessories,Keyboard,3,6413.56,0.0,19240.69,2036.68
+ORD-00325,2024-07-01,Southern,Hambantota,Galle,Corporate,Technology,Phones,Smartphone X,4,140737.59,0.0,562950.36,70253.46
+ORD-00480,2024-07-02,Southern,Galle,Galle,Corporate,Furniture,Chairs,Office Chair,4,27450.21,0.0,109800.86,23587.65
+ORD-00179,2024-07-03,Eastern,Trincomalee,Batticaloa,Consumer,Office Supplies,Paper,Sticky Notes,5,697.91,0.1,3140.57,784.92
+ORD-00098,2024-07-04,Southern,Galle,Matara,Consumer,Technology,Computers,Laptop Pro,5,288840.79,0.1,1299783.56,101548.49
+ORD-00721,2024-07-05,Southern,Matara,Tangalle,Consumer,Office Supplies,Paper,Notebook Set,2,1480.21,0.0,2960.42,798.63
+ORD-00410,2024-07-05,Eastern,Trincomalee,Batticaloa,Consumer,Office Supplies,Organizers,Document Folder,4,551.4,0.05,2095.3,539.36
+ORD-00337,2024-07-06,Southern,Matara,Tangalle,Consumer,Furniture,Storage,Filing Cabinet,1,34210.79,0.1,30789.71,7728.3
+ORD-00548,2024-07-07,Western,Kalutara,Panadura,Consumer,Furniture,Storage,Storage Box,1,4172.57,0.0,4172.57,268.46
+ORD-00124,2024-07-07,Western,Colombo,Negombo,Corporate,Office Supplies,Writing,Marker Set,3,1248.05,0.0,3744.15,527.7
+ORD-00864,2024-07-08,Western,Kalutara,Colombo,Corporate,Office Supplies,Paper,Sticky Notes,2,636.54,0.0,1273.09,170.23
+ORD-00457,2024-07-08,Western,Kalutara,Negombo,Consumer,Office Supplies,Organizers,Desk Organizer,3,2309.68,0.0,6929.05,605.7
+ORD-00232,2024-07-08,Northern,Mannar,Jaffna,Corporate,Furniture,Chairs,Ergonomic Chair,1,44936.99,0.15,38196.44,3167.03
+ORD-00644,2024-07-09,Southern,Hambantota,Matara,Small Business,Technology,Phones,Budget Smartphone,2,67731.78,0.0,135463.55,7314.85
+ORD-00396,2024-07-10,Northern,Mannar,Kilinochchi,Consumer,Technology,Computers,Office Laptop,6,184550.45,0.2,885842.17,64597.63
+ORD-01149,2024-07-11,Southern,Matara,Galle,Corporate,Office Supplies,Organizers,File Binder,4,870.7,0.15,2960.39,752.38
+ORD-00685,2024-07-12,Central,Kandy,Matale,Small Business,Office Supplies,Paper,A4 Paper Pack,4,1667.73,0.15,5670.29,296.34
+ORD-00261,2024-07-12,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Office Supplies,Writing,Marker Set,1,1141.06,0.0,1141.06,305.48
+ORD-00814,2024-07-13,Northern,Mannar,Mannar,Corporate,Technology,Computers,Office Laptop,1,199833.98,0.0,199833.98,19696.77
+ORD-00785,2024-07-14,Central,Matale,Matale,Corporate,Technology,Computers,Laptop Pro,8,286754.9,0.1,2064635.27,393396.11
+ORD-00775,2024-07-14,Southern,Galle,Matara,Consumer,Technology,Accessories,Laptop Stand,4,7175.88,0.1,25833.18,5434.38
+ORD-00826,2024-07-15,Northern,Jaffna,Jaffna,Consumer,Office Supplies,Paper,Notebook Set,3,1405.7,0.0,4217.09,723.57
+ORD-01072,2024-07-15,Southern,Galle,Matara,Corporate,Office Supplies,Paper,Notebook Set,5,1526.31,0.0,7631.53,540.44
+ORD-00643,2024-07-16,Western,Gampaha,Negombo,Consumer,Technology,Computers,Wireless Mouse,8,4845.44,0.0,38763.5,4104.94
+ORD-00795,2024-07-17,Eastern,Ampara,Ampara,Consumer,Technology,Computers,Office Laptop,1,206987.35,0.1,186288.62,14648.35
+ORD-00744,2024-07-18,Central,Matale,Matale,Consumer,Technology,Phones,Smartphone X,2,152196.87,0.1,273954.36,60660.18
+ORD-00401,2024-07-18,Western,Colombo,Colombo,Consumer,Technology,Computers,Laptop Pro,4,290909.09,0.15,989090.92,180605.06
+ORD-00689,2024-07-18,Western,Kalutara,Negombo,Consumer,Furniture,Storage,Storage Box,6,4212.09,0.0,25272.54,6218.89
+ORD-00488,2024-07-18,Western,Kalutara,Negombo,Consumer,Technology,Phones,Budget Smartphone,2,62621.25,0.05,118980.38,3648.79
+ORD-00079,2024-07-19,Western,Gampaha,Panadura,Consumer,Technology,Phones,Budget Smartphone,2,67918.04,0.15,115460.67,7421.43
+ORD-00688,2024-07-19,Western,Gampaha,Colombo,Small Business,Technology,Computers,Laptop Pro,4,264510.4,0.0,1058041.59,66402.96
+ORD-00845,2024-07-21,Western,Gampaha,Negombo,Consumer,Technology,Computers,Laptop Pro,2,284412.14,0.0,568824.27,105514.85
+ORD-01005,2024-07-21,Southern,Galle,Galle,Consumer,Office Supplies,Organizers,File Binder,3,819.41,0.1,2212.39,446.2
+ORD-00772,2024-07-21,Western,Colombo,Colombo,Consumer,Furniture,Storage,Bookshelf,2,30258.51,0.0,60517.03,12391.05
+ORD-00406,2024-07-21,Western,Gampaha,Colombo,Consumer,Furniture,Chairs,Office Chair,2,26940.39,0.0,53880.77,12766.74
+ORD-00370,2024-07-22,Central,Matale,Matale,Small Business,Furniture,Storage,Filing Cabinet,4,34498.25,0.2,110394.39,26291.54
+ORD-00874,2024-07-22,Southern,Matara,Tangalle,Consumer,Furniture,Desks,Standing Desk,2,80555.81,0.0,161111.62,17435.23
+ORD-00690,2024-07-23,Western,Kalutara,Colombo,Small Business,Office Supplies,Writing,Highlighter Set,2,1001.66,0.0,2003.32,190.68
+ORD-01022,2024-07-23,Western,Gampaha,Negombo,Consumer,Office Supplies,Paper,A4 Paper Pack,1,1873.49,0.15,1592.46,343.57
+ORD-00224,2024-07-23,Western,Gampaha,Negombo,Consumer,Technology,Phones,Budget Smartphone,2,63805.74,0.0,127611.49,12396.6
+ORD-01140,2024-07-25,Western,Colombo,Colombo,Corporate,Furniture,Chairs,Visitor Chair,4,14561.22,0.05,55332.64,8264.07
+ORD-00677,2024-07-26,Southern,Matara,Tangalle,Consumer,Technology,Accessories,USB-C Hub,3,8005.59,0.0,24016.76,2933.82
+ORD-01105,2024-07-27,Eastern,Batticaloa,Ampara,Consumer,Technology,Accessories,Keyboard,6,6883.56,0.0,41301.37,7356.68
+ORD-00654,2024-07-30,Western,Gampaha,Panadura,Consumer,Technology,Accessories,USB-C Hub,5,7863.97,0.1,35387.85,3433.95
+ORD-00415,2024-07-31,Western,Gampaha,Negombo,Consumer,Technology,Computers,Office Laptop,1,181678.89,0.0,181678.89,12171.53
+ORD-00701,2024-07-31,Southern,Matara,Tangalle,Consumer,Furniture,Desks,Writing Desk,3,38642.64,0.1,104335.12,14745.67
+ORD-00672,2024-08-01,Western,Kalutara,Negombo,Consumer,Office Supplies,Paper,A4 Paper Pack,4,1907.13,0.05,7247.11,1592.07
+ORD-00352,2024-08-01,Central,Kandy,Matale,Consumer,Office Supplies,Writing,Highlighter Set,2,998.91,0.0,1997.82,165.36
+ORD-00591,2024-08-02,Southern,Galle,Galle,Consumer,Furniture,Desks,Writing Desk,4,34772.51,0.05,132135.53,25365.76
+ORD-00913,2024-08-02,Western,Gampaha,Negombo,Small Business,Furniture,Desks,Compact Desk,1,23422.46,0.2,18737.96,1426.01
+ORD-01124,2024-08-02,Western,Kalutara,Panadura,Corporate,Office Supplies,Paper,Sticky Notes,8,657.72,0.05,4998.71,1094.86
+ORD-01189,2024-08-03,Eastern,Trincomalee,Trincomalee,Consumer,Furniture,Chairs,Ergonomic Chair,1,42346.8,0.05,40229.46,9695.46
+ORD-00629,2024-08-05,Northern,Jaffna,Jaffna,Consumer,Furniture,Desks,Compact Desk,3,25902.37,0.2,62165.69,5260.76
+ORD-00254,2024-08-05,Northern,Jaffna,Jaffna,Consumer,Furniture,Chairs,Visitor Chair,6,14922.0,0.2,71625.59,9148.07
+ORD-00360,2024-08-06,Western,Kalutara,Negombo,Consumer,Technology,Computers,Office Laptop,3,203947.75,0.0,611843.24,129748.95
+ORD-00796,2024-08-06,Western,Colombo,Negombo,Consumer,Office Supplies,Organizers,Desk Organizer,5,2338.47,0.15,9938.49,1058.39
+ORD-00342,2024-08-07,Eastern,Batticaloa,Trincomalee,Consumer,Office Supplies,Writing,Highlighter Set,3,926.52,0.1,2501.61,604.07
+ORD-01144,2024-08-07,Central,Nuwara Eliya,Matale,Consumer,Office Supplies,Writing,Highlighter Set,3,914.68,0.0,2744.03,195.78
+ORD-00697,2024-08-08,Central,Kandy,Kandy,Small Business,Office Supplies,Organizers,Desk Organizer,2,2117.97,0.1,3812.35,412.25
+ORD-00328,2024-08-08,Southern,Galle,Matara,Consumer,Office Supplies,Paper,A4 Paper Pack,4,1845.06,0.0,7380.23,1469.69
+ORD-00857,2024-08-09,Northern,Jaffna,Mannar,Consumer,Technology,Phones,Budget Smartphone,4,63164.02,0.0,252656.08,20728.98
+ORD-00486,2024-08-09,Western,Kalutara,Colombo,Corporate,Office Supplies,Organizers,Document Folder,3,534.44,0.0,1603.31,144.18
+ORD-00164,2024-08-09,Western,Colombo,Negombo,Consumer,Furniture,Chairs,Visitor Chair,2,15110.52,0.15,25687.89,3892.87
+ORD-00242,2024-08-12,Eastern,Batticaloa,Batticaloa,Consumer,Furniture,Storage,Bookshelf,1,29541.88,0.0,29541.88,1804.08
+ORD-00241,2024-08-14,Central,Kandy,Kandy,Consumer,Technology,Accessories,Laptop Stand,6,7504.37,0.0,45026.22,4021.23
+ORD-00350,2024-08-15,Northern,Mannar,Mannar,Consumer,Technology,Phones,Wireless Earbuds,2,12915.36,0.1,23247.65,3392.94
+ORD-00208,2024-08-16,Northern,Kilinochchi,Kilinochchi,Small Business,Furniture,Desks,Writing Desk,4,35245.37,0.0,140981.5,15269.36
+ORD-01181,2024-08-17,Southern,Hambantota,Tangalle,Consumer,Technology,Computers,Laptop Pro,6,279377.6,0.05,1592452.3,299558.42
+ORD-00424,2024-08-18,Northern,Jaffna,Mannar,Small Business,Technology,Phones,Budget Smartphone,5,69647.68,0.05,330826.48,54534.34
+ORD-00200,2024-08-19,Northern,Jaffna,Mannar,Consumer,Technology,Computers,Wireless Mouse,4,4338.02,0.0,17352.09,643.51
+ORD-00524,2024-08-19,Southern,Galle,Matara,Small Business,Technology,Computers,Laptop Pro,3,280986.05,0.0,842958.14,59699.64
+ORD-00859,2024-08-19,Central,Nuwara Eliya,Matale,Small Business,Office Supplies,Paper,Notebook Set,2,1437.88,0.0,2875.77,420.25
+ORD-00084,2024-08-20,Southern,Matara,Galle,Consumer,Technology,Phones,Budget Smartphone,1,63403.38,0.0,63403.38,3893.43
+ORD-00824,2024-08-20,Central,Kandy,Nuwara Eliya,Consumer,Furniture,Desks,Compact Desk,10,22874.31,0.1,205868.82,16520.81
+ORD-00726,2024-08-23,Southern,Matara,Matara,Consumer,Furniture,Desks,Writing Desk,2,34009.46,0.0,68018.91,17942.19
+ORD-00215,2024-08-25,Central,Nuwara Eliya,Kandy,Corporate,Office Supplies,Organizers,File Binder,4,820.73,0.1,2954.64,552.87
+ORD-00004,2024-08-26,Southern,Hambantota,Tangalle,Consumer,Office Supplies,Organizers,Document Folder,3,522.67,0.0,1568.02,258.18
+ORD-01185,2024-08-28,Western,Kalutara,Negombo,Consumer,Furniture,Chairs,Visitor Chair,3,13457.17,0.0,40371.51,5563.8
+ORD-00355,2024-08-28,Southern,Galle,Galle,Consumer,Technology,Computers,Wireless Mouse,2,4782.75,0.0,9565.5,2038.75
+ORD-00219,2024-08-28,Central,Kandy,Kandy,Small Business,Office Supplies,Organizers,Document Folder,1,532.52,0.0,532.52,77.86
+ORD-00296,2024-08-28,Southern,Matara,Matara,Corporate,Technology,Phones,Budget Smartphone,1,61523.83,0.0,61523.83,13357.61
+ORD-00955,2024-08-29,Northern,Jaffna,Jaffna,Corporate,Furniture,Chairs,Office Chair,2,25296.85,0.0,50593.7,10425.87
+ORD-00140,2024-08-29,Central,Nuwara Eliya,Matale,Small Business,Office Supplies,Paper,Sticky Notes,2,656.77,0.0,1313.54,125.22
+ORD-00585,2024-08-29,Southern,Galle,Matara,Consumer,Technology,Accessories,USB-C Hub,4,9015.45,0.0,36061.78,3542.5
+ORD-00710,2024-08-30,Western,Kalutara,Panadura,Corporate,Office Supplies,Writing,Marker Set,2,1115.64,0.0,2231.28,180.44
+ORD-00618,2024-08-30,Southern,Matara,Tangalle,Corporate,Furniture,Storage,Filing Cabinet,4,30096.88,0.0,120387.53,24097.23
+ORD-00016,2024-08-30,Southern,Matara,Matara,Consumer,Technology,Computers,Wireless Mouse,2,4155.56,0.1,7480.01,1571.96
+ORD-01157,2024-08-30,Western,Kalutara,Colombo,Small Business,Furniture,Storage,Bookshelf,2,30305.98,0.05,57581.36,12167.83
+ORD-00613,2024-09-01,Central,Matale,Nuwara Eliya,Consumer,Technology,Computers,Laptop Pro,4,300755.71,0.1,1082720.55,55518.95
+ORD-01159,2024-09-02,Western,Kalutara,Panadura,Corporate,Office Supplies,Organizers,File Binder,3,828.08,0.15,2111.6,351.42
+ORD-00498,2024-09-03,Western,Gampaha,Panadura,Corporate,Technology,Computers,Wireless Mouse,2,4575.73,0.0,9151.45,865.92
+ORD-00011,2024-09-04,Southern,Matara,Matara,Small Business,Technology,Computers,Laptop Pro,4,274323.67,0.2,877835.74,151273.22
+ORD-00262,2024-09-04,Central,Matale,Nuwara Eliya,Corporate,Technology,Phones,Smartphone X,2,151322.13,0.1,272379.84,10181.71
+ORD-01052,2024-09-05,Eastern,Batticaloa,Ampara,Consumer,Office Supplies,Organizers,Document Folder,2,536.51,0.0,1073.02,97.43
+ORD-00448,2024-09-05,Western,Kalutara,Panadura,Consumer,Office Supplies,Paper,A4 Paper Pack,1,1808.86,0.15,1537.53,88.47
+ORD-00748,2024-09-05,Western,Gampaha,Colombo,Consumer,Technology,Phones,Wireless Earbuds,3,11624.6,0.0,34873.81,1215.33
+ORD-00517,2024-09-05,Western,Kalutara,Panadura,Consumer,Furniture,Storage,Filing Cabinet,4,30549.57,0.0,122198.27,19849.14
+ORD-00367,2024-09-05,Eastern,Batticaloa,Trincomalee,Small Business,Furniture,Chairs,Office Chair,3,27347.92,0.1,73839.38,14532.08
+ORD-00900,2024-09-06,Western,Colombo,Colombo,Consumer,Office Supplies,Paper,Sticky Notes,4,655.31,0.1,2359.12,456.63
+ORD-00123,2024-09-07,Northern,Jaffna,Jaffna,Consumer,Furniture,Storage,Storage Box,5,4417.14,0.05,20981.41,4914.35
+ORD-00454,2024-09-08,Western,Gampaha,Colombo,Small Business,Furniture,Chairs,Ergonomic Chair,3,42136.79,0.1,113769.32,11933.24
+ORD-00560,2024-09-09,Western,Gampaha,Panadura,Consumer,Furniture,Desks,Compact Desk,1,25604.9,0.0,25604.9,3384.75
+ORD-01073,2024-09-09,Western,Kalutara,Colombo,Consumer,Furniture,Storage,Filing Cabinet,8,30048.34,0.0,240386.73,39357.32
+ORD-00361,2024-09-09,Eastern,Ampara,Ampara,Consumer,Furniture,Chairs,Office Chair,1,28104.72,0.15,23889.01,5321.39
+ORD-00561,2024-09-10,Western,Kalutara,Negombo,Consumer,Office Supplies,Writing,Ballpoint Pens,3,480.33,0.0,1440.99,195.45
+ORD-00655,2024-09-10,Southern,Hambantota,Galle,Consumer,Technology,Computers,Office Laptop,2,193273.24,0.0,386546.47,57715.59
+ORD-01057,2024-09-11,Northern,Mannar,Jaffna,Corporate,Office Supplies,Writing,Highlighter Set,3,955.51,0.0,2866.54,486.98
+ORD-00093,2024-09-11,Southern,Hambantota,Tangalle,Corporate,Technology,Computers,Laptop Pro,2,289640.93,0.15,492389.58,54104.19
+ORD-00365,2024-09-11,Western,Colombo,Panadura,Consumer,Furniture,Desks,Compact Desk,4,25125.2,0.05,95475.76,11483.48
+ORD-00853,2024-09-12,Western,Colombo,Panadura,Small Business,Technology,Accessories,Keyboard,1,6166.87,0.1,5550.18,958.28
+ORD-00753,2024-09-14,Northern,Kilinochchi,Mannar,Corporate,Technology,Computers,Wireless Mouse,3,4668.99,0.2,11205.57,1437.47
+ORD-00574,2024-09-14,Eastern,Trincomalee,Ampara,Consumer,Office Supplies,Paper,Notebook Set,2,1381.4,0.05,2624.67,573.36
+ORD-00989,2024-09-15,Eastern,Ampara,Trincomalee,Small Business,Technology,Accessories,USB-C Hub,3,8107.2,0.1,21889.44,3508.85
+ORD-00299,2024-09-15,Central,Matale,Matale,Corporate,Office Supplies,Organizers,File Binder,2,832.55,0.0,1665.11,388.18
+ORD-01082,2024-09-15,Southern,Galle,Galle,Consumer,Furniture,Storage,Bookshelf,1,29613.44,0.0,29613.44,2078.58
+ORD-00579,2024-09-16,Southern,Hambantota,Galle,Small Business,Technology,Computers,Wireless Mouse,2,4156.94,0.0,8313.88,520.99
+ORD-01041,2024-09-16,Western,Kalutara,Colombo,Small Business,Furniture,Desks,Writing Desk,4,37576.86,0.0,150307.46,39279.65
+ORD-00581,2024-09-17,Western,Gampaha,Negombo,Small Business,Furniture,Storage,Bookshelf,1,27098.91,0.0,27098.91,5025.29
+ORD-00409,2024-09-17,Western,Colombo,Panadura,Small Business,Technology,Accessories,Keyboard,4,6462.17,0.2,20678.95,199.56
+ORD-00534,2024-09-18,Eastern,Ampara,Batticaloa,Consumer,Furniture,Desks,Standing Desk,3,75433.15,0.0,226299.45,36118.57
+ORD-00559,2024-09-19,Southern,Hambantota,Tangalle,Small Business,Technology,Phones,Smartphone X,2,137667.28,0.0,275334.56,32652.31
+ORD-00541,2024-09-20,Western,Kalutara,Colombo,Consumer,Technology,Phones,Budget Smartphone,1,60214.81,0.0,60214.81,12669.78
+ORD-00825,2024-09-20,Northern,Kilinochchi,Jaffna,Corporate,Office Supplies,Writing,Highlighter Set,3,925.31,0.0,2775.92,605.5
+ORD-00952,2024-09-20,Western,Colombo,Negombo,Consumer,Furniture,Storage,Storage Box,1,3957.62,0.0,3957.62,766.25
+ORD-01014,2024-09-20,Northern,Kilinochchi,Jaffna,Small Business,Technology,Accessories,USB-C Hub,4,8893.07,0.2,28457.84,1477.42
+ORD-00129,2024-09-21,Western,Gampaha,Negombo,Consumer,Furniture,Storage,Bookshelf,6,29167.09,0.0,175002.52,44775.81
+ORD-01170,2024-09-21,Northern,Mannar,Jaffna,Consumer,Furniture,Desks,Standing Desk,3,73092.86,0.0,219278.59,44609.13
+ORD-00792,2024-09-22,Central,Matale,Kandy,Consumer,Furniture,Storage,Storage Box,1,4100.41,0.0,4100.41,396.56
+ORD-01173,2024-09-22,Northern,Jaffna,Mannar,Consumer,Office Supplies,Writing,Highlighter Set,2,918.45,0.1,1653.21,88.69
+ORD-00586,2024-09-22,Southern,Matara,Galle,Consumer,Office Supplies,Paper,A4 Paper Pack,1,1924.63,0.0,1924.63,395.89
+ORD-00974,2024-09-23,Central,Nuwara Eliya,Kandy,Corporate,Furniture,Desks,Compact Desk,5,23008.06,0.0,115040.28,24743.23
+ORD-00482,2024-09-23,Western,Colombo,Colombo,Small Business,Technology,Accessories,Laptop Stand,1,7570.22,0.0,7570.22,1004.04
+ORD-00846,2024-09-23,Eastern,Trincomalee,Trincomalee,Corporate,Furniture,Desks,Compact Desk,2,22084.19,0.15,37543.13,5123.8
+ORD-00768,2024-09-26,Western,Colombo,Colombo,Consumer,Technology,Computers,Laptop Pro,5,268786.98,0.05,1276738.17,300616.72
+ORD-00159,2024-09-26,Eastern,Trincomalee,Ampara,Corporate,Furniture,Desks,Compact Desk,3,22907.5,0.1,61850.25,4753.45
+ORD-00810,2024-09-26,Central,Nuwara Eliya,Matale,Consumer,Technology,Accessories,Keyboard,2,6404.69,0.0,12809.38,1017.21
+ORD-00408,2024-09-27,Western,Colombo,Colombo,Consumer,Furniture,Desks,Standing Desk,1,73256.09,0.2,58604.87,7425.73
+ORD-00719,2024-09-28,Eastern,Batticaloa,Ampara,Consumer,Technology,Accessories,Keyboard,5,6624.77,0.1,29811.46,3626.94
+ORD-00018,2024-09-28,Western,Colombo,Colombo,Corporate,Furniture,Chairs,Office Chair,5,25724.67,0.2,102898.68,10290.07
+ORD-00420,2024-09-28,Central,Kandy,Kandy,Consumer,Technology,Computers,Laptop Pro,2,283483.93,0.2,453574.29,99867.22
+ORD-00812,2024-09-29,Central,Matale,Kandy,Corporate,Furniture,Chairs,Office Chair,2,27684.41,0.0,55368.82,6194.09
+ORD-00762,2024-09-30,Western,Gampaha,Colombo,Corporate,Technology,Phones,Budget Smartphone,5,63591.59,0.05,302060.07,37773.57
+ORD-01152,2024-10-02,Western,Gampaha,Panadura,Small Business,Furniture,Storage,Storage Box,4,4488.45,0.0,17953.79,2872.89
+ORD-00246,2024-10-02,Southern,Matara,Matara,Corporate,Furniture,Desks,Standing Desk,1,77106.34,0.1,69395.71,16586.41
+ORD-01118,2024-10-03,Eastern,Ampara,Batticaloa,Consumer,Furniture,Chairs,Ergonomic Chair,4,45088.3,0.1,162317.9,25152.1
+ORD-00214,2024-10-03,Central,Matale,Kandy,Consumer,Office Supplies,Writing,Ballpoint Pens,3,415.57,0.05,1184.38,153.81
+ORD-00820,2024-10-03,Western,Gampaha,Negombo,Small Business,Technology,Computers,Laptop Pro,4,300805.61,0.05,1143061.31,81830.32
+ORD-00666,2024-10-03,Central,Nuwara Eliya,Matale,Small Business,Technology,Computers,Laptop Pro,1,289449.43,0.0,289449.43,61142.92
+ORD-00499,2024-10-04,Eastern,Batticaloa,Ampara,Corporate,Technology,Accessories,Laptop Stand,1,6775.15,0.05,6436.39,418.85
+ORD-00633,2024-10-04,Western,Colombo,Negombo,Small Business,Furniture,Storage,Storage Box,4,4336.58,0.0,17346.31,3430.1
+ORD-00881,2024-10-04,Western,Kalutara,Panadura,Small Business,Furniture,Desks,Writing Desk,1,37480.03,0.0,37480.03,3213.94
+ORD-00860,2024-10-05,Southern,Hambantota,Galle,Corporate,Technology,Phones,Wireless Earbuds,4,13452.23,0.0,53808.93,5995.88
+ORD-00809,2024-10-06,Western,Gampaha,Panadura,Corporate,Office Supplies,Writing,Highlighter Set,3,1003.31,0.0,3009.93,733.13
+ORD-00606,2024-10-06,Eastern,Trincomalee,Batticaloa,Corporate,Technology,Accessories,Laptop Stand,4,6722.97,0.05,25547.27,1288.38
+ORD-00609,2024-10-06,Southern,Hambantota,Matara,Small Business,Office Supplies,Organizers,Desk Organizer,3,2328.85,0.0,6986.56,1552.86
+ORD-01026,2024-10-07,Southern,Hambantota,Galle,Corporate,Furniture,Desks,Writing Desk,3,37748.06,0.1,101919.75,19798.54
+ORD-00546,2024-10-08,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Furniture,Desks,Writing Desk,4,33432.72,0.15,113671.24,5340.72
+ORD-00905,2024-10-08,Central,Nuwara Eliya,Matale,Consumer,Furniture,Desks,Standing Desk,1,81404.9,0.1,73264.41,13984.44
+ORD-00244,2024-10-08,Eastern,Ampara,Ampara,Consumer,Technology,Accessories,Keyboard,2,6278.97,0.0,12557.94,2424.9
+ORD-00413,2024-10-09,Central,Kandy,Kandy,Consumer,Furniture,Storage,Filing Cabinet,2,33878.23,0.0,67756.46,17823.17
+ORD-01088,2024-10-10,Western,Gampaha,Negombo,Small Business,Office Supplies,Writing,Highlighter Set,3,875.16,0.0,2625.47,695.44
+ORD-00321,2024-10-11,Central,Kandy,Nuwara Eliya,Small Business,Office Supplies,Writing,Marker Set,3,1227.36,0.15,3129.78,302.68
+ORD-00678,2024-10-11,Western,Colombo,Negombo,Consumer,Furniture,Storage,Filing Cabinet,2,33814.17,0.05,64246.93,10464.35
+ORD-00136,2024-10-13,Southern,Galle,Matara,Consumer,Office Supplies,Organizers,File Binder,3,859.24,0.0,2577.72,528.24
+ORD-00708,2024-10-14,Northern,Mannar,Kilinochchi,Consumer,Furniture,Desks,Compact Desk,2,22576.55,0.0,45153.1,6577.81
+ORD-00126,2024-10-14,Western,Colombo,Panadura,Small Business,Furniture,Desks,Compact Desk,8,25431.78,0.0,203454.23,22090.15
+ORD-00848,2024-10-14,Eastern,Ampara,Batticaloa,Corporate,Furniture,Desks,Compact Desk,6,24779.73,0.15,126376.64,21674.05
+ORD-00195,2024-10-15,Eastern,Trincomalee,Batticaloa,Consumer,Furniture,Chairs,Ergonomic Chair,4,40190.16,0.15,136646.56,20776.58
+ORD-00770,2024-10-15,Western,Gampaha,Panadura,Consumer,Technology,Accessories,USB-C Hub,2,8367.41,0.05,15898.08,1391.16
+ORD-01178,2024-10-17,Southern,Matara,Galle,Small Business,Technology,Accessories,USB-C Hub,3,8120.1,0.0,24360.29,2796.33
+ORD-00070,2024-10-17,Northern,Kilinochchi,Mannar,Consumer,Furniture,Chairs,Office Chair,6,25175.4,0.0,151052.38,20425.9
+ORD-00062,2024-10-18,Central,Nuwara Eliya,Nuwara Eliya,Small Business,Technology,Computers,Laptop Pro,3,270294.3,0.0,810882.9,54452.95
+ORD-00720,2024-10-19,Southern,Matara,Galle,Consumer,Office Supplies,Paper,A4 Paper Pack,1,1839.22,0.2,1471.37,342.94
+ORD-00843,2024-10-19,Eastern,Trincomalee,Ampara,Corporate,Office Supplies,Organizers,Desk Organizer,4,2216.01,0.1,7977.65,1857.35
+ORD-01193,2024-10-19,Western,Colombo,Negombo,Small Business,Furniture,Desks,Standing Desk,3,83697.22,0.0,251091.67,37991.92
+ORD-00197,2024-10-20,Eastern,Batticaloa,Ampara,Consumer,Furniture,Storage,Storage Box,3,4423.67,0.0,13271.0,2080.34
+ORD-01085,2024-10-20,Southern,Hambantota,Tangalle,Consumer,Technology,Phones,Budget Smartphone,5,66092.08,0.05,313937.37,14460.99
+ORD-00175,2024-10-21,Western,Colombo,Panadura,Consumer,Technology,Accessories,USB-C Hub,1,8040.24,0.05,7638.23,1460.73
+ORD-00882,2024-10-23,Central,Matale,Matale,Corporate,Technology,Computers,Wireless Mouse,3,4660.68,0.1,12583.82,1296.27
+ORD-00934,2024-10-23,Western,Colombo,Negombo,Consumer,Technology,Computers,Wireless Mouse,3,4535.61,0.15,11565.8,122.37
+ORD-00274,2024-10-24,Western,Gampaha,Panadura,Small Business,Technology,Accessories,Keyboard,8,6407.65,0.1,46135.09,5235.6
+ORD-00722,2024-10-25,Eastern,Ampara,Trincomalee,Consumer,Furniture,Desks,Writing Desk,2,34464.22,0.0,68928.44,7396.35
+ORD-00589,2024-10-27,Southern,Galle,Galle,Corporate,Furniture,Storage,Filing Cabinet,3,29488.31,0.05,84041.69,16253.06
+ORD-00091,2024-10-28,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Office Supplies,Writing,Marker Set,4,1254.33,0.05,4766.45,367.09
+ORD-00693,2024-10-29,Central,Kandy,Matale,Small Business,Furniture,Storage,Storage Box,5,4268.38,0.1,19207.72,1674.35
+ORD-00404,2024-10-29,Southern,Galle,Matara,Consumer,Furniture,Desks,Compact Desk,2,23769.04,0.1,42784.27,2429.6
+ORD-00712,2024-10-29,Western,Kalutara,Negombo,Consumer,Office Supplies,Organizers,Desk Organizer,1,2232.06,0.15,1897.25,362.63
+ORD-00319,2024-10-30,Northern,Kilinochchi,Kilinochchi,Consumer,Furniture,Chairs,Ergonomic Chair,5,42688.24,0.0,213441.21,49898.14
+ORD-00802,2024-10-30,Northern,Mannar,Jaffna,Consumer,Furniture,Storage,Filing Cabinet,5,30944.16,0.1,139248.7,28931.13
+ORD-01107,2024-10-30,Western,Gampaha,Colombo,Consumer,Office Supplies,Paper,Notebook Set,2,1600.6,0.0,3201.2,235.4
+ORD-00338,2024-10-31,Eastern,Ampara,Trincomalee,Consumer,Office Supplies,Writing,Highlighter Set,1,890.64,0.0,890.64,122.35
+ORD-00065,2024-10-31,Northern,Mannar,Kilinochchi,Small Business,Furniture,Storage,Filing Cabinet,2,33196.82,0.1,59754.27,7423.18
+ORD-00015,2024-11-01,Western,Gampaha,Negombo,Corporate,Technology,Phones,Wireless Earbuds,1,12473.32,0.05,11849.65,2669.98
+ORD-00875,2024-11-02,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Technology,Computers,Wireless Mouse,8,4784.19,0.0,38273.5,1218.63
+ORD-00856,2024-11-02,Western,Gampaha,Panadura,Corporate,Technology,Accessories,Keyboard,3,6437.72,0.05,18347.52,3992.83
+ORD-01095,2024-11-03,Southern,Hambantota,Matara,Small Business,Furniture,Chairs,Ergonomic Chair,5,44872.29,0.0,224361.43,38435.52
+ORD-01035,2024-11-03,Central,Kandy,Matale,Consumer,Technology,Accessories,Laptop Stand,3,7538.87,0.0,22616.6,4097.63
+ORD-01114,2024-11-03,Northern,Jaffna,Kilinochchi,Consumer,Office Supplies,Organizers,Document Folder,1,574.35,0.0,574.35,98.8
+ORD-01075,2024-11-04,Central,Matale,Nuwara Eliya,Consumer,Furniture,Chairs,Office Chair,2,24419.37,0.0,48838.73,2960.07
+ORD-00199,2024-11-05,Southern,Matara,Matara,Consumer,Office Supplies,Organizers,Document Folder,1,580.85,0.0,580.85,63.97
+ORD-00554,2024-11-05,Northern,Jaffna,Kilinochchi,Consumer,Furniture,Storage,Filing Cabinet,1,32772.09,0.05,31133.49,2741.93
+ORD-01132,2024-11-06,Central,Matale,Kandy,Consumer,Office Supplies,Writing,Highlighter Set,2,914.31,0.1,1645.76,143.76
+ORD-01016,2024-11-09,Western,Kalutara,Panadura,Consumer,Furniture,Storage,Filing Cabinet,2,31783.35,0.15,54031.7,11790.27
+ORD-00278,2024-11-09,Eastern,Ampara,Ampara,Consumer,Furniture,Desks,Standing Desk,2,82030.24,0.0,164060.48,35708.91
+ORD-01134,2024-11-10,Southern,Hambantota,Galle,Corporate,Technology,Phones,Budget Smartphone,5,60147.11,0.0,300735.56,35494.98
+ORD-00390,2024-11-10,Western,Colombo,Negombo,Small Business,Technology,Phones,Smartphone X,2,146718.09,0.1,264092.56,6967.44
+ORD-00476,2024-11-11,Western,Colombo,Negombo,Consumer,Technology,Phones,Budget Smartphone,4,62350.76,0.0,249403.06,28939.72
+ORD-00194,2024-11-11,Western,Kalutara,Colombo,Corporate,Technology,Phones,Budget Smartphone,4,60134.35,0.05,228510.53,12097.87
+ORD-00303,2024-11-12,Western,Kalutara,Negombo,Consumer,Furniture,Chairs,Ergonomic Chair,2,40485.11,0.0,80970.22,14282.23
+ORD-00801,2024-11-12,Eastern,Batticaloa,Trincomalee,Small Business,Furniture,Desks,Writing Desk,4,33495.46,0.0,133981.85,34465.99
+ORD-00170,2024-11-12,Eastern,Trincomalee,Ampara,Consumer,Furniture,Chairs,Visitor Chair,4,15130.69,0.0,60522.76,14751.07
+ORD-00960,2024-11-13,Central,Nuwara Eliya,Nuwara Eliya,Small Business,Furniture,Desks,Standing Desk,1,78844.46,0.05,74902.23,18071.56
+ORD-00751,2024-11-13,Eastern,Trincomalee,Batticaloa,Consumer,Furniture,Storage,Storage Box,4,3951.67,0.0,15806.7,2024.37
+ORD-00226,2024-11-13,Northern,Mannar,Mannar,Corporate,Office Supplies,Organizers,Desk Organizer,5,2132.58,0.15,9063.46,568.78
+ORD-01023,2024-11-14,Southern,Matara,Tangalle,Consumer,Technology,Phones,Wireless Earbuds,3,12029.23,0.0,36087.7,7620.39
+ORD-00191,2024-11-14,Southern,Matara,Galle,Consumer,Furniture,Chairs,Office Chair,2,27529.92,0.0,55059.85,13354.49
+ORD-00156,2024-11-15,Central,Kandy,Matale,Small Business,Furniture,Desks,Compact Desk,3,23915.31,0.0,71745.94,5359.54
+ORD-00552,2024-11-15,Southern,Galle,Tangalle,Corporate,Technology,Phones,Wireless Earbuds,1,12086.55,0.0,12086.55,996.97
+ORD-00724,2024-11-16,Southern,Galle,Matara,Consumer,Furniture,Storage,Bookshelf,2,28500.31,0.0,57000.62,7536.22
+ORD-00154,2024-11-16,Western,Gampaha,Colombo,Small Business,Technology,Phones,Budget Smartphone,2,67816.04,0.05,128850.48,7630.26
+ORD-00940,2024-11-17,Northern,Jaffna,Jaffna,Consumer,Technology,Phones,Wireless Earbuds,4,13425.61,0.0,53702.46,5484.74
+ORD-00919,2024-11-18,Central,Nuwara Eliya,Nuwara Eliya,Small Business,Office Supplies,Organizers,Document Folder,2,517.08,0.0,1034.15,112.86
+ORD-00165,2024-11-18,Southern,Galle,Tangalle,Small Business,Office Supplies,Writing,Marker Set,5,1192.5,0.0,5962.49,378.48
+ORD-00067,2024-11-20,Western,Colombo,Negombo,Consumer,Office Supplies,Paper,Sticky Notes,2,603.06,0.0,1206.13,251.56
+ORD-00148,2024-11-21,Eastern,Trincomalee,Trincomalee,Consumer,Technology,Computers,Wireless Mouse,8,4363.67,0.0,34909.37,3069.6
+ORD-00003,2024-11-21,Southern,Galle,Tangalle,Corporate,Technology,Phones,Wireless Earbuds,1,12433.44,0.0,12433.44,732.87
+ORD-00216,2024-11-21,Eastern,Batticaloa,Trincomalee,Consumer,Technology,Accessories,Keyboard,1,6329.74,0.2,5063.79,23.15
+ORD-00366,2024-11-22,Western,Colombo,Panadura,Consumer,Furniture,Storage,Filing Cabinet,2,32269.68,0.0,64539.36,15610.6
+ORD-00087,2024-11-22,Central,Kandy,Matale,Consumer,Technology,Accessories,USB-C Hub,4,8957.29,0.0,35829.17,5591.39
+ORD-00986,2024-11-22,Southern,Matara,Tangalle,Corporate,Technology,Phones,Smartphone X,3,151102.36,0.0,453307.09,81357.08
+ORD-00058,2024-11-23,Northern,Kilinochchi,Mannar,Consumer,Technology,Accessories,Keyboard,1,6765.54,0.0,6765.54,867.69
+ORD-01089,2024-11-23,Southern,Hambantota,Tangalle,Small Business,Technology,Phones,Wireless Earbuds,1,13404.47,0.0,13404.47,2806.34
+ORD-00884,2024-11-23,Southern,Galle,Galle,Corporate,Furniture,Storage,Filing Cabinet,1,32205.21,0.05,30594.95,6745.74
+ORD-01059,2024-11-23,Western,Colombo,Panadura,Consumer,Technology,Accessories,Laptop Stand,2,7471.95,0.2,11955.11,2336.07
+ORD-00228,2024-11-23,Western,Colombo,Panadura,Consumer,Technology,Computers,Office Laptop,2,192663.2,0.15,327527.44,21772.39
+ORD-00676,2024-11-24,Eastern,Batticaloa,Ampara,Consumer,Technology,Computers,Laptop Pro,5,293705.19,0.0,1468525.93,207239.07
+ORD-00047,2024-11-24,Central,Matale,Nuwara Eliya,Corporate,Furniture,Chairs,Visitor Chair,1,13968.16,0.1,12571.34,3314.37
+ORD-00444,2024-11-24,Western,Gampaha,Panadura,Consumer,Technology,Accessories,USB-C Hub,3,8072.31,0.1,21795.24,624.59
+ORD-00100,2024-11-24,Northern,Jaffna,Kilinochchi,Consumer,Technology,Phones,Smartphone X,4,153150.96,0.15,520713.28,42516.69
+ORD-00223,2024-11-24,Western,Colombo,Negombo,Consumer,Furniture,Storage,Bookshelf,6,27426.46,0.0,164558.75,13792.47
+ORD-01156,2024-11-25,Central,Nuwara Eliya,Matale,Consumer,Technology,Computers,Wireless Mouse,3,4556.33,0.0,13669.0,1160.03
+ORD-00538,2024-11-25,Western,Kalutara,Panadura,Consumer,Office Supplies,Writing,Ballpoint Pens,2,450.72,0.1,811.29,69.6
+ORD-00430,2024-11-25,Southern,Matara,Matara,Consumer,Technology,Computers,Wireless Mouse,2,4665.08,0.0,9330.15,1341.97
+ORD-00491,2024-11-25,Eastern,Ampara,Trincomalee,Corporate,Technology,Accessories,Keyboard,6,6452.96,0.0,38717.76,5901.98
+ORD-00251,2024-11-26,Western,Kalutara,Panadura,Small Business,Furniture,Desks,Standing Desk,2,73639.5,0.0,147278.99,10367.72
+ORD-00699,2024-11-26,Western,Gampaha,Panadura,Consumer,Furniture,Chairs,Visitor Chair,4,15181.81,0.0,60727.23,3960.16
+ORD-00953,2024-11-26,Western,Colombo,Colombo,Consumer,Technology,Phones,Budget Smartphone,1,65843.59,0.15,55967.05,10078.16
+ORD-00494,2024-11-27,Eastern,Batticaloa,Batticaloa,Small Business,Technology,Computers,Laptop Pro,4,283706.05,0.0,1134824.18,209878.31
+ORD-00660,2024-11-27,Western,Kalutara,Negombo,Small Business,Furniture,Chairs,Visitor Chair,1,15198.5,0.0,15198.5,1005.77
+ORD-00280,2024-11-27,Central,Nuwara Eliya,Kandy,Small Business,Office Supplies,Organizers,Desk Organizer,2,2223.04,0.0,4446.09,487.61
+ORD-00738,2024-11-28,Southern,Hambantota,Galle,Corporate,Office Supplies,Writing,Highlighter Set,1,874.2,0.05,830.49,58.3
+ORD-00106,2024-11-30,Eastern,Trincomalee,Batticaloa,Consumer,Technology,Phones,Budget Smartphone,1,66375.74,0.0,66375.74,15120.89
+ORD-00490,2024-12-04,Eastern,Batticaloa,Batticaloa,Small Business,Technology,Phones,Wireless Earbuds,5,11752.48,0.0,58762.41,6856.46
+ORD-00610,2024-12-04,Eastern,Trincomalee,Trincomalee,Corporate,Office Supplies,Organizers,File Binder,4,800.01,0.0,3200.05,735.44
+ORD-00852,2024-12-04,Northern,Mannar,Mannar,Consumer,Technology,Accessories,Keyboard,2,6047.7,0.0,12095.4,2937.36
+ORD-00988,2024-12-05,Western,Colombo,Colombo,Consumer,Technology,Computers,Wireless Mouse,3,4808.15,0.0,14424.44,1993.71
+ORD-00968,2024-12-05,Southern,Galle,Matara,Consumer,Furniture,Storage,Filing Cabinet,3,30763.49,0.05,87675.94,7553.26
+ORD-00969,2024-12-08,Southern,Galle,Galle,Small Business,Technology,Accessories,Keyboard,2,6346.37,0.0,12692.74,2672.02
+ORD-00976,2024-12-09,Northern,Mannar,Kilinochchi,Small Business,Furniture,Chairs,Ergonomic Chair,6,44503.1,0.0,267018.59,60481.89
+ORD-00831,2024-12-10,Central,Nuwara Eliya,Kandy,Consumer,Technology,Phones,Wireless Earbuds,6,11706.28,0.0,70237.67,7681.12
+ORD-00462,2024-12-10,Central,Matale,Nuwara Eliya,Small Business,Technology,Phones,Smartphone X,6,140435.37,0.0,842612.21,154561.11
+ORD-01058,2024-12-10,Southern,Hambantota,Matara,Corporate,Technology,Computers,Wireless Mouse,2,4832.74,0.1,8698.93,115.52
+ORD-00233,2024-12-10,Western,Colombo,Negombo,Consumer,Furniture,Desks,Writing Desk,10,35742.83,0.15,303814.04,45001.76
+ORD-00282,2024-12-10,Southern,Matara,Matara,Corporate,Technology,Computers,Office Laptop,3,194130.91,0.1,524153.45,92797.47
+ORD-00670,2024-12-11,Western,Kalutara,Negombo,Consumer,Furniture,Storage,Storage Box,3,4213.47,0.0,12640.42,3175.6
+ORD-00180,2024-12-12,Eastern,Ampara,Ampara,Small Business,Furniture,Desks,Writing Desk,1,35495.28,0.15,30170.99,3152.61
+ORD-00535,2024-12-13,Central,Matale,Nuwara Eliya,Consumer,Technology,Computers,Office Laptop,4,184843.22,0.05,702404.23,77738.04
+ORD-00590,2024-12-13,Eastern,Ampara,Batticaloa,Consumer,Furniture,Desks,Writing Desk,1,38288.35,0.15,32545.1,5290.96
+ORD-00379,2024-12-13,Western,Colombo,Panadura,Small Business,Technology,Phones,Smartphone X,6,155469.69,0.0,932818.17,82184.85
+ORD-00774,2024-12-14,Western,Colombo,Panadura,Consumer,Technology,Computers,Wireless Mouse,1,4166.53,0.0,4166.53,977.67
+ORD-00095,2024-12-15,Western,Gampaha,Panadura,Consumer,Office Supplies,Writing,Ballpoint Pens,3,447.73,0.0,1343.18,93.94
+ORD-01194,2024-12-15,Western,Kalutara,Negombo,Consumer,Technology,Phones,Budget Smartphone,2,66173.18,0.0,132346.36,12806.69
+ORD-00703,2024-12-17,Northern,Jaffna,Kilinochchi,Corporate,Technology,Computers,Office Laptop,1,192993.52,0.15,164044.49,2449.81
+ORD-00354,2024-12-17,Central,Nuwara Eliya,Kandy,Corporate,Furniture,Desks,Compact Desk,4,23301.37,0.0,93205.47,17590.9
+ORD-01182,2024-12-17,Central,Kandy,Matale,Consumer,Technology,Computers,Wireless Mouse,2,4351.21,0.1,7832.17,1263.35
+ORD-00207,2024-12-17,Western,Colombo,Panadura,Corporate,Furniture,Storage,Filing Cabinet,1,33227.62,0.0,33227.62,7328.41
+ORD-00725,2024-12-18,Southern,Hambantota,Galle,Corporate,Technology,Accessories,Keyboard,6,6975.32,0.0,41851.93,3480.07
+ORD-01024,2024-12-18,Western,Kalutara,Colombo,Consumer,Office Supplies,Organizers,Desk Organizer,3,2307.25,0.0,6921.76,797.07
+ORD-00822,2024-12-19,Western,Gampaha,Negombo,Consumer,Technology,Accessories,Laptop Stand,4,7523.75,0.0,30095.0,7009.65
+ORD-00656,2024-12-20,Western,Kalutara,Negombo,Consumer,Technology,Computers,Wireless Mouse,3,4452.3,0.15,11353.36,1303.2
+ORD-01098,2024-12-21,Central,Matale,Matale,Consumer,Furniture,Chairs,Office Chair,5,26185.64,0.05,124381.8,6824.5
+ORD-00713,2024-12-21,Western,Kalutara,Negombo,Consumer,Office Supplies,Writing,Marker Set,2,1215.93,0.0,2431.87,668.68
+ORD-00441,2024-12-23,Northern,Mannar,Jaffna,Corporate,Furniture,Desks,Writing Desk,1,33891.35,0.0,33891.35,5711.16
+ORD-00066,2024-12-23,Western,Kalutara,Colombo,Small Business,Office Supplies,Paper,Sticky Notes,3,699.7,0.0,2099.11,492.47
+ORD-01197,2024-12-23,Eastern,Batticaloa,Batticaloa,Corporate,Furniture,Storage,Storage Box,3,4410.3,0.0,13230.9,2057.39
+ORD-01086,2024-12-23,Southern,Matara,Galle,Corporate,Technology,Phones,Budget Smartphone,10,67208.2,0.15,571269.69,47532.71
+ORD-00114,2024-12-24,Northern,Jaffna,Jaffna,Corporate,Furniture,Chairs,Visitor Chair,2,13906.56,0.15,23641.14,5798.05
+ORD-01153,2024-12-24,Eastern,Batticaloa,Trincomalee,Consumer,Office Supplies,Writing,Highlighter Set,2,1016.62,0.0,2033.24,460.48
+ORD-00398,2024-12-25,Southern,Matara,Matara,Corporate,Office Supplies,Organizers,Document Folder,1,572.71,0.2,458.16,25.06
+ORD-00620,2024-12-26,Western,Gampaha,Negombo,Consumer,Office Supplies,Organizers,Document Folder,2,519.91,0.15,883.84,53.62
+ORD-00474,2024-12-27,Western,Colombo,Colombo,Small Business,Furniture,Desks,Standing Desk,4,71995.27,0.0,287981.07,56437.45
+ORD-00096,2024-12-28,Central,Kandy,Kandy,Consumer,Furniture,Storage,Storage Box,2,4062.09,0.1,7311.76,1761.23
+ORD-01117,2024-12-28,Eastern,Ampara,Trincomalee,Small Business,Furniture,Storage,Bookshelf,8,29721.49,0.0,237771.93,24437.95
+ORD-00782,2024-12-28,Western,Gampaha,Negombo,Corporate,Technology,Phones,Wireless Earbuds,1,13485.3,0.0,13485.3,2115.35
+ORD-00192,2024-12-30,Southern,Galle,Galle,Corporate,Furniture,Storage,Filing Cabinet,6,31958.08,0.05,182161.06,33961.99
+ORD-01092,2024-12-30,Western,Kalutara,Panadura,Small Business,Furniture,Storage,Bookshelf,2,26309.16,0.0,52618.32,5987.46
+ORD-00886,2024-12-31,Eastern,Ampara,Trincomalee,Corporate,Furniture,Storage,Bookshelf,2,26624.97,0.1,47924.95,12244.43
+ORD-01184,2024-12-31,Western,Kalutara,Colombo,Corporate,Technology,Accessories,Keyboard,5,6461.63,0.0,32308.17,4295.21
+ORD-00010,2025-01-01,Northern,Kilinochchi,Mannar,Consumer,Technology,Computers,Wireless Mouse,4,4461.23,0.0,17844.93,1629.82
+ORD-00788,2025-01-02,Western,Kalutara,Negombo,Small Business,Office Supplies,Writing,Marker Set,3,1251.61,0.0,3754.84,878.22
+ORD-00436,2025-01-02,Central,Matale,Kandy,Small Business,Technology,Computers,Laptop Pro,4,298484.31,0.0,1193937.25,168791.82
+ORD-00253,2025-01-03,Southern,Galle,Tangalle,Consumer,Technology,Computers,Laptop Pro,3,298327.55,0.1,805484.39,168635.51
+ORD-00903,2025-01-04,Northern,Kilinochchi,Kilinochchi,Small Business,Office Supplies,Organizers,File Binder,3,785.07,0.0,2355.21,463.46
+ORD-00119,2025-01-05,Western,Kalutara,Panadura,Consumer,Technology,Phones,Budget Smartphone,4,66587.94,0.2,213081.41,47063.89
+ORD-00268,2025-01-05,Central,Matale,Kandy,Consumer,Furniture,Chairs,Ergonomic Chair,2,40318.83,0.05,76605.78,10461.38
+ORD-00502,2025-01-05,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Office Supplies,Writing,Highlighter Set,2,974.14,0.05,1850.87,187.23
+ORD-00050,2025-01-06,Southern,Matara,Matara,Consumer,Technology,Accessories,Keyboard,3,6103.99,0.0,18311.96,1578.06
+ORD-00761,2025-01-08,Western,Gampaha,Colombo,Consumer,Furniture,Storage,Bookshelf,1,27675.96,0.0,27675.96,7680.24
+ORD-01126,2025-01-08,Central,Nuwara Eliya,Kandy,Consumer,Office Supplies,Organizers,Document Folder,2,574.32,0.0,1148.65,187.64
+ORD-00341,2025-01-10,Central,Kandy,Kandy,Consumer,Furniture,Desks,Standing Desk,8,75315.11,0.0,602520.89,78844.52
+ORD-00405,2025-01-10,Northern,Kilinochchi,Jaffna,Corporate,Furniture,Storage,Filing Cabinet,8,32042.72,0.1,230707.6,46879.52
+ORD-00309,2025-01-11,Southern,Matara,Matara,Consumer,Technology,Computers,Wireless Mouse,3,4774.97,0.1,12892.43,1505.76
+ORD-00193,2025-01-11,Northern,Jaffna,Jaffna,Consumer,Furniture,Storage,Filing Cabinet,3,34366.46,0.0,103099.39,10288.76
+ORD-00569,2025-01-12,Western,Colombo,Colombo,Consumer,Furniture,Chairs,Ergonomic Chair,2,39624.74,0.05,75287.01,16145.83
+ORD-00869,2025-01-14,Western,Kalutara,Colombo,Consumer,Technology,Phones,Smartphone X,4,152734.01,0.1,549842.45,31400.79
+ORD-01125,2025-01-14,Western,Gampaha,Negombo,Small Business,Furniture,Desks,Compact Desk,4,24117.33,0.1,86822.4,20847.98
+ORD-00201,2025-01-14,Southern,Hambantota,Galle,Consumer,Office Supplies,Paper,A4 Paper Pack,2,1676.68,0.1,3018.02,737.82
+ORD-01196,2025-01-14,Western,Colombo,Colombo,Small Business,Technology,Computers,Wireless Mouse,2,4217.17,0.1,7590.91,867.33
+ORD-00527,2025-01-15,Central,Nuwara Eliya,Matale,Corporate,Furniture,Desks,Standing Desk,1,72307.35,0.0,72307.35,16651.32
+ORD-00964,2025-01-16,Western,Kalutara,Colombo,Small Business,Technology,Computers,Wireless Mouse,3,4798.39,0.0,14395.16,700.46
+ORD-00297,2025-01-16,Southern,Matara,Galle,Corporate,Technology,Computers,Office Laptop,2,208207.35,0.0,416414.7,72627.71
+ORD-00664,2025-01-16,Eastern,Trincomalee,Trincomalee,Consumer,Furniture,Chairs,Visitor Chair,4,13546.17,0.1,48766.22,11445.21
+ORD-00238,2025-01-16,Central,Kandy,Kandy,Small Business,Office Supplies,Writing,Ballpoint Pens,5,418.23,0.0,2091.14,446.73
+ORD-00892,2025-01-16,Central,Matale,Kandy,Consumer,Furniture,Desks,Compact Desk,2,25159.19,0.0,50318.38,3302.05
+ORD-00250,2025-01-16,Western,Kalutara,Panadura,Consumer,Technology,Computers,Office Laptop,2,188931.0,0.0,377861.99,39792.8
+ORD-00038,2025-01-17,Southern,Hambantota,Galle,Corporate,Furniture,Desks,Compact Desk,5,23969.87,0.05,113856.87,29474.35
+ORD-00479,2025-01-18,Western,Gampaha,Panadura,Small Business,Furniture,Chairs,Office Chair,2,27457.0,0.0,54914.01,4146.43
+ORD-00880,2025-01-19,Eastern,Ampara,Trincomalee,Corporate,Technology,Accessories,Keyboard,4,6100.14,0.15,20740.48,878.36
+ORD-00053,2025-01-19,Northern,Kilinochchi,Kilinochchi,Consumer,Furniture,Desks,Writing Desk,4,38225.68,0.15,129967.31,19858.91
+ORD-01099,2025-01-20,Southern,Matara,Galle,Consumer,Furniture,Storage,Bookshelf,6,30405.93,0.0,182435.57,23147.55
+ORD-00992,2025-01-20,Southern,Matara,Tangalle,Small Business,Office Supplies,Writing,Marker Set,1,1110.58,0.05,1055.05,104.16
+ORD-01061,2025-01-21,Central,Matale,Nuwara Eliya,Corporate,Technology,Computers,Wireless Mouse,3,4266.01,0.1,11518.23,1958.4
+ORD-00621,2025-01-21,Eastern,Trincomalee,Ampara,Corporate,Furniture,Desks,Compact Desk,1,25308.59,0.05,24043.16,1621.67
+ORD-01162,2025-01-22,Central,Kandy,Matale,Small Business,Office Supplies,Paper,Sticky Notes,6,651.92,0.0,3911.52,710.47
+ORD-00741,2025-01-23,Western,Gampaha,Colombo,Corporate,Technology,Computers,Laptop Pro,1,295877.04,0.15,251495.49,53027.65
+ORD-00137,2025-01-23,Southern,Matara,Galle,Consumer,Technology,Phones,Budget Smartphone,4,63846.61,0.0,255386.42,37998.42
+ORD-00979,2025-01-23,Eastern,Trincomalee,Trincomalee,Consumer,Technology,Phones,Smartphone X,6,148533.18,0.0,891199.05,176789.51
+ORD-00019,2025-01-24,Central,Nuwara Eliya,Kandy,Consumer,Office Supplies,Paper,A4 Paper Pack,10,1912.8,0.1,17215.23,4200.07
+ORD-01050,2025-01-24,Central,Matale,Matale,Corporate,Technology,Computers,Laptop Pro,1,307089.66,0.0,307089.66,51078.65
+ORD-00904,2025-01-25,Western,Gampaha,Negombo,Consumer,Technology,Computers,Laptop Pro,5,278703.8,0.0,1393519.01,169091.67
+ORD-00301,2025-01-26,Central,Kandy,Matale,Small Business,Office Supplies,Writing,Ballpoint Pens,4,445.08,0.1,1602.29,238.32
+ORD-00375,2025-01-26,Central,Kandy,Kandy,Corporate,Office Supplies,Organizers,Document Folder,3,568.57,0.05,1620.44,409.96
+ORD-00183,2025-01-28,Central,Matale,Nuwara Eliya,Small Business,Technology,Computers,Wireless Mouse,4,4777.71,0.0,19110.83,2711.53
+ORD-00294,2025-01-29,Western,Colombo,Panadura,Small Business,Furniture,Storage,Storage Box,2,4425.7,0.0,8851.4,1971.76
+ORD-00149,2025-01-30,Eastern,Batticaloa,Batticaloa,Small Business,Office Supplies,Paper,Sticky Notes,5,696.11,0.0,3480.56,818.19
+ORD-00816,2025-01-30,Eastern,Ampara,Batticaloa,Corporate,Furniture,Storage,Bookshelf,2,29922.02,0.15,50867.44,5126.82
+ORD-01063,2025-01-30,Central,Matale,Nuwara Eliya,Small Business,Technology,Phones,Smartphone X,4,134239.95,0.2,429567.85,13613.66
+ORD-00867,2025-01-30,Western,Colombo,Panadura,Small Business,Furniture,Chairs,Ergonomic Chair,3,44645.91,0.0,133937.72,35304.15
+ORD-00112,2025-01-31,Southern,Galle,Tangalle,Corporate,Technology,Accessories,Laptop Stand,8,7326.79,0.0,58614.32,9530.99
+ORD-00780,2025-01-31,Western,Kalutara,Colombo,Consumer,Furniture,Chairs,Ergonomic Chair,8,42508.07,0.05,323061.36,32475.31
+ORD-00043,2025-02-02,Central,Kandy,Kandy,Small Business,Office Supplies,Organizers,File Binder,5,820.61,0.1,3692.75,263.71
+ORD-00411,2025-02-02,Southern,Hambantota,Galle,Consumer,Technology,Accessories,USB-C Hub,5,8778.63,0.05,41698.48,4226.6
+ORD-01100,2025-02-02,Central,Nuwara Eliya,Kandy,Consumer,Furniture,Storage,Storage Box,5,3920.32,0.0,19601.59,2361.38
+ORD-00113,2025-02-02,Western,Kalutara,Panadura,Consumer,Technology,Computers,Wireless Mouse,5,4579.36,0.0,22896.82,5287.02
+ORD-00412,2025-02-03,Southern,Galle,Galle,Corporate,Office Supplies,Organizers,Document Folder,3,547.76,0.15,1396.78,177.39
+ORD-00489,2025-02-03,Western,Colombo,Panadura,Consumer,Technology,Accessories,USB-C Hub,3,7872.98,0.0,23618.95,5759.64
+ORD-00957,2025-02-04,Western,Kalutara,Colombo,Corporate,Technology,Phones,Smartphone X,3,143248.35,0.1,386770.55,51104.89
+ORD-00714,2025-02-04,Central,Nuwara Eliya,Matale,Consumer,Technology,Computers,Laptop Pro,4,279558.23,0.0,1118232.92,179738.18
+ORD-01011,2025-02-05,Central,Kandy,Kandy,Consumer,Technology,Accessories,Laptop Stand,1,7419.3,0.0,7419.3,483.78
+ORD-00304,2025-02-05,Western,Colombo,Colombo,Consumer,Technology,Phones,Smartphone X,3,138546.3,0.0,415638.9,96470.09
+ORD-01111,2025-02-05,Northern,Jaffna,Kilinochchi,Small Business,Technology,Phones,Budget Smartphone,2,69452.85,0.0,138905.7,26978.92
+ORD-00202,2025-02-05,Western,Gampaha,Negombo,Consumer,Office Supplies,Paper,Notebook Set,2,1538.4,0.1,2769.11,498.09
+ORD-01045,2025-02-06,Western,Kalutara,Panadura,Consumer,Technology,Computers,Office Laptop,1,209716.72,0.1,188745.05,3847.44
+ORD-00423,2025-02-06,Southern,Galle,Galle,Corporate,Technology,Phones,Wireless Earbuds,3,12001.22,0.0,36003.65,1595.04
+ORD-00553,2025-02-06,Central,Nuwara Eliya,Matale,Corporate,Furniture,Desks,Standing Desk,3,72535.5,0.0,217606.49,51548.24
+ORD-00269,2025-02-06,Eastern,Ampara,Batticaloa,Consumer,Technology,Accessories,USB-C Hub,3,9112.0,0.0,27336.01,4849.67
+ORD-00540,2025-02-07,Western,Kalutara,Colombo,Consumer,Furniture,Desks,Compact Desk,2,22901.06,0.15,38931.8,9999.54
+ORD-00623,2025-02-07,Western,Kalutara,Panadura,Consumer,Technology,Computers,Office Laptop,3,204295.54,0.1,551597.97,112601.21
+ORD-01168,2025-02-08,Southern,Hambantota,Matara,Consumer,Furniture,Storage,Storage Box,4,4115.76,0.0,16463.04,3943.45
+ORD-01055,2025-02-08,Western,Gampaha,Panadura,Consumer,Technology,Accessories,Keyboard,4,6156.69,0.0,24626.76,2305.09
+ORD-01161,2025-02-08,Central,Matale,Nuwara Eliya,Corporate,Office Supplies,Organizers,File Binder,1,894.39,0.05,849.67,220.98
+ORD-00035,2025-02-08,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Furniture,Chairs,Visitor Chair,2,15044.95,0.0,30089.9,6404.8
+ORD-01154,2025-02-09,Eastern,Ampara,Trincomalee,Consumer,Office Supplies,Organizers,Document Folder,10,525.2,0.0,5252.0,1428.02
+ORD-01019,2025-02-10,Eastern,Ampara,Trincomalee,Corporate,Furniture,Chairs,Office Chair,4,26092.95,0.0,104371.78,19426.56
+ORD-01121,2025-02-10,Southern,Matara,Tangalle,Consumer,Office Supplies,Writing,Highlighter Set,3,998.08,0.0,2994.24,332.09
+ORD-00403,2025-02-11,Northern,Kilinochchi,Mannar,Corporate,Furniture,Chairs,Office Chair,3,25527.94,0.0,76583.83,20358.55
+ORD-00076,2025-02-14,Eastern,Trincomalee,Batticaloa,Consumer,Technology,Accessories,USB-C Hub,4,9119.28,0.05,34653.25,3959.27
+ORD-00568,2025-02-14,Western,Kalutara,Negombo,Consumer,Office Supplies,Writing,Ballpoint Pens,8,447.39,0.0,3579.1,538.88
+ORD-00393,2025-02-15,Northern,Mannar,Mannar,Corporate,Office Supplies,Writing,Ballpoint Pens,6,479.3,0.05,2731.99,495.62
+ORD-00182,2025-02-15,Western,Colombo,Negombo,Consumer,Furniture,Chairs,Ergonomic Chair,1,40980.41,0.15,34833.35,1699.74
+ORD-00400,2025-02-15,Western,Kalutara,Colombo,Corporate,Technology,Phones,Smartphone X,3,151457.96,0.0,454373.89,38698.1
+ORD-01079,2025-02-15,Western,Colombo,Colombo,Consumer,Technology,Phones,Smartphone X,2,134270.36,0.15,228259.61,41279.85
+ORD-00266,2025-02-15,Southern,Galle,Tangalle,Consumer,Technology,Phones,Budget Smartphone,3,69286.94,0.0,207860.81,46967.27
+ORD-00142,2025-02-16,Western,Kalutara,Negombo,Small Business,Furniture,Storage,Bookshelf,3,28157.91,0.0,84473.72,12829.55
+ORD-00912,2025-02-16,Western,Gampaha,Colombo,Consumer,Furniture,Chairs,Ergonomic Chair,2,40512.34,0.2,64819.74,15505.47
+ORD-00291,2025-02-18,Northern,Mannar,Mannar,Corporate,Furniture,Desks,Compact Desk,6,22466.0,0.0,134796.03,10236.42
+ORD-00870,2025-02-18,Northern,Kilinochchi,Kilinochchi,Consumer,Office Supplies,Paper,A4 Paper Pack,1,1894.32,0.15,1610.17,303.52
+ORD-00937,2025-02-18,Northern,Jaffna,Jaffna,Consumer,Technology,Computers,Laptop Pro,2,270181.82,0.0,540363.64,120675.89
+ORD-01155,2025-02-18,Southern,Hambantota,Matara,Corporate,Technology,Computers,Office Laptop,2,196594.41,0.15,334210.5,69457.87
+ORD-00166,2025-02-19,Central,Nuwara Eliya,Matale,Consumer,Technology,Computers,Office Laptop,5,182790.1,0.0,913950.51,182297.57
+ORD-00682,2025-02-19,Central,Matale,Kandy,Consumer,Office Supplies,Writing,Highlighter Set,1,994.13,0.0,994.13,113.63
+ORD-00946,2025-02-20,Southern,Hambantota,Galle,Corporate,Furniture,Desks,Compact Desk,5,24372.05,0.1,109674.23,12043.89
+ORD-00305,2025-02-20,Western,Kalutara,Colombo,Corporate,Technology,Accessories,Laptop Stand,10,6725.88,0.2,53807.05,2468.82
+ORD-00896,2025-02-20,Southern,Hambantota,Matara,Consumer,Technology,Accessories,USB-C Hub,8,8989.83,0.0,71918.65,10164.92
+ORD-00523,2025-02-21,Southern,Galle,Galle,Consumer,Technology,Phones,Budget Smartphone,1,63652.68,0.0,63652.68,2027.61
+ORD-00925,2025-02-21,Eastern,Batticaloa,Batticaloa,Consumer,Furniture,Desks,Standing Desk,4,74644.29,0.05,283648.3,56456.83
+ORD-00258,2025-02-21,Western,Gampaha,Panadura,Consumer,Furniture,Desks,Compact Desk,2,24318.64,0.05,46205.41,9177.02
+ORD-00611,2025-02-21,Southern,Matara,Matara,Consumer,Office Supplies,Writing,Marker Set,3,1249.97,0.05,3562.42,591.1
+ORD-00052,2025-02-22,Central,Matale,Matale,Corporate,Technology,Computers,Laptop Pro,4,291746.45,0.05,1108636.51,98188.74
+ORD-00249,2025-02-22,Central,Kandy,Matale,Consumer,Office Supplies,Writing,Ballpoint Pens,3,477.82,0.1,1290.1,256.4
+ORD-00786,2025-02-22,Western,Gampaha,Negombo,Consumer,Furniture,Desks,Standing Desk,6,83650.75,0.0,501904.48,53610.5
+ORD-01060,2025-02-22,Central,Kandy,Nuwara Eliya,Small Business,Technology,Accessories,USB-C Hub,2,9125.74,0.0,18251.47,880.44
+ORD-00931,2025-02-22,Western,Gampaha,Negombo,Consumer,Office Supplies,Organizers,Desk Organizer,1,2075.87,0.05,1972.08,444.38
+ORD-00556,2025-02-26,Northern,Mannar,Kilinochchi,Corporate,Office Supplies,Writing,Highlighter Set,1,985.17,0.2,788.14,80.85
+ORD-00449,2025-02-27,Western,Gampaha,Negombo,Small Business,Office Supplies,Organizers,Desk Organizer,2,2311.57,0.1,4160.82,668.23
+ORD-00351,2025-02-27,Northern,Mannar,Kilinochchi,Small Business,Office Supplies,Organizers,Document Folder,2,508.31,0.0,1016.61,143.01
+ORD-00659,2025-02-28,Western,Gampaha,Negombo,Corporate,Technology,Phones,Wireless Earbuds,1,12464.39,0.0,12464.39,2738.2
+ORD-00917,2025-03-01,Western,Kalutara,Negombo,Consumer,Furniture,Chairs,Office Chair,1,25864.76,0.1,23278.28,1789.54
+ORD-00817,2025-03-02,Eastern,Ampara,Trincomalee,Consumer,Furniture,Chairs,Visitor Chair,2,14651.81,0.0,29303.62,7831.54
+ORD-00858,2025-03-02,Western,Gampaha,Panadura,Consumer,Furniture,Desks,Writing Desk,2,37879.82,0.0,75759.65,13092.86
+ORD-00558,2025-03-02,Eastern,Trincomalee,Ampara,Small Business,Office Supplies,Organizers,File Binder,2,817.67,0.0,1635.34,297.44
+ORD-01138,2025-03-03,Southern,Galle,Galle,Consumer,Furniture,Chairs,Office Chair,2,25351.3,0.15,43097.2,5497.12
+ORD-00075,2025-03-03,Eastern,Batticaloa,Batticaloa,Consumer,Furniture,Chairs,Visitor Chair,3,15647.71,0.1,42248.81,9599.79
+ORD-00451,2025-03-05,Western,Gampaha,Negombo,Consumer,Office Supplies,Organizers,Desk Organizer,2,2240.66,0.0,4481.32,1152.84
+ORD-00962,2025-03-05,Western,Kalutara,Colombo,Consumer,Technology,Accessories,USB-C Hub,4,8494.55,0.05,32279.28,2855.0
+ORD-00097,2025-03-06,Eastern,Batticaloa,Trincomalee,Consumer,Office Supplies,Writing,Highlighter Set,2,958.04,0.0,1916.08,471.5
+ORD-00368,2025-03-06,Northern,Mannar,Mannar,Consumer,Furniture,Chairs,Ergonomic Chair,5,42739.36,0.0,213696.82,51201.45
+ORD-00074,2025-03-07,Eastern,Trincomalee,Batticaloa,Corporate,Office Supplies,Writing,Ballpoint Pens,2,431.38,0.0,862.76,81.27
+ORD-00433,2025-03-07,Eastern,Trincomalee,Batticaloa,Consumer,Furniture,Chairs,Visitor Chair,2,15260.36,0.1,27468.65,4341.95
+ORD-00704,2025-03-10,Central,Matale,Matale,Corporate,Office Supplies,Writing,Marker Set,2,1171.74,0.15,1991.96,471.92
+ORD-00626,2025-03-10,Southern,Galle,Tangalle,Consumer,Furniture,Storage,Filing Cabinet,5,29630.85,0.0,148154.24,10749.03
+ORD-00529,2025-03-11,Central,Nuwara Eliya,Matale,Small Business,Furniture,Storage,Filing Cabinet,5,32663.12,0.05,155149.84,29171.85
+ORD-00736,2025-03-12,Northern,Jaffna,Mannar,Consumer,Furniture,Chairs,Ergonomic Chair,1,39028.17,0.0,39028.17,4553.95
+ORD-00584,2025-03-13,Western,Gampaha,Colombo,Corporate,Furniture,Storage,Bookshelf,3,27542.62,0.2,66102.28,11420.3
+ORD-00157,2025-03-13,Southern,Galle,Galle,Consumer,Furniture,Desks,Standing Desk,6,77695.0,0.0,466170.02,112294.29
+ORD-00958,2025-03-14,Western,Colombo,Panadura,Consumer,Technology,Phones,Wireless Earbuds,2,12613.28,0.2,20181.25,1415.16
+ORD-00225,2025-03-14,Western,Gampaha,Colombo,Small Business,Technology,Phones,Wireless Earbuds,3,12563.65,0.0,37690.94,7359.78
+ORD-01094,2025-03-15,Northern,Kilinochchi,Jaffna,Consumer,Furniture,Chairs,Visitor Chair,1,14925.04,0.15,12686.28,2141.22
+ORD-00841,2025-03-16,Central,Kandy,Nuwara Eliya,Consumer,Office Supplies,Writing,Highlighter Set,8,1017.97,0.1,7329.35,1734.14
+ORD-00823,2025-03-18,Western,Kalutara,Colombo,Consumer,Furniture,Storage,Storage Box,2,4236.35,0.05,8049.06,2157.29
+ORD-00117,2025-03-18,Northern,Jaffna,Mannar,Consumer,Technology,Accessories,Laptop Stand,10,6845.86,0.0,68458.65,8079.22
+ORD-00592,2025-03-18,Western,Kalutara,Colombo,Consumer,Office Supplies,Writing,Highlighter Set,2,921.39,0.05,1750.64,331.23
+ORD-00729,2025-03-19,Western,Colombo,Negombo,Corporate,Technology,Accessories,Keyboard,2,6509.07,0.0,13018.14,809.57
+ORD-00642,2025-03-19,Western,Colombo,Colombo,Small Business,Furniture,Chairs,Ergonomic Chair,2,39077.32,0.05,74246.91,14436.29
+ORD-01141,2025-03-22,Northern,Kilinochchi,Jaffna,Consumer,Technology,Phones,Wireless Earbuds,2,12922.99,0.0,25845.98,4766.49
+ORD-00088,2025-03-22,Western,Gampaha,Panadura,Consumer,Technology,Accessories,Keyboard,2,6684.73,0.1,12032.51,1657.19
+ORD-00745,2025-03-23,Central,Kandy,Nuwara Eliya,Consumer,Furniture,Storage,Bookshelf,5,28325.87,0.0,141629.33,39452.61
+ORD-00235,2025-03-23,Western,Gampaha,Panadura,Consumer,Technology,Computers,Wireless Mouse,4,4384.09,0.05,16659.55,661.13
+ORD-00828,2025-03-24,Western,Kalutara,Panadura,Consumer,Office Supplies,Organizers,File Binder,1,849.99,0.1,764.99,114.83
+ORD-00267,2025-03-26,Eastern,Trincomalee,Trincomalee,Corporate,Furniture,Desks,Writing Desk,1,38638.61,0.05,36706.68,8292.86
+ORD-00800,2025-03-26,Eastern,Ampara,Trincomalee,Small Business,Office Supplies,Organizers,Desk Organizer,2,2271.7,0.0,4543.41,872.33
+ORD-00692,2025-03-26,Southern,Galle,Tangalle,Small Business,Furniture,Desks,Writing Desk,4,36187.09,0.05,137510.92,25770.47
+ORD-00144,2025-03-28,Western,Colombo,Negombo,Consumer,Technology,Accessories,Laptop Stand,3,7225.63,0.0,21676.9,1207.78
+ORD-00707,2025-03-28,Central,Matale,Matale,Consumer,Technology,Phones,Smartphone X,3,147941.14,0.1,399441.07,70212.48
+ORD-00347,2025-03-29,Central,Kandy,Kandy,Corporate,Furniture,Desks,Writing Desk,3,35925.02,0.2,86220.04,17449.62
+ORD-00897,2025-03-29,Central,Kandy,Nuwara Eliya,Consumer,Technology,Phones,Budget Smartphone,3,60899.0,0.05,173562.15,17260.81
+ORD-00190,2025-03-30,Southern,Hambantota,Galle,Corporate,Furniture,Chairs,Ergonomic Chair,3,39547.74,0.1,106778.89,20976.19
+ORD-00657,2025-03-30,Northern,Mannar,Jaffna,Corporate,Technology,Phones,Smartphone X,5,146529.23,0.05,696013.82,40367.94
+ORD-00706,2025-03-31,Northern,Mannar,Kilinochchi,Small Business,Technology,Computers,Laptop Pro,1,283106.92,0.05,268951.57,14979.36
+ORD-00781,2025-03-31,Northern,Jaffna,Mannar,Small Business,Technology,Phones,Budget Smartphone,2,68927.4,0.0,137854.8,6373.74
+ORD-00652,2025-03-31,Northern,Kilinochchi,Jaffna,Corporate,Technology,Accessories,Laptop Stand,5,6780.76,0.0,33903.78,4472.36
+ORD-00967,2025-04-01,Central,Matale,Nuwara Eliya,Consumer,Technology,Computers,Office Laptop,10,202913.36,0.2,1623306.87,268057.8
+ORD-00419,2025-04-02,Western,Kalutara,Negombo,Consumer,Technology,Computers,Laptop Pro,1,284702.88,0.05,270467.73,10335.86
+ORD-01139,2025-04-03,Southern,Hambantota,Galle,Corporate,Furniture,Desks,Standing Desk,4,75067.22,0.0,300268.87,81251.95
+ORD-00941,2025-04-03,Southern,Hambantota,Galle,Small Business,Technology,Computers,Wireless Mouse,2,4152.82,0.0,8305.65,1913.57
+ORD-00863,2025-04-04,Northern,Jaffna,Mannar,Small Business,Office Supplies,Paper,A4 Paper Pack,3,1835.93,0.0,5507.78,873.25
+ORD-00700,2025-04-04,Northern,Jaffna,Kilinochchi,Consumer,Technology,Phones,Wireless Earbuds,1,11551.41,0.15,9818.7,741.35
+ORD-00005,2025-04-05,Western,Gampaha,Panadura,Consumer,Furniture,Chairs,Visitor Chair,5,15207.05,0.0,76035.27,9385.2
+ORD-01145,2025-04-05,Southern,Hambantota,Tangalle,Consumer,Furniture,Storage,Bookshelf,10,28788.48,0.0,287884.85,48687.39
+ORD-00951,2025-04-05,Central,Kandy,Nuwara Eliya,Consumer,Office Supplies,Organizers,Desk Organizer,6,2164.19,0.15,11037.38,1586.46
+ORD-00520,2025-04-06,Southern,Matara,Matara,Consumer,Technology,Accessories,Keyboard,2,6733.33,0.05,12793.34,771.81
+ORD-00059,2025-04-07,Western,Colombo,Colombo,Consumer,Office Supplies,Organizers,Desk Organizer,3,2230.43,0.05,6356.72,460.9
+ORD-00899,2025-04-08,Western,Kalutara,Colombo,Consumer,Office Supplies,Paper,Sticky Notes,8,609.67,0.0,4877.34,488.61
+ORD-01120,2025-04-09,Western,Kalutara,Panadura,Consumer,Furniture,Storage,Bookshelf,8,30291.09,0.05,230212.28,28100.99
+ORD-00851,2025-04-09,Central,Nuwara Eliya,Kandy,Consumer,Technology,Computers,Wireless Mouse,3,4195.37,0.05,11956.82,558.41
+ORD-00105,2025-04-10,Western,Colombo,Panadura,Consumer,Furniture,Chairs,Visitor Chair,6,14356.14,0.05,81829.97,4460.38
+ORD-00783,2025-04-11,Eastern,Trincomalee,Trincomalee,Consumer,Furniture,Storage,Storage Box,2,3924.16,0.0,7848.31,857.22
+ORD-00158,2025-04-11,Southern,Hambantota,Tangalle,Small Business,Furniture,Storage,Filing Cabinet,3,31220.09,0.1,84294.24,16505.48
+ORD-00715,2025-04-13,Western,Gampaha,Negombo,Corporate,Furniture,Chairs,Office Chair,5,25969.17,0.0,129845.83,28196.71
+ORD-00646,2025-04-13,Central,Nuwara Eliya,Kandy,Corporate,Technology,Phones,Smartphone X,2,141037.29,0.0,282074.59,66432.94
+ORD-01190,2025-04-14,Northern,Mannar,Mannar,Consumer,Office Supplies,Organizers,Desk Organizer,10,2361.63,0.15,20073.82,4267.1
+ORD-00485,2025-04-15,Western,Colombo,Negombo,Corporate,Furniture,Desks,Compact Desk,4,23315.82,0.15,79273.8,7127.95
+ORD-00487,2025-04-18,Southern,Matara,Matara,Corporate,Furniture,Chairs,Ergonomic Chair,6,39374.3,0.05,224433.52,54061.91
+ORD-00060,2025-04-19,Western,Colombo,Panadura,Corporate,Furniture,Storage,Filing Cabinet,4,29737.52,0.0,118950.06,21255.9
+ORD-00311,2025-04-19,Central,Kandy,Kandy,Consumer,Office Supplies,Paper,Sticky Notes,4,613.39,0.15,2085.51,325.2
+ORD-00329,2025-04-20,Western,Kalutara,Panadura,Consumer,Technology,Accessories,USB-C Hub,2,8437.68,0.0,16875.37,1138.44
+ORD-00543,2025-04-20,Western,Colombo,Negombo,Consumer,Technology,Accessories,Keyboard,1,6317.74,0.05,6001.86,715.13
+ORD-00525,2025-04-20,Northern,Jaffna,Mannar,Consumer,Office Supplies,Organizers,Desk Organizer,2,2141.15,0.05,4068.18,389.42
+ORD-00750,2025-04-21,Central,Nuwara Eliya,Matale,Consumer,Technology,Accessories,USB-C Hub,1,9119.52,0.15,7751.59,550.24
+ORD-00316,2025-04-23,Southern,Matara,Tangalle,Consumer,Furniture,Desks,Compact Desk,8,22456.63,0.1,161687.71,28893.77
+ORD-00007,2025-04-23,Southern,Galle,Galle,Corporate,Technology,Computers,Wireless Mouse,4,4597.0,0.05,17468.59,2480.99
+ORD-00564,2025-04-25,Western,Gampaha,Negombo,Corporate,Office Supplies,Organizers,Document Folder,6,587.69,0.05,3349.84,487.96
+ORD-00317,2025-04-25,Western,Colombo,Panadura,Consumer,Technology,Computers,Wireless Mouse,1,4680.6,0.0,4680.6,1032.76
+ORD-00755,2025-04-26,Northern,Jaffna,Mannar,Consumer,Technology,Computers,Wireless Mouse,1,4502.7,0.05,4277.57,773.38
+ORD-00107,2025-04-26,Western,Gampaha,Panadura,Consumer,Furniture,Chairs,Office Chair,8,25833.11,0.0,206664.85,43230.3
+ORD-00153,2025-04-27,Western,Colombo,Negombo,Consumer,Office Supplies,Paper,Notebook Set,5,1528.27,0.15,6495.14,1628.63
+ORD-00691,2025-04-28,Central,Matale,Nuwara Eliya,Consumer,Technology,Computers,Wireless Mouse,2,4225.05,0.15,7182.59,742.67
+ORD-00013,2025-04-29,Western,Gampaha,Panadura,Corporate,Office Supplies,Writing,Highlighter Set,3,972.78,0.0,2918.33,442.06
+ORD-00024,2025-04-29,Central,Nuwara Eliya,Nuwara Eliya,Small Business,Furniture,Chairs,Office Chair,2,28301.19,0.0,56602.38,10309.76
+ORD-00601,2025-05-01,Northern,Jaffna,Jaffna,Consumer,Technology,Accessories,Laptop Stand,6,7590.88,0.0,45545.27,7311.8
+ORD-01131,2025-05-01,Central,Matale,Matale,Small Business,Technology,Phones,Wireless Earbuds,5,11555.29,0.1,51998.82,9517.27
+ORD-00630,2025-05-01,Northern,Kilinochchi,Kilinochchi,Consumer,Technology,Computers,Laptop Pro,3,299929.11,0.0,899787.32,154548.23
+ORD-00709,2025-05-01,Western,Colombo,Colombo,Consumer,Office Supplies,Paper,Notebook Set,5,1571.06,0.0,7855.28,2159.74
+ORD-00680,2025-05-02,Western,Colombo,Panadura,Corporate,Technology,Computers,Laptop Pro,3,295205.27,0.05,841335.02,147933.43
+ORD-00771,2025-05-02,Western,Kalutara,Panadura,Consumer,Office Supplies,Paper,Notebook Set,1,1474.29,0.15,1253.15,254.08
+ORD-01133,2025-05-03,Southern,Matara,Matara,Small Business,Office Supplies,Organizers,Document Folder,1,566.38,0.0,566.38,136.57
+ORD-01103,2025-05-03,Western,Kalutara,Colombo,Consumer,Furniture,Chairs,Visitor Chair,1,14462.82,0.0,14462.82,1494.52
+ORD-00990,2025-05-03,Southern,Matara,Tangalle,Corporate,Office Supplies,Organizers,File Binder,4,853.42,0.0,3413.69,737.74
+ORD-01015,2025-05-04,Western,Colombo,Negombo,Corporate,Technology,Accessories,Keyboard,2,6733.07,0.0,13466.14,2987.47
+ORD-00763,2025-05-04,Northern,Mannar,Kilinochchi,Consumer,Technology,Computers,Wireless Mouse,10,4772.95,0.0,47729.5,9454.56
+ORD-00977,2025-05-05,Eastern,Batticaloa,Ampara,Consumer,Furniture,Chairs,Ergonomic Chair,2,44861.8,0.15,76265.06,19845.55
+ORD-00914,2025-05-06,Western,Gampaha,Negombo,Corporate,Office Supplies,Organizers,Desk Organizer,4,2071.79,0.05,7872.81,1770.7
+ORD-00431,2025-05-06,Eastern,Batticaloa,Ampara,Consumer,Furniture,Chairs,Ergonomic Chair,4,44257.39,0.0,177029.56,19161.64
+ORD-00603,2025-05-06,Western,Kalutara,Panadura,Corporate,Technology,Phones,Smartphone X,6,148491.91,0.0,890951.47,199919.62
+ORD-00582,2025-05-07,Central,Kandy,Kandy,Consumer,Furniture,Chairs,Office Chair,6,25678.91,0.0,154073.45,41600.59
+ORD-00220,2025-05-08,Western,Gampaha,Panadura,Consumer,Technology,Accessories,Keyboard,2,6342.82,0.1,11417.07,1320.18
+ORD-00844,2025-05-09,Southern,Galle,Galle,Consumer,Furniture,Storage,Bookshelf,1,27318.7,0.1,24586.83,5019.93
+ORD-00966,2025-05-09,Western,Kalutara,Panadura,Consumer,Technology,Phones,Budget Smartphone,1,69187.12,0.2,55349.7,5992.71
+ORD-01031,2025-05-09,Southern,Matara,Galle,Consumer,Technology,Computers,Laptop Pro,1,263803.08,0.0,263803.08,17714.11
+ORD-00803,2025-05-10,Northern,Kilinochchi,Jaffna,Consumer,Office Supplies,Writing,Ballpoint Pens,1,482.23,0.15,409.9,21.63
+ORD-00885,2025-05-10,Eastern,Trincomalee,Trincomalee,Small Business,Furniture,Desks,Standing Desk,6,82059.87,0.0,492359.24,106727.08
+ORD-00838,2025-05-10,Eastern,Trincomalee,Batticaloa,Consumer,Office Supplies,Paper,Sticky Notes,2,608.9,0.15,1035.13,75.79
+ORD-00982,2025-05-10,Northern,Jaffna,Jaffna,Consumer,Technology,Phones,Smartphone X,3,145476.29,0.0,436428.87,15843.96
+ORD-00995,2025-05-11,Western,Gampaha,Panadura,Consumer,Technology,Phones,Budget Smartphone,2,69598.69,0.0,139197.37,28010.12
+ORD-00924,2025-05-11,Western,Gampaha,Panadura,Corporate,Office Supplies,Paper,Notebook Set,4,1423.11,0.0,5692.43,1341.01
+ORD-00514,2025-05-12,Central,Matale,Kandy,Consumer,Technology,Computers,Office Laptop,2,184071.71,0.05,349736.24,53015.18
+ORD-01046,2025-05-12,Northern,Kilinochchi,Kilinochchi,Consumer,Technology,Computers,Wireless Mouse,2,4771.95,0.0,9543.89,836.07
+ORD-00604,2025-05-12,Western,Kalutara,Colombo,Small Business,Office Supplies,Paper,A4 Paper Pack,1,1930.26,0.05,1833.75,368.52
+ORD-01074,2025-05-13,Western,Colombo,Negombo,Corporate,Technology,Accessories,Keyboard,5,6657.44,0.1,29958.49,3165.85
+ORD-00827,2025-05-14,Western,Gampaha,Colombo,Corporate,Furniture,Chairs,Office Chair,3,25487.73,0.1,68816.86,6283.78
+ORD-00080,2025-05-14,Western,Gampaha,Negombo,Consumer,Furniture,Chairs,Visitor Chair,2,15498.49,0.0,30996.98,5001.96
+ORD-00878,2025-05-15,Western,Kalutara,Panadura,Corporate,Technology,Computers,Laptop Pro,1,280452.25,0.1,252407.02,12371.65
+ORD-00389,2025-05-16,Western,Gampaha,Panadura,Corporate,Furniture,Desks,Writing Desk,1,36245.05,0.1,32620.55,4605.66
+ORD-00042,2025-05-16,Southern,Matara,Galle,Consumer,Furniture,Chairs,Ergonomic Chair,3,44186.68,0.0,132560.05,21326.34
+ORD-00602,2025-05-16,Northern,Kilinochchi,Mannar,Consumer,Office Supplies,Writing,Highlighter Set,1,999.59,0.2,799.67,46.09
+ORD-00034,2025-05-16,Central,Kandy,Nuwara Eliya,Consumer,Technology,Phones,Smartphone X,8,154659.27,0.05,1175410.48,107243.82
+ORD-00213,2025-05-16,Central,Matale,Matale,Consumer,Technology,Computers,Laptop Pro,4,267155.21,0.0,1068620.86,85088.65
+ORD-00432,2025-05-17,Western,Colombo,Colombo,Small Business,Furniture,Desks,Writing Desk,2,36914.45,0.05,70137.46,8506.57
+ORD-00061,2025-05-18,Western,Kalutara,Panadura,Consumer,Furniture,Desks,Compact Desk,6,24334.56,0.15,124106.24,14511.74
+ORD-00399,2025-05-18,Northern,Jaffna,Mannar,Small Business,Technology,Computers,Office Laptop,1,190288.93,0.1,171260.04,10574.09
+ORD-00949,2025-05-20,Western,Kalutara,Negombo,Corporate,Furniture,Desks,Standing Desk,6,75494.39,0.2,362373.08,80374.03
+ORD-00985,2025-05-20,Southern,Hambantota,Galle,Corporate,Office Supplies,Writing,Marker Set,4,1163.63,0.2,3723.63,665.47
+ORD-00133,2025-05-20,Western,Colombo,Panadura,Small Business,Office Supplies,Paper,Sticky Notes,1,639.73,0.0,639.73,171.9
+ORD-01080,2025-05-20,Eastern,Trincomalee,Trincomalee,Consumer,Technology,Accessories,Keyboard,6,6407.18,0.0,38443.1,8691.8
+ORD-01076,2025-05-21,Southern,Galle,Galle,Consumer,Furniture,Storage,Bookshelf,1,29404.99,0.1,26464.49,5448.89
+ORD-01192,2025-05-21,Western,Colombo,Colombo,Consumer,Technology,Computers,Laptop Pro,2,277471.52,0.05,527195.88,109738.95
+ORD-00247,2025-05-24,Central,Matale,Matale,Corporate,Technology,Phones,Smartphone X,2,150190.89,0.0,300381.78,64510.15
+ORD-00237,2025-05-24,Central,Matale,Kandy,Corporate,Technology,Phones,Smartphone X,2,141412.89,0.05,268684.5,50730.14
+ORD-00588,2025-05-25,Southern,Galle,Galle,Consumer,Office Supplies,Organizers,Document Folder,2,569.09,0.1,1024.37,263.4
+ORD-00078,2025-05-25,Western,Colombo,Negombo,Consumer,Technology,Computers,Wireless Mouse,2,4423.77,0.0,8847.54,224.42
+ORD-00650,2025-05-25,Southern,Hambantota,Tangalle,Small Business,Technology,Computers,Laptop Pro,2,280084.56,0.0,560169.11,66447.08
+ORD-00891,2025-05-28,Western,Colombo,Panadura,Small Business,Office Supplies,Writing,Marker Set,4,1230.41,0.15,4183.4,776.92
+ORD-00493,2025-05-28,Southern,Hambantota,Galle,Small Business,Technology,Computers,Laptop Pro,8,264323.19,0.1,1903126.96,333377.19
+ORD-00162,2025-05-30,Western,Kalutara,Negombo,Consumer,Furniture,Chairs,Visitor Chair,3,15154.73,0.1,40917.77,9301.27
+ORD-01102,2025-05-30,Eastern,Ampara,Trincomalee,Consumer,Technology,Computers,Office Laptop,5,191377.37,0.0,956886.83,122432.12
+ORD-01083,2025-05-30,Eastern,Ampara,Trincomalee,Consumer,Office Supplies,Organizers,Document Folder,1,584.35,0.15,496.7,75.39
+ORD-00944,2025-05-31,Southern,Hambantota,Matara,Consumer,Technology,Phones,Smartphone X,2,137283.92,0.05,260839.45,23282.67
+ORD-00143,2025-05-31,Western,Kalutara,Panadura,Small Business,Office Supplies,Paper,A4 Paper Pack,1,1805.89,0.0,1805.89,382.54
+ORD-00545,2025-06-01,Western,Kalutara,Colombo,Consumer,Furniture,Storage,Filing Cabinet,1,29688.29,0.0,29688.29,1809.27
+ORD-00563,2025-06-02,Western,Kalutara,Negombo,Consumer,Technology,Computers,Wireless Mouse,1,4660.85,0.1,4194.77,669.31
+ORD-00318,2025-06-02,Northern,Kilinochchi,Kilinochchi,Small Business,Technology,Accessories,Laptop Stand,1,6999.74,0.0,6999.74,780.58
+ORD-00029,2025-06-02,Western,Gampaha,Colombo,Consumer,Technology,Computers,Laptop Pro,1,289156.16,0.1,260240.54,25919.62
+ORD-00314,2025-06-03,Central,Matale,Matale,Corporate,Furniture,Storage,Storage Box,5,4276.34,0.0,21381.71,1750.99
+ORD-00752,2025-06-04,Southern,Galle,Matara,Consumer,Technology,Phones,Smartphone X,2,149938.83,0.1,269889.9,9142.21
+ORD-00594,2025-06-04,Western,Colombo,Negombo,Consumer,Technology,Accessories,USB-C Hub,3,8352.37,0.1,22551.4,4182.59
+ORD-00747,2025-06-05,Western,Colombo,Colombo,Small Business,Technology,Computers,Office Laptop,4,200495.9,0.0,801983.59,104541.54
+ORD-00784,2025-06-05,Eastern,Batticaloa,Ampara,Consumer,Office Supplies,Organizers,File Binder,1,870.93,0.05,827.38,111.92
+ORD-00277,2025-06-06,Western,Gampaha,Panadura,Consumer,Furniture,Chairs,Office Chair,2,25403.17,0.0,50806.35,8598.68
+ORD-00508,2025-06-06,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Furniture,Desks,Writing Desk,4,37175.23,0.0,148700.9,22078.69
+ORD-00732,2025-06-06,Northern,Jaffna,Mannar,Small Business,Furniture,Storage,Storage Box,3,4513.87,0.0,13541.62,2695.2
+ORD-00465,2025-06-06,Eastern,Trincomalee,Batticaloa,Consumer,Technology,Computers,Laptop Pro,2,297550.64,0.05,565346.21,12479.45
+ORD-00889,2025-06-07,Central,Matale,Nuwara Eliya,Consumer,Office Supplies,Paper,A4 Paper Pack,2,1774.87,0.15,3017.28,141.37
+ORD-00793,2025-06-07,Western,Colombo,Colombo,Consumer,Office Supplies,Organizers,File Binder,1,793.85,0.0,793.85,55.58
+ORD-00971,2025-06-12,Northern,Mannar,Mannar,Small Business,Office Supplies,Paper,Sticky Notes,2,632.7,0.1,1138.85,66.95
+ORD-00835,2025-06-13,Southern,Galle,Tangalle,Consumer,Technology,Phones,Smartphone X,4,140268.45,0.05,533020.1,18336.31
+ORD-00394,2025-06-13,Western,Kalutara,Panadura,Corporate,Technology,Accessories,Keyboard,2,6199.64,0.0,12399.28,2646.37
+ORD-01169,2025-06-13,Western,Kalutara,Panadura,Consumer,Technology,Accessories,Keyboard,4,6617.12,0.15,22498.22,1012.46
+ORD-00151,2025-06-13,Central,Kandy,Kandy,Small Business,Technology,Computers,Wireless Mouse,3,4165.33,0.0,12495.98,878.22
+ORD-00336,2025-06-15,Western,Gampaha,Colombo,Small Business,Technology,Phones,Wireless Earbuds,1,12076.64,0.0,12076.64,373.27
+ORD-00635,2025-06-15,Eastern,Batticaloa,Trincomalee,Small Business,Office Supplies,Organizers,Desk Organizer,1,2153.75,0.0,2153.75,188.19
+ORD-00039,2025-06-16,Western,Kalutara,Colombo,Corporate,Technology,Computers,Office Laptop,4,189809.5,0.15,645352.29,112779.88
+ORD-00484,2025-06-17,Eastern,Trincomalee,Trincomalee,Consumer,Furniture,Chairs,Visitor Chair,2,15609.06,0.0,31218.12,3121.79
+ORD-00211,2025-06-18,Northern,Jaffna,Jaffna,Small Business,Technology,Phones,Wireless Earbuds,2,13405.95,0.05,25471.31,1133.42
+ORD-00388,2025-06-23,Southern,Matara,Galle,Consumer,Technology,Phones,Smartphone X,2,144699.46,0.0,289398.91,13255.1
+ORD-01136,2025-06-23,Western,Gampaha,Panadura,Consumer,Office Supplies,Organizers,File Binder,1,805.86,0.15,684.98,151.78
+ORD-00837,2025-06-23,Southern,Galle,Matara,Consumer,Furniture,Chairs,Ergonomic Chair,2,44717.07,0.05,84962.44,16063.69
+ORD-00335,2025-06-23,Eastern,Ampara,Trincomalee,Consumer,Technology,Phones,Wireless Earbuds,3,13374.03,0.0,40122.09,5341.57
+ORD-00298,2025-06-24,Western,Colombo,Panadura,Consumer,Office Supplies,Organizers,File Binder,2,892.5,0.1,1606.5,155.56
+ORD-00068,2025-06-24,Southern,Hambantota,Matara,Corporate,Office Supplies,Organizers,File Binder,1,813.9,0.05,773.2,187.72
+ORD-01018,2025-06-25,Western,Gampaha,Negombo,Small Business,Technology,Accessories,Laptop Stand,10,7688.22,0.15,65349.89,4466.9
+ORD-00104,2025-06-26,Western,Kalutara,Panadura,Consumer,Office Supplies,Organizers,File Binder,1,907.21,0.0,907.21,64.43
+ORD-00970,2025-06-28,Southern,Galle,Tangalle,Small Business,Technology,Computers,Laptop Pro,2,268350.35,0.0,536700.7,14168.7
+ORD-01070,2025-06-28,Central,Matale,Kandy,Consumer,Technology,Accessories,Laptop Stand,3,7056.1,0.05,20109.89,858.79
+ORD-00483,2025-06-28,Western,Kalutara,Panadura,Corporate,Office Supplies,Organizers,File Binder,4,850.78,0.15,2892.66,531.17
+ORD-00460,2025-06-28,Southern,Hambantota,Tangalle,Consumer,Office Supplies,Writing,Highlighter Set,3,963.49,0.0,2890.48,448.12
+ORD-00127,2025-06-29,Southern,Hambantota,Galle,Corporate,Office Supplies,Paper,Notebook Set,4,1386.38,0.0,5545.51,1066.64
+ORD-00624,2025-06-29,Western,Colombo,Negombo,Consumer,Technology,Computers,Laptop Pro,3,269920.09,0.1,728784.25,140509.52
+ORD-00511,2025-06-30,Western,Gampaha,Colombo,Consumer,Furniture,Desks,Standing Desk,4,81813.71,0.0,327254.86,25880.65
+ORD-00252,2025-06-30,Northern,Mannar,Jaffna,Consumer,Technology,Accessories,Keyboard,3,6766.32,0.0,20298.95,556.31
+ORD-00445,2025-06-30,Eastern,Batticaloa,Trincomalee,Consumer,Technology,Phones,Smartphone X,2,153647.81,0.05,291930.83,16879.64
+ORD-00728,2025-06-30,Northern,Kilinochchi,Mannar,Corporate,Technology,Accessories,Keyboard,4,6749.47,0.1,24298.09,5050.7
+ORD-00600,2025-07-01,Western,Colombo,Colombo,Consumer,Office Supplies,Writing,Ballpoint Pens,1,478.85,0.15,407.02,21.9
+ORD-00111,2025-07-03,Western,Kalutara,Colombo,Corporate,Office Supplies,Organizers,File Binder,1,819.42,0.0,819.42,100.28
+ORD-00813,2025-07-03,Western,Kalutara,Colombo,Consumer,Furniture,Chairs,Visitor Chair,1,15343.28,0.0,15343.28,2268.18
+ORD-00647,2025-07-04,Western,Kalutara,Colombo,Consumer,Furniture,Storage,Bookshelf,3,29011.1,0.05,82681.62,18531.1
+ORD-00426,2025-07-04,Central,Matale,Kandy,Consumer,Furniture,Storage,Filing Cabinet,6,31900.47,0.0,191402.8,21652.96
+ORD-00865,2025-07-05,Southern,Galle,Tangalle,Corporate,Furniture,Chairs,Visitor Chair,2,13485.98,0.15,22926.16,3857.92
+ORD-00994,2025-07-05,Northern,Mannar,Jaffna,Consumer,Technology,Computers,Office Laptop,1,196967.86,0.15,167422.68,27158.23
+ORD-00505,2025-07-05,Western,Colombo,Panadura,Small Business,Furniture,Storage,Bookshelf,2,27047.43,0.0,54094.86,8948.75
+ORD-00450,2025-07-07,Central,Nuwara Eliya,Matale,Small Business,Office Supplies,Organizers,Desk Organizer,3,2308.04,0.15,5885.49,521.18
+ORD-00057,2025-07-07,Central,Nuwara Eliya,Matale,Consumer,Technology,Accessories,USB-C Hub,1,8957.37,0.2,7165.9,883.65
+ORD-00128,2025-07-08,Central,Matale,Matale,Corporate,Technology,Phones,Smartphone X,3,142340.57,0.0,427021.72,59707.06
+ORD-00125,2025-07-09,Western,Gampaha,Colombo,Consumer,Office Supplies,Organizers,Desk Organizer,1,2313.73,0.0,2313.73,642.95
+ORD-00069,2025-07-09,Western,Kalutara,Negombo,Small Business,Furniture,Desks,Standing Desk,4,74725.98,0.15,254068.32,30124.1
+ORD-00147,2025-07-10,Western,Gampaha,Panadura,Consumer,Technology,Phones,Wireless Earbuds,1,13169.42,0.0,13169.42,1878.98
+ORD-00920,2025-07-11,Central,Nuwara Eliya,Matale,Consumer,Furniture,Desks,Compact Desk,3,23367.02,0.1,63090.95,11905.14
+ORD-00717,2025-07-11,Central,Nuwara Eliya,Matale,Small Business,Office Supplies,Paper,Sticky Notes,2,679.96,0.0,1359.92,167.1
+ORD-01087,2025-07-12,Central,Matale,Nuwara Eliya,Consumer,Technology,Accessories,Laptop Stand,3,6875.21,0.0,20625.62,1586.05
+ORD-00473,2025-07-13,Eastern,Ampara,Batticaloa,Consumer,Office Supplies,Paper,A4 Paper Pack,3,1900.92,0.2,4562.22,271.85
+ORD-00942,2025-07-13,Western,Kalutara,Colombo,Corporate,Technology,Phones,Smartphone X,4,134636.37,0.1,484690.93,54139.17
+ORD-00429,2025-07-16,Western,Kalutara,Panadura,Corporate,Office Supplies,Organizers,Desk Organizer,2,2085.54,0.0,4171.07,623.37
+ORD-00915,2025-07-17,Eastern,Ampara,Batticaloa,Consumer,Technology,Computers,Wireless Mouse,5,4504.31,0.0,22521.57,619.67
+ORD-01067,2025-07-17,Eastern,Trincomalee,Batticaloa,Consumer,Technology,Accessories,Laptop Stand,5,7265.62,0.0,36328.1,6786.53
+ORD-00046,2025-07-18,Western,Colombo,Panadura,Corporate,Office Supplies,Organizers,Desk Organizer,5,2038.13,0.0,10190.67,891.51
+ORD-00203,2025-07-18,Eastern,Trincomalee,Ampara,Consumer,Technology,Accessories,Keyboard,1,6346.3,0.1,5711.67,97.42
+ORD-00020,2025-07-18,Eastern,Batticaloa,Batticaloa,Corporate,Technology,Computers,Laptop Pro,2,266507.68,0.1,479713.82,33935.59
+ORD-00716,2025-07-18,Southern,Hambantota,Galle,Consumer,Furniture,Desks,Writing Desk,3,34030.67,0.0,102092.0,21038.98
+ORD-00425,2025-07-18,Central,Matale,Nuwara Eliya,Consumer,Furniture,Chairs,Office Chair,1,26045.16,0.0,26045.16,6415.01
+ORD-00383,2025-07-19,Western,Colombo,Colombo,Corporate,Office Supplies,Writing,Marker Set,1,1261.85,0.0,1261.85,299.06
+ORD-00981,2025-07-20,Western,Kalutara,Negombo,Small Business,Technology,Accessories,Keyboard,6,6330.39,0.1,34184.13,1162.63
+ORD-00071,2025-07-20,Southern,Matara,Tangalle,Consumer,Office Supplies,Writing,Ballpoint Pens,3,485.83,0.1,1311.73,234.73
+ORD-00204,2025-07-21,Central,Matale,Matale,Corporate,Furniture,Desks,Writing Desk,4,33712.11,0.0,134848.46,25991.95
+ORD-00032,2025-07-23,Eastern,Batticaloa,Batticaloa,Corporate,Office Supplies,Organizers,Document Folder,4,517.84,0.05,1967.79,328.87
+ORD-00727,2025-07-24,Western,Kalutara,Negombo,Corporate,Office Supplies,Writing,Marker Set,2,1195.71,0.1,2152.28,456.24
+ORD-00840,2025-07-24,Western,Kalutara,Negombo,Small Business,Technology,Computers,Laptop Pro,5,305900.89,0.15,1300078.78,136097.4
+ORD-00181,2025-07-24,Northern,Kilinochchi,Kilinochchi,Corporate,Office Supplies,Writing,Highlighter Set,2,966.17,0.05,1835.72,434.17
+ORD-00972,2025-07-25,Northern,Jaffna,Mannar,Consumer,Office Supplies,Organizers,File Binder,1,889.8,0.05,845.31,214.75
+ORD-01187,2025-07-25,Southern,Galle,Galle,Small Business,Technology,Phones,Smartphone X,2,134850.47,0.0,269700.94,14719.53
+ORD-01096,2025-07-25,Southern,Matara,Galle,Corporate,Technology,Phones,Smartphone X,3,139594.11,0.05,397843.21,9578.23
+ORD-01127,2025-07-26,Southern,Matara,Tangalle,Consumer,Office Supplies,Paper,Sticky Notes,4,616.85,0.05,2344.05,632.31
+ORD-00866,2025-07-26,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Technology,Accessories,Laptop Stand,6,6932.7,0.0,41596.19,7428.3
+ORD-01199,2025-07-26,Western,Gampaha,Negombo,Consumer,Furniture,Chairs,Office Chair,4,25093.52,0.0,100374.07,13462.16
+ORD-00322,2025-07-26,Eastern,Trincomalee,Ampara,Corporate,Furniture,Chairs,Ergonomic Chair,3,42788.57,0.0,128365.72,13789.76
+ORD-00333,2025-07-26,Western,Gampaha,Colombo,Consumer,Technology,Accessories,USB-C Hub,10,9131.54,0.0,91315.39,16645.27
+ORD-00536,2025-07-27,Western,Colombo,Panadura,Consumer,Technology,Accessories,Keyboard,6,6282.09,0.0,37692.53,7235.09
+ORD-01137,2025-07-28,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Technology,Computers,Office Laptop,8,206490.29,0.0,1651922.32,131987.99
+ORD-00440,2025-07-30,Southern,Galle,Galle,Consumer,Technology,Accessories,Laptop Stand,3,7759.7,0.05,22115.15,4793.23
+ORD-00778,2025-07-31,Eastern,Batticaloa,Batticaloa,Consumer,Technology,Phones,Smartphone X,1,134199.48,0.0,134199.48,11055.13
+ORD-01051,2025-08-01,Western,Gampaha,Panadura,Consumer,Office Supplies,Paper,A4 Paper Pack,1,1939.98,0.05,1842.98,345.87
+ORD-00890,2025-08-02,Central,Nuwara Eliya,Matale,Small Business,Technology,Accessories,USB-C Hub,1,8028.01,0.2,6422.41,285.98
+ORD-00683,2025-08-03,Western,Kalutara,Panadura,Small Business,Furniture,Storage,Storage Box,6,4035.06,0.05,22999.82,1345.94
+ORD-00576,2025-08-04,Northern,Kilinochchi,Jaffna,Consumer,Office Supplies,Paper,A4 Paper Pack,3,1683.83,0.05,4798.91,325.58
+ORD-01177,2025-08-04,Northern,Mannar,Mannar,Corporate,Furniture,Desks,Writing Desk,6,36574.59,0.0,219447.53,14015.29
+ORD-00174,2025-08-04,Western,Colombo,Negombo,Small Business,Technology,Computers,Laptop Pro,5,274331.01,0.0,1371655.04,111159.25
+ORD-01104,2025-08-04,Eastern,Trincomalee,Batticaloa,Corporate,Technology,Accessories,Keyboard,2,6640.56,0.0,13281.12,534.82
+ORD-00026,2025-08-05,Western,Kalutara,Negombo,Consumer,Office Supplies,Paper,A4 Paper Pack,3,1830.53,0.15,4667.86,815.4
+ORD-00932,2025-08-05,Southern,Hambantota,Tangalle,Small Business,Furniture,Storage,Storage Box,2,3964.76,0.0,7929.52,1518.07
+ORD-00855,2025-08-06,Northern,Mannar,Jaffna,Consumer,Office Supplies,Paper,Notebook Set,4,1470.31,0.05,5587.16,1175.04
+ORD-00622,2025-08-06,Northern,Jaffna,Kilinochchi,Consumer,Technology,Phones,Wireless Earbuds,6,12770.86,0.05,72793.89,6063.13
+ORD-00198,2025-08-06,Eastern,Trincomalee,Ampara,Consumer,Office Supplies,Organizers,Document Folder,2,554.16,0.05,1052.91,173.95
+ORD-01025,2025-08-07,Southern,Hambantota,Tangalle,Consumer,Technology,Phones,Budget Smartphone,1,65933.45,0.0,65933.45,4265.59
+ORD-00378,2025-08-08,Central,Nuwara Eliya,Matale,Consumer,Office Supplies,Organizers,File Binder,3,887.99,0.0,2663.98,630.97
+ORD-00608,2025-08-08,Southern,Hambantota,Matara,Small Business,Office Supplies,Writing,Highlighter Set,2,954.11,0.0,1908.21,130.26
+ORD-00275,2025-08-10,Northern,Kilinochchi,Jaffna,Corporate,Technology,Computers,Office Laptop,2,207063.34,0.1,372714.01,45256.54
+ORD-00467,2025-08-11,Western,Colombo,Colombo,Small Business,Technology,Accessories,USB-C Hub,2,8603.13,0.05,16345.95,3290.8
+ORD-01142,2025-08-11,Northern,Jaffna,Kilinochchi,Consumer,Technology,Computers,Wireless Mouse,6,4648.78,0.0,27892.71,5602.06
+ORD-01047,2025-08-11,Western,Kalutara,Panadura,Corporate,Furniture,Desks,Compact Desk,3,23265.33,0.0,69795.99,16762.8
+ORD-00435,2025-08-11,Central,Matale,Nuwara Eliya,Corporate,Technology,Phones,Budget Smartphone,6,67403.85,0.05,384201.94,43428.04
+ORD-01112,2025-08-11,Eastern,Ampara,Batticaloa,Small Business,Technology,Computers,Wireless Mouse,2,4513.39,0.1,8124.1,448.85
+ORD-00648,2025-08-11,Western,Colombo,Panadura,Corporate,Office Supplies,Organizers,File Binder,2,820.49,0.0,1640.98,133.49
+ORD-00567,2025-08-13,Northern,Jaffna,Jaffna,Corporate,Office Supplies,Paper,A4 Paper Pack,1,1724.54,0.1,1552.09,103.87
+ORD-00155,2025-08-13,Western,Colombo,Negombo,Corporate,Furniture,Chairs,Office Chair,1,28351.48,0.0,28351.48,2370.43
+ORD-01002,2025-08-13,Southern,Matara,Galle,Consumer,Technology,Computers,Laptop Pro,6,302536.17,0.0,1815216.99,167242.56
+ORD-00371,2025-08-14,Northern,Mannar,Kilinochchi,Consumer,Technology,Phones,Budget Smartphone,5,60940.42,0.0,304702.11,41534.61
+ORD-00407,2025-08-15,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Technology,Phones,Budget Smartphone,2,69672.23,0.0,139344.46,20767.52
+ORD-00640,2025-08-15,Western,Kalutara,Negombo,Consumer,Technology,Phones,Smartphone X,3,141699.37,0.0,425098.12,90696.72
+ORD-00373,2025-08-16,Southern,Galle,Tangalle,Consumer,Technology,Accessories,Keyboard,6,6545.86,0.15,33383.9,1888.01
+ORD-00587,2025-08-17,Western,Kalutara,Colombo,Consumer,Office Supplies,Paper,A4 Paper Pack,5,1749.89,0.0,8749.43,2415.64
+ORD-00455,2025-08-17,Northern,Jaffna,Jaffna,Small Business,Furniture,Desks,Compact Desk,2,25245.08,0.05,47965.65,9117.26
+ORD-01030,2025-08-18,Western,Gampaha,Colombo,Consumer,Furniture,Desks,Standing Desk,3,80007.17,0.0,240021.52,41697.53
+ORD-00501,2025-08-18,Western,Colombo,Negombo,Consumer,Technology,Phones,Budget Smartphone,2,70090.18,0.0,140180.35,32250.59
+ORD-01065,2025-08-18,Eastern,Batticaloa,Ampara,Small Business,Technology,Computers,Laptop Pro,1,282084.0,0.15,239771.4,30302.31
+ORD-00518,2025-08-18,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Technology,Accessories,USB-C Hub,4,9071.74,0.0,36286.98,4017.97
+ORD-00760,2025-08-18,Northern,Kilinochchi,Mannar,Consumer,Furniture,Desks,Writing Desk,4,37241.8,0.0,148967.21,15350.02
+ORD-00359,2025-08-19,Northern,Kilinochchi,Kilinochchi,Consumer,Office Supplies,Paper,Sticky Notes,2,650.62,0.0,1301.24,266.68
+ORD-01151,2025-08-19,Western,Gampaha,Negombo,Consumer,Office Supplies,Paper,Sticky Notes,5,673.4,0.05,3198.64,446.49
+ORD-00324,2025-08-19,Central,Nuwara Eliya,Kandy,Corporate,Office Supplies,Paper,A4 Paper Pack,5,1917.16,0.0,9585.8,1863.58
+ORD-00384,2025-08-19,Central,Matale,Matale,Consumer,Technology,Phones,Smartphone X,1,150936.36,0.0,150936.36,16701.63
+ORD-00950,2025-08-19,Southern,Matara,Galle,Consumer,Furniture,Desks,Compact Desk,10,25569.1,0.05,242906.43,51744.55
+ORD-01003,2025-08-20,Western,Kalutara,Panadura,Consumer,Furniture,Storage,Bookshelf,3,28540.87,0.0,85622.6,20505.7
+ORD-00956,2025-08-21,Southern,Matara,Galle,Corporate,Technology,Accessories,Keyboard,1,6329.02,0.0,6329.02,660.34
+ORD-00570,2025-08-21,Central,Nuwara Eliya,Kandy,Consumer,Technology,Phones,Budget Smartphone,4,63244.47,0.0,252977.9,46802.91
+ORD-00871,2025-08-22,Eastern,Ampara,Trincomalee,Consumer,Technology,Computers,Wireless Mouse,1,4841.84,0.1,4357.66,312.53
+ORD-00928,2025-08-24,Northern,Jaffna,Jaffna,Small Business,Office Supplies,Organizers,File Binder,3,912.91,0.15,2327.93,258.2
+ORD-00002,2025-08-24,Central,Kandy,Kandy,Consumer,Furniture,Storage,Filing Cabinet,2,32279.47,0.0,64558.95,15628.36
+ORD-00634,2025-08-24,Western,Kalutara,Panadura,Corporate,Technology,Phones,Budget Smartphone,8,69981.35,0.15,475873.2,17247.42
+ORD-00794,2025-08-24,Western,Gampaha,Panadura,Consumer,Furniture,Storage,Filing Cabinet,2,34286.32,0.0,68572.64,13896.2
+ORD-00739,2025-08-24,Eastern,Ampara,Batticaloa,Consumer,Furniture,Storage,Bookshelf,1,26342.83,0.05,25025.69,6783.88
+ORD-00595,2025-08-25,Central,Kandy,Matale,Consumer,Technology,Accessories,Keyboard,1,6898.72,0.0,6898.72,1069.1
+ORD-00470,2025-08-25,Western,Kalutara,Panadura,Consumer,Technology,Computers,Wireless Mouse,2,4375.56,0.2,7000.9,276.41
+ORD-00637,2025-08-27,Northern,Mannar,Mannar,Consumer,Furniture,Desks,Writing Desk,2,36012.28,0.0,72024.57,12957.77
+ORD-01158,2025-08-28,Southern,Galle,Matara,Consumer,Office Supplies,Paper,A4 Paper Pack,4,1812.4,0.15,6162.15,1347.18
+ORD-00472,2025-08-28,Southern,Galle,Matara,Small Business,Technology,Computers,Office Laptop,3,199240.68,0.1,537949.84,35573.33
+ORD-01090,2025-08-28,Southern,Hambantota,Galle,Consumer,Technology,Computers,Laptop Pro,3,287743.96,0.1,776908.68,90711.68
+ORD-00414,2025-08-28,Western,Gampaha,Colombo,Consumer,Furniture,Desks,Compact Desk,6,24120.68,0.05,137487.9,22855.52
+ORD-00279,2025-08-28,Northern,Mannar,Kilinochchi,Corporate,Office Supplies,Paper,A4 Paper Pack,5,1847.4,0.15,7851.45,2045.16
+ORD-00922,2025-08-29,Northern,Kilinochchi,Kilinochchi,Consumer,Office Supplies,Writing,Ballpoint Pens,2,433.44,0.0,866.88,126.87
+ORD-01128,2025-08-30,Southern,Matara,Matara,Consumer,Furniture,Desks,Standing Desk,3,73956.13,0.05,210774.97,25096.29
+ORD-00599,2025-08-31,Central,Nuwara Eliya,Kandy,Consumer,Furniture,Storage,Filing Cabinet,1,33378.97,0.15,28372.12,4597.45
+ORD-00397,2025-09-01,Western,Colombo,Colombo,Consumer,Technology,Computers,Wireless Mouse,4,4594.07,0.15,15619.82,3412.58
+ORD-00898,2025-09-01,Eastern,Trincomalee,Ampara,Corporate,Technology,Computers,Laptop Pro,4,296345.82,0.0,1185383.27,197072.07
+ORD-00382,2025-09-02,Southern,Matara,Galle,Corporate,Furniture,Chairs,Ergonomic Chair,3,44588.29,0.1,120388.4,22801.63
+ORD-01081,2025-09-03,Northern,Jaffna,Mannar,Consumer,Technology,Phones,Smartphone X,3,140162.16,0.1,378437.83,23506.18
+ORD-00442,2025-09-03,Western,Kalutara,Negombo,Consumer,Furniture,Storage,Filing Cabinet,3,30041.5,0.15,76605.81,6166.85
+ORD-00984,2025-09-03,Western,Gampaha,Colombo,Consumer,Technology,Phones,Budget Smartphone,3,65801.29,0.0,197403.88,41132.76
+ORD-00372,2025-09-04,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Technology,Phones,Budget Smartphone,1,59971.51,0.0,59971.51,3668.06
+ORD-00583,2025-09-04,Northern,Mannar,Kilinochchi,Small Business,Office Supplies,Organizers,Document Folder,4,532.21,0.05,2022.41,273.56
+ORD-00054,2025-09-04,Central,Matale,Kandy,Consumer,Technology,Accessories,Keyboard,1,6054.94,0.15,5146.7,98.95
+ORD-00854,2025-09-05,Southern,Matara,Matara,Corporate,Technology,Phones,Wireless Earbuds,3,12091.83,0.0,36275.5,8460.97
+ORD-00883,2025-09-05,Central,Matale,Matale,Consumer,Furniture,Chairs,Ergonomic Chair,2,45180.94,0.05,85843.78,12744.71
+ORD-00746,2025-09-05,Western,Colombo,Colombo,Corporate,Office Supplies,Organizers,Desk Organizer,2,2246.67,0.1,4044.0,857.53
+ORD-00292,2025-09-06,Eastern,Ampara,Ampara,Small Business,Furniture,Desks,Standing Desk,1,81737.92,0.15,69477.23,3665.1
+ORD-01077,2025-09-07,Southern,Hambantota,Tangalle,Consumer,Office Supplies,Writing,Highlighter Set,1,928.89,0.05,882.45,195.71
+ORD-00617,2025-09-07,Western,Kalutara,Colombo,Consumer,Technology,Computers,Wireless Mouse,3,4321.76,0.05,12317.03,317.12
+ORD-00387,2025-09-09,Western,Kalutara,Negombo,Consumer,Furniture,Storage,Filing Cabinet,2,33488.25,0.15,56930.02,6424.41
+ORD-01084,2025-09-10,Western,Kalutara,Colombo,Consumer,Office Supplies,Paper,Notebook Set,1,1539.77,0.1,1385.8,195.79
+ORD-00684,2025-09-12,Eastern,Trincomalee,Ampara,Consumer,Furniture,Chairs,Ergonomic Chair,5,38722.29,0.0,193611.45,31722.9
+ORD-00176,2025-09-12,Western,Kalutara,Negombo,Consumer,Office Supplies,Organizers,Desk Organizer,1,2329.33,0.0,2329.33,456.93
+ORD-00082,2025-09-12,Western,Kalutara,Colombo,Consumer,Furniture,Desks,Compact Desk,5,24457.42,0.0,122287.09,28131.68
+ORD-00565,2025-09-12,Central,Kandy,Nuwara Eliya,Small Business,Furniture,Chairs,Ergonomic Chair,6,45036.31,0.0,270217.88,62823.87
+ORD-00295,2025-09-13,Eastern,Trincomalee,Trincomalee,Corporate,Furniture,Desks,Writing Desk,4,38869.8,0.05,147705.22,9968.17
+ORD-00497,2025-09-13,Southern,Matara,Tangalle,Corporate,Furniture,Chairs,Ergonomic Chair,3,39638.73,0.0,118916.18,21342.44
+ORD-00702,2025-09-13,Western,Gampaha,Panadura,Consumer,Technology,Accessories,Laptop Stand,4,7552.77,0.0,30211.06,2033.28
+ORD-00030,2025-09-14,Western,Colombo,Panadura,Consumer,Office Supplies,Writing,Highlighter Set,1,909.99,0.0,909.99,168.96
+ORD-00339,2025-09-15,Southern,Hambantota,Tangalle,Consumer,Furniture,Storage,Bookshelf,1,27499.48,0.0,27499.48,3309.12
+ORD-00764,2025-09-15,Southern,Hambantota,Matara,Corporate,Furniture,Desks,Standing Desk,3,72369.77,0.0,217109.31,56398.3
+ORD-00877,2025-09-16,Western,Kalutara,Panadura,Corporate,Office Supplies,Organizers,Desk Organizer,5,2191.43,0.0,10957.15,2199.82
+ORD-00625,2025-09-16,Eastern,Batticaloa,Batticaloa,Consumer,Office Supplies,Writing,Ballpoint Pens,2,453.79,0.0,907.58,133.08
+ORD-00526,2025-09-16,Eastern,Batticaloa,Batticaloa,Corporate,Technology,Phones,Budget Smartphone,2,65993.2,0.0,131986.39,8189.19
+ORD-00926,2025-09-17,Western,Kalutara,Panadura,Consumer,Office Supplies,Organizers,Desk Organizer,4,2220.94,0.05,8439.57,1342.17
+ORD-00921,2025-09-18,Western,Kalutara,Negombo,Consumer,Technology,Accessories,Laptop Stand,4,7610.8,0.1,27398.86,3643.59
+ORD-01146,2025-09-18,Western,Kalutara,Colombo,Corporate,Technology,Accessories,USB-C Hub,5,9037.19,0.0,45185.96,6308.92
+ORD-00829,2025-09-19,Western,Kalutara,Colombo,Consumer,Furniture,Storage,Storage Box,2,3920.11,0.05,7448.21,604.9
+ORD-00332,2025-09-19,Southern,Matara,Galle,Consumer,Furniture,Storage,Bookshelf,1,28949.29,0.0,28949.29,2525.34
+ORD-00475,2025-09-20,Central,Kandy,Kandy,Corporate,Technology,Accessories,Keyboard,2,6592.55,0.05,12525.84,2655.9
+ORD-00376,2025-09-21,Western,Kalutara,Colombo,Consumer,Office Supplies,Organizers,File Binder,5,823.72,0.1,3706.75,292.46
+ORD-00632,2025-09-21,Central,Matale,Nuwara Eliya,Corporate,Office Supplies,Writing,Ballpoint Pens,3,422.56,0.05,1204.29,106.48
+ORD-00395,2025-09-21,Central,Kandy,Kandy,Consumer,Furniture,Chairs,Ergonomic Chair,2,39210.25,0.05,74499.47,11410.51
+ORD-00821,2025-09-21,Southern,Galle,Matara,Corporate,Technology,Accessories,Keyboard,2,6891.04,0.0,13782.07,1166.65
+ORD-00605,2025-09-23,Eastern,Batticaloa,Ampara,Small Business,Furniture,Chairs,Office Chair,4,24666.79,0.0,98667.17,26627.82
+ORD-00842,2025-09-23,Southern,Hambantota,Tangalle,Consumer,Technology,Accessories,Keyboard,2,6120.74,0.0,12241.48,931.51
+ORD-00023,2025-09-23,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Furniture,Desks,Standing Desk,4,73395.6,0.0,293582.4,77524.47
+ORD-00434,2025-09-24,Northern,Mannar,Jaffna,Consumer,Furniture,Chairs,Office Chair,3,28412.43,0.1,76713.56,18652.79
+ORD-00737,2025-09-25,Eastern,Batticaloa,Ampara,Consumer,Office Supplies,Paper,Sticky Notes,5,675.17,0.1,3038.28,748.47
+ORD-00696,2025-09-25,Western,Colombo,Panadura,Consumer,Technology,Accessories,Keyboard,1,5990.51,0.1,5391.46,374.47
+ORD-00240,2025-09-27,Southern,Galle,Matara,Consumer,Office Supplies,Organizers,Document Folder,3,525.03,0.15,1338.83,247.21
+ORD-01200,2025-09-28,Central,Kandy,Nuwara Eliya,Corporate,Furniture,Storage,Storage Box,5,4345.39,0.0,21726.95,5978.04
+ORD-01029,2025-09-28,Western,Kalutara,Negombo,Corporate,Furniture,Desks,Standing Desk,4,78556.65,0.1,282803.94,20271.92
+ORD-00735,2025-09-28,Eastern,Batticaloa,Ampara,Corporate,Technology,Accessories,Laptop Stand,4,7740.07,0.2,24768.23,1520.03
+ORD-00307,2025-09-29,Western,Gampaha,Panadura,Consumer,Furniture,Desks,Compact Desk,4,23831.99,0.0,95327.96,10839.38
+ORD-00265,2025-09-29,Central,Nuwara Eliya,Matale,Consumer,Furniture,Storage,Filing Cabinet,2,33723.6,0.0,67447.2,7410.67
+ORD-01164,2025-09-29,Western,Colombo,Panadura,Consumer,Technology,Phones,Smartphone X,2,150547.87,0.0,301095.74,24504.1
+ORD-00049,2025-09-29,Eastern,Ampara,Ampara,Consumer,Office Supplies,Paper,Notebook Set,8,1452.32,0.05,11037.65,2295.29
+ORD-00668,2025-09-30,Western,Kalutara,Negombo,Small Business,Furniture,Chairs,Office Chair,6,26295.56,0.0,157773.38,31608.83
+ORD-00948,2025-09-30,Central,Kandy,Kandy,Consumer,Furniture,Storage,Storage Box,3,3883.97,0.0,11651.91,2507.49
+ORD-00731,2025-10-01,Southern,Galle,Tangalle,Corporate,Furniture,Desks,Standing Desk,3,78605.93,0.05,224026.9,30955.69
+ORD-00492,2025-10-01,Central,Kandy,Matale,Consumer,Technology,Accessories,Keyboard,1,6298.74,0.0,6298.74,547.2
+ORD-00580,2025-10-01,Central,Kandy,Matale,Consumer,Furniture,Chairs,Office Chair,1,26076.11,0.1,23468.5,4180.38
+ORD-00284,2025-10-02,Central,Matale,Kandy,Small Business,Technology,Accessories,USB-C Hub,5,8045.58,0.1,36205.1,726.74
+ORD-00819,2025-10-04,Western,Kalutara,Colombo,Consumer,Office Supplies,Paper,Sticky Notes,5,618.96,0.1,2785.33,601.44
+ORD-01186,2025-10-04,Central,Kandy,Kandy,Consumer,Furniture,Chairs,Visitor Chair,2,13483.8,0.0,26967.59,4947.68
+ORD-00391,2025-10-06,Western,Gampaha,Colombo,Small Business,Furniture,Storage,Filing Cabinet,4,34520.31,0.1,124273.1,29263.76
+ORD-00189,2025-10-06,Western,Kalutara,Panadura,Consumer,Office Supplies,Organizers,Desk Organizer,2,2266.49,0.15,3853.04,411.91
+ORD-00363,2025-10-06,Southern,Galle,Galle,Small Business,Technology,Phones,Smartphone X,2,149154.52,0.1,268478.14,22869.55
+ORD-00353,2025-10-07,Central,Matale,Nuwara Eliya,Consumer,Office Supplies,Paper,Notebook Set,1,1407.86,0.0,1407.86,186.36
+ORD-00171,2025-10-07,Western,Kalutara,Colombo,Consumer,Furniture,Desks,Compact Desk,3,25190.17,0.0,75570.52,11105.21
+ORD-01028,2025-10-07,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Technology,Phones,Budget Smartphone,4,62836.21,0.0,251344.85,35646.03
+ORD-00804,2025-10-10,Northern,Jaffna,Kilinochchi,Corporate,Furniture,Desks,Compact Desk,1,22089.9,0.05,20985.41,5515.62
+ORD-00615,2025-10-10,Southern,Matara,Matara,Consumer,Technology,Accessories,Laptop Stand,1,7058.3,0.0,7058.3,596.86
+ORD-00132,2025-10-11,Western,Colombo,Panadura,Small Business,Technology,Computers,Wireless Mouse,1,4217.33,0.0,4217.33,680.28
+ORD-01044,2025-10-12,Northern,Kilinochchi,Kilinochchi,Consumer,Furniture,Chairs,Visitor Chair,2,14048.62,0.05,26692.39,3865.91
+ORD-01043,2025-10-12,Eastern,Batticaloa,Batticaloa,Corporate,Technology,Computers,Wireless Mouse,4,4534.15,0.1,16322.93,1357.26
+ORD-00021,2025-10-13,Eastern,Trincomalee,Batticaloa,Consumer,Technology,Phones,Wireless Earbuds,3,13249.12,0.0,39747.37,3707.29
+ORD-00108,2025-10-14,Northern,Kilinochchi,Kilinochchi,Corporate,Furniture,Chairs,Ergonomic Chair,10,42211.1,0.05,401005.46,48339.47
+ORD-00555,2025-10-14,Eastern,Trincomalee,Ampara,Small Business,Technology,Accessories,USB-C Hub,3,9120.62,0.15,23257.59,4385.24
+ORD-00109,2025-10-15,Eastern,Trincomalee,Ampara,Corporate,Office Supplies,Writing,Marker Set,3,1278.16,0.0,3834.48,775.93
+ORD-00031,2025-10-15,Central,Kandy,Kandy,Small Business,Technology,Accessories,Keyboard,1,6941.84,0.0,6941.84,1461.86
+ORD-00991,2025-10-16,Southern,Hambantota,Matara,Consumer,Technology,Computers,Wireless Mouse,2,4317.64,0.2,6908.22,1314.25
+ORD-00160,2025-10-16,Western,Gampaha,Negombo,Consumer,Office Supplies,Writing,Ballpoint Pens,1,482.84,0.0,482.84,49.97
+ORD-00471,2025-10-16,Western,Gampaha,Colombo,Small Business,Furniture,Storage,Storage Box,2,4299.39,0.0,8598.78,1453.57
+ORD-01130,2025-10-17,Southern,Galle,Galle,Consumer,Office Supplies,Writing,Ballpoint Pens,1,465.08,0.2,372.06,34.52
+ORD-01091,2025-10-17,Southern,Hambantota,Matara,Corporate,Furniture,Chairs,Visitor Chair,3,13788.41,0.1,37228.69,2418.6
+ORD-00695,2025-10-17,Northern,Mannar,Mannar,Consumer,Technology,Accessories,USB-C Hub,2,7843.7,0.0,15687.4,1329.87
+ORD-01042,2025-10-18,Southern,Galle,Tangalle,Consumer,Technology,Computers,Wireless Mouse,5,4611.97,0.1,20753.86,3433.62
+ORD-00549,2025-10-19,Western,Gampaha,Panadura,Consumer,Technology,Accessories,USB-C Hub,8,9058.94,0.0,72471.53,8966.25
+ORD-00369,2025-10-20,Southern,Hambantota,Tangalle,Corporate,Technology,Computers,Wireless Mouse,1,4604.31,0.1,4143.88,570.88
+ORD-00064,2025-10-22,Southern,Matara,Tangalle,Corporate,Office Supplies,Writing,Marker Set,8,1254.14,0.15,8528.19,572.27
+ORD-00598,2025-10-22,Central,Kandy,Matale,Consumer,Furniture,Desks,Writing Desk,3,37465.52,0.0,112396.57,28196.7
+ORD-01021,2025-10-22,Central,Kandy,Kandy,Consumer,Office Supplies,Organizers,Desk Organizer,3,2173.51,0.0,6520.54,707.23
+ORD-01108,2025-10-24,Southern,Hambantota,Galle,Corporate,Office Supplies,Writing,Ballpoint Pens,1,448.59,0.15,381.3,52.39
+ORD-00386,2025-10-26,Eastern,Batticaloa,Ampara,Small Business,Technology,Phones,Wireless Earbuds,4,11980.95,0.0,47923.79,3425.05
+ORD-00385,2025-10-27,Western,Gampaha,Panadura,Consumer,Technology,Accessories,USB-C Hub,2,7932.79,0.0,15865.59,1852.33
+ORD-00698,2025-10-27,Western,Gampaha,Colombo,Corporate,Technology,Computers,Laptop Pro,3,271392.48,0.1,732759.7,118704.16
+ORD-00596,2025-10-28,Central,Kandy,Matale,Corporate,Technology,Phones,Wireless Earbuds,1,12993.45,0.0,12993.45,368.85
+ORD-00636,2025-10-28,Western,Colombo,Panadura,Consumer,Office Supplies,Organizers,Document Folder,2,543.48,0.0,1086.95,66.56
+ORD-00669,2025-10-28,Eastern,Ampara,Trincomalee,Small Business,Furniture,Storage,Storage Box,4,4155.1,0.0,16620.42,2825.04
+ORD-00578,2025-10-29,Central,Kandy,Nuwara Eliya,Small Business,Office Supplies,Writing,Ballpoint Pens,1,443.67,0.1,399.3,46.63
+ORD-00947,2025-10-30,Eastern,Batticaloa,Batticaloa,Consumer,Technology,Phones,Wireless Earbuds,2,12356.39,0.15,21005.86,4010.99
+ORD-00381,2025-10-31,Southern,Matara,Galle,Corporate,Furniture,Chairs,Visitor Chair,2,13710.59,0.0,27421.19,7462.46
+ORD-00326,2025-10-31,Southern,Matara,Tangalle,Small Business,Office Supplies,Organizers,Desk Organizer,8,2187.86,0.0,17502.85,1371.94
+ORD-01027,2025-10-31,Eastern,Ampara,Trincomalee,Consumer,Technology,Phones,Wireless Earbuds,1,12707.95,0.0,12707.95,2413.3
+ORD-00504,2025-10-31,Southern,Matara,Matara,Corporate,Office Supplies,Paper,Sticky Notes,8,688.27,0.0,5506.19,1238.4
+ORD-00876,2025-11-02,Western,Kalutara,Panadura,Small Business,Furniture,Chairs,Office Chair,2,26197.25,0.0,52394.51,9416.13
+ORD-00766,2025-11-02,Eastern,Ampara,Trincomalee,Consumer,Office Supplies,Writing,Marker Set,2,1240.29,0.1,2232.53,299.9
+ORD-00673,2025-11-03,Western,Colombo,Panadura,Consumer,Technology,Phones,Smartphone X,1,147923.68,0.0,147923.68,8037.7
+ORD-00169,2025-11-04,Western,Kalutara,Colombo,Consumer,Office Supplies,Organizers,Desk Organizer,4,2310.69,0.0,9242.78,1116.21
+ORD-00577,2025-11-04,Eastern,Trincomalee,Batticaloa,Consumer,Furniture,Chairs,Ergonomic Chair,3,45352.36,0.0,136057.08,8172.84
+ORD-00287,2025-11-05,Eastern,Ampara,Batticaloa,Consumer,Furniture,Desks,Writing Desk,2,34087.32,0.1,61357.18,13537.6
+ORD-00872,2025-11-07,Central,Matale,Nuwara Eliya,Consumer,Office Supplies,Writing,Highlighter Set,3,964.17,0.0,2892.5,494.39
+ORD-01056,2025-11-07,Eastern,Trincomalee,Ampara,Consumer,Technology,Phones,Smartphone X,5,148490.59,0.05,705330.32,129988.51
+ORD-00358,2025-11-08,Eastern,Ampara,Ampara,Consumer,Office Supplies,Paper,Sticky Notes,1,669.96,0.05,636.47,44.01
+ORD-00138,2025-11-09,Northern,Jaffna,Kilinochchi,Corporate,Office Supplies,Paper,Sticky Notes,4,603.47,0.15,2051.79,263.34
+ORD-00572,2025-11-09,Southern,Matara,Tangalle,Corporate,Office Supplies,Organizers,Document Folder,2,544.98,0.05,1035.46,153.17
+ORD-00542,2025-11-10,Southern,Hambantota,Galle,Consumer,Technology,Computers,Wireless Mouse,5,4785.05,0.05,22728.99,4903.64
+ORD-00234,2025-11-10,Eastern,Batticaloa,Trincomalee,Small Business,Technology,Phones,Budget Smartphone,2,63493.71,0.0,126987.43,14801.09
+ORD-00218,2025-11-10,Central,Nuwara Eliya,Kandy,Consumer,Furniture,Chairs,Ergonomic Chair,8,40379.38,0.05,306883.25,74602.33
+ORD-00749,2025-11-11,Southern,Hambantota,Matara,Corporate,Technology,Computers,Laptop Pro,4,286429.5,0.1,1031146.21,216750.66
+ORD-00037,2025-11-11,Northern,Kilinochchi,Kilinochchi,Consumer,Office Supplies,Organizers,File Binder,3,794.93,0.05,2265.54,207.71
+ORD-00765,2025-11-11,Southern,Matara,Galle,Consumer,Office Supplies,Writing,Highlighter Set,3,882.3,0.0,2646.89,525.04
+ORD-01001,2025-11-11,Southern,Hambantota,Matara,Corporate,Furniture,Chairs,Ergonomic Chair,3,39891.01,0.1,107705.73,6905.39
+ORD-00306,2025-11-11,Southern,Matara,Matara,Consumer,Technology,Computers,Office Laptop,10,191228.7,0.05,1816672.67,421358.12
+ORD-00521,2025-11-13,Northern,Kilinochchi,Jaffna,Corporate,Furniture,Desks,Compact Desk,3,25087.06,0.05,71498.12,14732.12
+ORD-00392,2025-11-14,Northern,Mannar,Kilinochchi,Consumer,Office Supplies,Organizers,File Binder,3,852.03,0.15,2172.68,297.44
+ORD-00380,2025-11-14,Western,Kalutara,Colombo,Consumer,Technology,Computers,Office Laptop,1,187090.05,0.0,187090.05,13970.25
+ORD-00139,2025-11-14,Eastern,Trincomalee,Ampara,Corporate,Technology,Computers,Laptop Pro,1,296101.77,0.15,251686.51,29248.95
+ORD-00152,2025-11-15,Eastern,Ampara,Trincomalee,Small Business,Furniture,Chairs,Office Chair,2,24588.26,0.0,49176.52,3635.73
+ORD-01064,2025-11-15,Western,Gampaha,Negombo,Corporate,Office Supplies,Organizers,Document Folder,4,531.04,0.0,2124.16,570.12
+ORD-00222,2025-11-15,Northern,Mannar,Kilinochchi,Corporate,Office Supplies,Paper,Sticky Notes,4,672.21,0.2,2151.08,239.07
+ORD-00121,2025-11-15,Central,Kandy,Nuwara Eliya,Consumer,Office Supplies,Organizers,File Binder,4,890.99,0.05,3385.76,848.02
+ORD-00908,2025-11-15,Southern,Hambantota,Tangalle,Corporate,Office Supplies,Paper,A4 Paper Pack,1,1851.71,0.0,1851.71,131.18
+ORD-01113,2025-11-15,Southern,Galle,Matara,Small Business,Technology,Accessories,Laptop Stand,3,7216.72,0.0,21650.15,2449.66
+ORD-01039,2025-11-16,Central,Kandy,Kandy,Consumer,Office Supplies,Organizers,Desk Organizer,5,2082.49,0.15,8850.59,457.36
+ORD-00797,2025-11-16,Western,Colombo,Negombo,Corporate,Technology,Accessories,Laptop Stand,6,7749.12,0.05,44170.01,10070.01
+ORD-00959,2025-11-18,Central,Kandy,Matale,Consumer,Furniture,Desks,Compact Desk,2,25194.91,0.0,50389.82,13934.61
+ORD-00461,2025-11-18,Western,Kalutara,Colombo,Consumer,Furniture,Chairs,Ergonomic Chair,4,39952.02,0.15,135836.88,6488.39
+ORD-00348,2025-11-19,Central,Nuwara Eliya,Nuwara Eliya,Consumer,Technology,Computers,Laptop Pro,2,307773.05,0.1,553991.48,12974.5
+ORD-00641,2025-11-19,Western,Colombo,Colombo,Corporate,Furniture,Desks,Standing Desk,3,74774.03,0.0,224322.08,49447.99
+ORD-00616,2025-11-19,Southern,Matara,Galle,Consumer,Office Supplies,Writing,Highlighter Set,1,993.37,0.2,794.7,179.6
+ORD-00089,2025-11-20,Northern,Mannar,Mannar,Corporate,Technology,Accessories,Keyboard,3,6404.28,0.0,19212.84,4240.74
+ORD-00330,2025-11-21,Southern,Galle,Galle,Consumer,Furniture,Chairs,Visitor Chair,6,13568.09,0.0,81408.57,17804.15
+ORD-01093,2025-11-22,Northern,Mannar,Mannar,Consumer,Furniture,Desks,Standing Desk,4,79426.43,0.0,317705.73,76167.58
+ORD-00259,2025-11-23,Northern,Jaffna,Kilinochchi,Corporate,Office Supplies,Organizers,Document Folder,1,530.04,0.05,503.54,123.9
+ORD-00209,2025-11-23,Central,Matale,Nuwara Eliya,Consumer,Office Supplies,Paper,A4 Paper Pack,5,1725.61,0.05,8196.65,2113.65
+ORD-00343,2025-11-24,Central,Kandy,Nuwara Eliya,Consumer,Furniture,Desks,Standing Desk,5,73025.91,0.0,365129.55,67318.8
+ORD-00663,2025-11-24,Eastern,Ampara,Trincomalee,Consumer,Office Supplies,Organizers,File Binder,5,891.41,0.05,4234.2,488.41
+ORD-00830,2025-11-24,Southern,Galle,Galle,Consumer,Office Supplies,Organizers,Document Folder,1,534.99,0.1,481.49,29.45
+ORD-00597,2025-11-24,Central,Kandy,Kandy,Small Business,Technology,Accessories,Laptop Stand,4,7582.79,0.05,28814.6,6055.3
+ORD-00930,2025-11-25,Northern,Kilinochchi,Kilinochchi,Consumer,Technology,Accessories,Laptop Stand,3,6727.91,0.05,19174.53,2009.95
+ORD-00458,2025-11-25,Southern,Galle,Galle,Corporate,Office Supplies,Paper,Notebook Set,5,1504.7,0.1,6771.15,597.48
+ORD-00264,2025-11-25,Central,Nuwara Eliya,Kandy,Corporate,Furniture,Chairs,Visitor Chair,2,13463.71,0.15,22888.31,5679.82
+ORD-00531,2025-11-26,Western,Gampaha,Panadura,Consumer,Technology,Computers,Wireless Mouse,1,4367.69,0.0,4367.69,345.36
+ORD-00927,2025-11-26,Southern,Galle,Galle,Consumer,Technology,Phones,Smartphone X,2,151540.76,0.05,287927.44,6968.27
+ORD-00754,2025-11-28,Northern,Mannar,Jaffna,Consumer,Office Supplies,Organizers,File Binder,1,861.74,0.0,861.74,159.9
+ORD-00631,2025-11-28,Central,Matale,Kandy,Consumer,Technology,Computers,Wireless Mouse,4,4833.63,0.15,16434.35,2183.0
+ORD-00758,2025-11-29,Southern,Galle,Galle,Consumer,Office Supplies,Writing,Ballpoint Pens,6,464.75,0.1,2509.63,327.12
+ORD-00639,2025-11-29,Central,Kandy,Kandy,Consumer,Technology,Accessories,USB-C Hub,2,8212.77,0.0,16425.54,3730.06
+ORD-01062,2025-11-30,Central,Kandy,Nuwara Eliya,Corporate,Technology,Phones,Smartphone X,5,149569.72,0.1,673063.72,32810.5
+ORD-00779,2025-11-30,Western,Colombo,Colombo,Consumer,Office Supplies,Organizers,File Binder,2,917.98,0.1,1652.37,274.65
+ORD-01110,2025-11-30,Southern,Hambantota,Galle,Small Business,Furniture,Storage,Filing Cabinet,3,30260.6,0.1,81703.63,8292.16
+ORD-00832,2025-12-01,Southern,Matara,Matara,Consumer,Technology,Computers,Wireless Mouse,2,4589.01,0.15,7801.32,1191.97
+ORD-00056,2025-12-01,Southern,Hambantota,Tangalle,Small Business,Technology,Phones,Budget Smartphone,4,63034.0,0.1,226922.4,38165.94
+ORD-00090,2025-12-03,Central,Kandy,Kandy,Consumer,Technology,Accessories,Keyboard,1,6873.34,0.15,5842.34,313.57
+ORD-00073,2025-12-04,Southern,Hambantota,Matara,Consumer,Furniture,Storage,Storage Box,2,4466.78,0.0,8933.56,1175.44
+ORD-01004,2025-12-04,Western,Gampaha,Negombo,Consumer,Furniture,Desks,Writing Desk,6,35163.98,0.15,179336.29,16836.41
+ORD-00027,2025-12-04,Central,Kandy,Matale,Consumer,Furniture,Chairs,Office Chair,2,25383.45,0.1,45690.21,10401.15
+ORD-00799,2025-12-05,Northern,Kilinochchi,Jaffna,Consumer,Office Supplies,Writing,Marker Set,10,1222.65,0.0,12226.53,1731.86
+ORD-00315,2025-12-05,Southern,Galle,Galle,Consumer,Technology,Computers,Laptop Pro,3,298263.45,0.1,805311.31,65310.4
+ORD-00945,2025-12-05,Eastern,Trincomalee,Ampara,Consumer,Office Supplies,Organizers,Document Folder,2,512.88,0.0,1025.76,268.9
+ORD-00933,2025-12-05,Southern,Matara,Galle,Consumer,Office Supplies,Paper,Sticky Notes,2,638.29,0.15,1085.1,187.84
+ORD-00357,2025-12-06,Eastern,Ampara,Ampara,Small Business,Technology,Computers,Wireless Mouse,2,4333.33,0.0,8666.66,1548.73
+ORD-00428,2025-12-07,Eastern,Trincomalee,Batticaloa,Corporate,Office Supplies,Writing,Marker Set,1,1216.54,0.0,1216.54,284.2
+ORD-00694,2025-12-07,Central,Nuwara Eliya,Nuwara Eliya,Small Business,Technology,Phones,Smartphone X,3,139296.33,0.1,376100.1,40865.62
+ORD-01171,2025-12-07,Central,Matale,Kandy,Small Business,Technology,Phones,Budget Smartphone,3,66834.23,0.0,200502.69,47114.67
+ORD-00263,2025-12-07,Southern,Hambantota,Tangalle,Small Business,Technology,Phones,Smartphone X,3,146212.27,0.0,438636.82,90043.0
+ORD-00083,2025-12-08,Northern,Jaffna,Jaffna,Small Business,Office Supplies,Writing,Marker Set,2,1260.13,0.0,2520.25,594.34
+ORD-00230,2025-12-09,Central,Matale,Matale,Corporate,Technology,Accessories,Laptop Stand,8,7589.53,0.0,60716.27,8550.14
+ORD-00939,2025-12-10,Central,Kandy,Matale,Consumer,Technology,Accessories,Keyboard,2,6882.23,0.1,12388.01,1279.2
+ORD-00051,2025-12-11,Western,Gampaha,Negombo,Consumer,Furniture,Desks,Writing Desk,2,36508.64,0.0,73017.29,4960.3
+ORD-00150,2025-12-11,Southern,Hambantota,Matara,Corporate,Office Supplies,Writing,Ballpoint Pens,3,446.86,0.0,1340.58,187.08
+ORD-00998,2025-12-13,Western,Colombo,Panadura,Consumer,Technology,Phones,Smartphone X,4,140858.7,0.1,507091.33,114379.45
+ORD-01160,2025-12-13,Northern,Jaffna,Mannar,Corporate,Technology,Accessories,Laptop Stand,3,7088.84,0.0,21266.53,3742.2
+ORD-00730,2025-12-13,Western,Kalutara,Negombo,Consumer,Technology,Accessories,USB-C Hub,4,8600.51,0.1,30961.83,4788.89
+ORD-01183,2025-12-14,Northern,Jaffna,Jaffna,Corporate,Office Supplies,Writing,Ballpoint Pens,3,445.6,0.1,1203.11,253.58
+ORD-00999,2025-12-14,Central,Nuwara Eliya,Nuwara Eliya,Corporate,Furniture,Desks,Compact Desk,3,25752.59,0.15,65669.09,8488.91
+ORD-00255,2025-12-14,Central,Nuwara Eliya,Matale,Consumer,Technology,Computers,Laptop Pro,6,267847.27,0.0,1607083.63,310762.84
+ORD-00120,2025-12-14,Central,Matale,Kandy,Consumer,Office Supplies,Paper,A4 Paper Pack,3,1778.34,0.0,5335.01,1109.14
+ORD-01054,2025-12-16,Western,Gampaha,Negombo,Consumer,Technology,Phones,Smartphone X,2,150222.65,0.05,285423.04,8181.42
+ORD-00987,2025-12-16,Northern,Mannar,Mannar,Corporate,Office Supplies,Paper,Sticky Notes,8,657.66,0.0,5261.28,1471.72
+ORD-00653,2025-12-16,Western,Colombo,Negombo,Small Business,Office Supplies,Writing,Ballpoint Pens,3,449.88,0.05,1282.16,121.7
+ORD-00134,2025-12-16,Southern,Matara,Tangalle,Consumer,Technology,Accessories,Laptop Stand,3,7742.46,0.0,23227.38,2612.05
+ORD-00533,2025-12-16,Northern,Kilinochchi,Jaffna,Consumer,Furniture,Storage,Filing Cabinet,1,30265.3,0.0,30265.3,2780.81
+ORD-00522,2025-12-17,Western,Gampaha,Colombo,Consumer,Technology,Accessories,Laptop Stand,2,7613.19,0.0,15226.38,1589.61
+ORD-00850,2025-12-17,Western,Gampaha,Negombo,Consumer,Technology,Computers,Laptop Pro,3,272555.2,0.0,817665.61,197574.72
+ORD-00798,2025-12-18,Western,Colombo,Colombo,Small Business,Technology,Computers,Wireless Mouse,1,4153.06,0.0,4153.06,340.05
+ORD-00135,2025-12-18,Southern,Matara,Galle,Small Business,Technology,Phones,Smartphone X,3,141721.21,0.0,425163.63,50991.65
+ORD-00447,2025-12-18,Eastern,Ampara,Ampara,Consumer,Furniture,Desks,Compact Desk,3,24837.14,0.0,74511.43,18477.92
+ORD-01012,2025-12-18,Eastern,Ampara,Ampara,Consumer,Furniture,Desks,Writing Desk,8,37122.77,0.05,282133.05,29785.36
+ORD-01037,2025-12-20,Western,Kalutara,Negombo,Consumer,Technology,Computers,Office Laptop,2,180527.58,0.0,361055.16,64485.22
+ORD-00320,2025-12-21,Western,Colombo,Negombo,Corporate,Technology,Phones,Smartphone X,3,133515.65,0.0,400546.95,66017.78
+ORD-00743,2025-12-22,Western,Kalutara,Panadura,Consumer,Technology,Computers,Office Laptop,2,206130.0,0.0,412260.0,63275.66
+ORD-00787,2025-12-23,Western,Kalutara,Panadura,Consumer,Furniture,Desks,Standing Desk,3,76593.59,0.05,218291.72,34846.2
+ORD-01167,2025-12-24,Central,Kandy,Kandy,Consumer,Office Supplies,Paper,Notebook Set,4,1454.72,0.2,4655.1,917.0
+ORD-00289,2025-12-24,Western,Colombo,Negombo,Small Business,Furniture,Chairs,Office Chair,1,27622.8,0.0,27622.8,6414.22
+ORD-00651,2025-12-26,Eastern,Ampara,Trincomalee,Consumer,Technology,Accessories,Keyboard,3,6823.84,0.1,18424.36,1043.79
+ORD-00808,2025-12-26,Central,Nuwara Eliya,Matale,Consumer,Furniture,Desks,Writing Desk,6,35433.05,0.0,212598.29,37479.47
+ORD-00452,2025-12-27,Western,Kalutara,Panadura,Corporate,Technology,Accessories,Keyboard,1,6047.89,0.0,6047.89,936.07
+ORD-00954,2025-12-28,Northern,Mannar,Kilinochchi,Consumer,Furniture,Storage,Bookshelf,5,30127.97,0.15,128043.87,18847.71
+ORD-00757,2025-12-28,Southern,Matara,Matara,Consumer,Technology,Phones,Budget Smartphone,1,66651.94,0.05,63319.34,4976.26
+ORD-00997,2025-12-28,Western,Colombo,Colombo,Corporate,Office Supplies,Paper,A4 Paper Pack,3,1721.05,0.1,4646.82,322.22
+ORD-01097,2025-12-28,Western,Kalutara,Negombo,Consumer,Technology,Computers,Wireless Mouse,1,4662.19,0.0,4662.19,309.19
+ORD-00566,2025-12-29,Northern,Jaffna,Jaffna,Consumer,Technology,Phones,Budget Smartphone,3,66562.21,0.1,179717.96,12443.33
+ORD-00009,2025-12-29,Western,Gampaha,Negombo,Consumer,Furniture,Desks,Compact Desk,5,22721.18,0.0,113605.88,9066.95
+ORD-00759,2025-12-30,Western,Kalutara,Colombo,Consumer,Office Supplies,Organizers,Document Folder,1,521.28,0.05,495.22,82.77
+ORD-00453,2025-12-30,Northern,Kilinochchi,Kilinochchi,Corporate,Furniture,Chairs,Office Chair,3,27406.77,0.2,65776.25,7437.03
+ORD-00374,2025-12-30,Western,Colombo,Negombo,Consumer,Furniture,Desks,Compact Desk,5,25396.54,0.05,120633.56,15644.75
+ORD-00308,2025-12-31,Northern,Jaffna,Mannar,Consumer,Furniture,Chairs,Visitor Chair,1,14904.01,0.0,14904.01,2828.09
